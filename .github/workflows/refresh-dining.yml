@@ -1,0 +1,29 @@
+name: Refresh dining export
+# Runs nightly and on demand. Pulls the restaurant list from Supabase and
+# commits dining.json + dining.md so chats can read them.
+on:
+  schedule:
+    - cron: '0 18 * * *'      # 18:00 UTC = 02:00 SGT, nightly
+  workflow_dispatch: {}        # manual "Run workflow" button — use this for the FIRST run
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Export dining list from Supabase
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
+        run: node export-dining.mjs
+      - name: Commit if changed
+        run: |
+          git config user.name "dining-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add dining.json dining.md
+          git diff --staged --quiet || git commit -m "Dining refresh $(date -u +%Y-%m-%d)"
+          git push
