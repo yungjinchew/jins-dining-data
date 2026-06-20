@@ -1,6 +1,6 @@
 # Jin's Dining List — snapshot 2026-06-20
 
-_Auto-exported from Supabase, refreshed nightly. 415 visited · 94 to try · 8.1 avg · 585 total._
+_Auto-exported from Supabase, refreshed nightly. 416 visited · 92 to try · 8.1 avg · 584 total._
 
 Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · ♥ = would return / favourite · [closed] = permanently closed.
 
@@ -179,6 +179,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Labyrinth** ★ — Mod Singaporean — 7.5
 - **Maggie Joan's** — Mediterranean — 7.5
 - **Mensho X** — Ramen — 7.5
+- **Miznon** — Israeli — 7.5
 - **Ninja Bowl** — Asian Fusion — 7.5
 - **Pamplemousse** — Western Fusion — 7.5
 - **Pistachio Mediterranean Grill** — Mediterranean — 7.5
@@ -777,7 +778,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 
 - **Restaurante Palomeque** — Tapas — 8.5
 
-## Want to try (94)
+## Want to try (92)
 
 ### Singapore
 
@@ -829,10 +830,8 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Mare Hachikyo** — Japanese Hokkaido
 - **Meadesmoore** — Steakhouse
 - **Mimoto** — Izakaya
-- **Miznon** — Israeli
 - **Noa Lounge** — Mediterranean
 - **Omakase at Stevens** ★ — Japanese
-- **Osteria BBR by Alain Ducasse** — Italian
 - **Pasta J** — Pasta/Steak
 - **PERA Turkish Grill** — Turkish
 - **Permata Singapore** — Malay

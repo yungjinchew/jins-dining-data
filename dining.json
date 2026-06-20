@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-20T03:34:39.905Z",
+  "generated_at": "2026-06-20T21:57:12.255Z",
   "source": "Supabase (restaurants)",
   "summary": {
-    "visited": 415,
-    "want_to_try": 94,
+    "visited": 416,
+    "want_to_try": 92,
     "avg_rating": 8.1,
-    "total": 585
+    "total": 584
   },
   "restaurants": [
     {
@@ -1491,21 +1491,6 @@
       "michelin_verified": true,
       "google_rating": 4.2,
       "price_level": 3,
-      "favourite": false
-    },
-    {
-      "name": "Osteria BBR by Alain Ducasse",
-      "cuisine": "Italian",
-      "country": "Singapore",
-      "city": "Singapore",
-      "area": "Orchard",
-      "rating": null,
-      "status": "want-to-try",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 4.2,
-      "price_level": null,
       "favourite": false
     },
     {
@@ -7239,21 +7224,6 @@
       "favourite": false
     },
     {
-      "name": "Miznon",
-      "cuisine": "Israeli",
-      "country": "Singapore",
-      "city": "Singapore",
-      "area": "CBD",
-      "rating": null,
-      "status": "want-to-try",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 4.4,
-      "price_level": 2,
-      "favourite": false
-    },
-    {
       "name": "Nice Cream (勤美店)",
       "cuisine": "Ice Cream / Dessert",
       "country": "Taiwan",
@@ -7281,6 +7251,21 @@
       "michelin_verified": false,
       "google_rating": 4.5,
       "price_level": null,
+      "favourite": false
+    },
+    {
+      "name": "Miznon",
+      "cuisine": "Israeli",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "CBD",
+      "rating": 7.5,
+      "status": "visited",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.4,
+      "price_level": 2,
       "favourite": false
     },
     {
