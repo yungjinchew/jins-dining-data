@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-22T23:06:21.810Z",
+  "generated_at": "2026-06-23T22:48:12.993Z",
   "source": "Supabase (restaurants)",
   "summary": {
     "visited": 416,
-    "want_to_try": 92,
+    "want_to_try": 94,
     "avg_rating": 8.1,
-    "total": 584
+    "total": 586
   },
   "restaurants": [
     {
@@ -7404,6 +7404,21 @@
       "favourite": false
     },
     {
+      "name": "Fu Yuan Teochew Dining Greenwood",
+      "cuisine": "Chinese",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Bukit Timah",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.9,
+      "price_level": null,
+      "favourite": false
+    },
+    {
       "name": "Sabor",
       "cuisine": "Spanish",
       "country": "Singapore",
@@ -7506,6 +7521,21 @@
       "michelin_verified": false,
       "google_rating": 4.5,
       "price_level": 4,
+      "favourite": false
+    },
+    {
+      "name": "Hikiniku To Come (VivoCity)",
+      "cuisine": "Japanese",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Bukit Merah",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.7,
+      "price_level": null,
       "favourite": false
     },
     {

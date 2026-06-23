@@ -1,6 +1,6 @@
-# Jin's Dining List — snapshot 2026-06-22
+# Jin's Dining List — snapshot 2026-06-23
 
-_Auto-exported from Supabase, refreshed nightly. 416 visited · 92 to try · 8.1 avg · 584 total._
+_Auto-exported from Supabase, refreshed nightly. 416 visited · 94 to try · 8.1 avg · 586 total._
 
 Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · ♥ = would return / favourite · [closed] = permanently closed.
 
@@ -778,7 +778,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 
 - **Restaurante Palomeque** — Tapas — 8.5
 
-## Want to try (92)
+## Want to try (94)
 
 ### Singapore
 
@@ -802,11 +802,13 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Cure** — Modern European
 - **Dusk Restaurant** — European
 - **Fleurette** — Modern European
+- **Fu Yuan Teochew Dining Greenwood** — Chinese
 - **Gai Inn Izakaya** — Japanese
 - **Gaston** — French Burgundian
 - **Guccio** — Italian
 - **Hamamoto** ★ — Japanese
 - **Hazuki** — Japanese
+- **Hikiniku To Come (VivoCity)** — Japanese
 - **Hjh Maimunah** — Nasi Padang
 - **Humpback** — Seafood
 - **iL Cielo** — Italian
