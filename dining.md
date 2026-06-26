@@ -1,6 +1,6 @@
-# Jin's Dining List — snapshot 2026-06-25
+# Jin's Dining List — snapshot 2026-06-26
 
-_Auto-exported from Supabase, refreshed nightly. 416 visited · 94 to try · 8.1 avg · 586 total._
+_Auto-exported from Supabase, refreshed nightly. 417 visited · 94 to try · 8.1 avg · 587 total._
 
 Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · ♥ = would return / favourite · [closed] = permanently closed.
 
@@ -485,6 +485,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 
 - **Keng Eng Kee Seafood** — Zi Char — 8
 - **Bukit Merah View Carrot Cake** — Carrot Cake — 7.5
+- **Waa cow! Vivocity** — Japanese — 7.5
 - **Fatty Cheong** — Char Siew — 7
 
 ### Capitol

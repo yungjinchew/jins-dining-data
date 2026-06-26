@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-25T23:02:10.421Z",
+  "generated_at": "2026-06-26T21:57:26.421Z",
   "source": "Supabase (restaurants)",
   "summary": {
-    "visited": 416,
+    "visited": 417,
     "want_to_try": 94,
     "avg_rating": 8.1,
-    "total": 586
+    "total": 587
   },
   "restaurants": [
     {
@@ -7640,6 +7640,21 @@
       "michelin_stars": 0,
       "michelin_verified": false,
       "google_rating": 4.1,
+      "price_level": null,
+      "favourite": false
+    },
+    {
+      "name": "Waa cow! Vivocity",
+      "cuisine": "Japanese",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Bukit Merah",
+      "rating": 7.5,
+      "status": "visited",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.8,
       "price_level": null,
       "favourite": false
     },
