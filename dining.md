@@ -1,6 +1,6 @@
-# Jin's Dining List — snapshot 2026-06-27
+# Jin's Dining List — snapshot 2026-06-28
 
-_Auto-exported from Supabase, refreshed nightly. 417 visited · 94 to try · 8.1 avg · 587 total._
+_Auto-exported from Supabase, refreshed nightly. 417 visited · 95 to try · 8.1 avg · 588 total._
 
 Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · ♥ = would return / favourite · [closed] = permanently closed.
 
@@ -779,7 +779,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 
 - **Restaurante Palomeque** — Tapas — 8.5
 
-## Want to try (94)
+## Want to try (95)
 
 ### Singapore
 
@@ -787,6 +787,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **1887 by Andre** — French
 - **27 Degrees West** — Indian
 - **Ayasofya** — Turkish
+- **Bar kap** — Bar
 - **Belimbing** — Singaporean
 - **Bonding Kitchen** — Peranakan
 - **Bouillon Gavroche** — French
