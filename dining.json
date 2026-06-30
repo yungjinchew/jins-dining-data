@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-29T22:18:43.026Z",
+  "generated_at": "2026-06-30T22:53:25.589Z",
   "source": "Supabase (restaurants)",
   "summary": {
     "visited": 417,
-    "want_to_try": 95,
+    "want_to_try": 96,
     "avg_rating": 8.1,
-    "total": 588
+    "total": 589
   },
   "restaurants": [
     {
@@ -8826,6 +8826,21 @@
       "michelin_verified": true,
       "google_rating": 3.3,
       "price_level": 1,
+      "favourite": false
+    },
+    {
+      "name": "Coco dining ho chi minh",
+      "cuisine": "",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.6,
+      "price_level": null,
       "favourite": false
     }
   ]

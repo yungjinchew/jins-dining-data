@@ -1,6 +1,6 @@
-# Jin's Dining List — snapshot 2026-06-29
+# Jin's Dining List — snapshot 2026-06-30
 
-_Auto-exported from Supabase, refreshed nightly. 417 visited · 95 to try · 8.1 avg · 588 total._
+_Auto-exported from Supabase, refreshed nightly. 417 visited · 96 to try · 8.1 avg · 589 total._
 
 Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · ♥ = would return / favourite · [closed] = permanently closed.
 
@@ -779,7 +779,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 
 - **Restaurante Palomeque** — Tapas — 8.5
 
-## Want to try (95)
+## Want to try (96)
 
 ### Singapore
 
@@ -800,6 +800,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Chooby Pizza** — Pizza
 - **Cloudstreet** ★★ — Modern European
 - **Club Rangoon** — Burmese
+- **Coco dining ho chi minh** — 
 - **Cudo** — Latin American
 - **Cure** — Modern European
 - **Dusk Restaurant** — European
