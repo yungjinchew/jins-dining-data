@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-01T22:49:21.876Z",
+  "generated_at": "2026-07-02T21:53:58.258Z",
   "source": "Supabase (restaurants)",
   "summary": {
     "visited": 417,
-    "want_to_try": 96,
+    "want_to_try": 100,
     "avg_rating": 8.1,
-    "total": 589
+    "total": 593
   },
   "restaurants": [
     {
@@ -144,6 +144,21 @@
       "favourite": false
     },
     {
+      "name": "Rolls Izakaya",
+      "cuisine": "Japanese",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Outram",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.9,
+      "price_level": null,
+      "favourite": false
+    },
+    {
       "name": "Bacchanalia",
       "cuisine": "Modern European",
       "country": "Singapore",
@@ -216,6 +231,21 @@
       "michelin_verified": false,
       "google_rating": 4.6,
       "price_level": 2,
+      "favourite": false
+    },
+    {
+      "name": "Il Clay",
+      "cuisine": "Italian",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Singapore River",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.4,
+      "price_level": null,
       "favourite": false
     },
     {
@@ -489,6 +519,21 @@
       "favourite": false
     },
     {
+      "name": "Sushidan",
+      "cuisine": "Sushi",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Downtown Core",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.6,
+      "price_level": null,
+      "favourite": false
+    },
+    {
       "name": "Muchachos",
       "cuisine": "Mexican",
       "country": "Singapore",
@@ -545,6 +590,21 @@
       "michelin_stars": 0,
       "michelin_verified": true,
       "google_rating": 4.8,
+      "price_level": null,
+      "favourite": false
+    },
+    {
+      "name": "SAMSAMSAM Samgyetang Specialty Korean Restaurant | Novena Square",
+      "cuisine": "Korean",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Novena",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.6,
       "price_level": null,
       "favourite": false
     },

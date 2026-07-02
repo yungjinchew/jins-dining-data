@@ -1,6 +1,6 @@
-# Jin's Dining List — snapshot 2026-07-01
+# Jin's Dining List — snapshot 2026-07-02
 
-_Auto-exported from Supabase, refreshed nightly. 417 visited · 96 to try · 8.1 avg · 589 total._
+_Auto-exported from Supabase, refreshed nightly. 417 visited · 100 to try · 8.1 avg · 593 total._
 
 Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · ♥ = would return / favourite · [closed] = permanently closed.
 
@@ -779,7 +779,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 
 - **Restaurante Palomeque** — Tapas — 8.5
 
-## Want to try (96)
+## Want to try (100)
 
 ### Singapore
 
@@ -815,6 +815,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Hjh Maimunah** — Nasi Padang
 - **Humpback** — Seafood
 - **iL Cielo** — Italian
+- **Il Clay** — Italian
 - **IL Giardino** — Italian
 - **Kakushin** — Japanese Omakase
 - **Katsuya** — Tonkatsu
@@ -847,9 +848,11 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Restaurant Born** ★ — French Chinese
 - **Riviera** — Mediterranean
 - **Robata Hikari** — Japanese
+- **Rolls Izakaya** — Japanese
 - **Ronin** — Brunch
 - **Sabor** — Spanish
 - **Salt & Soul** — European
+- **SAMSAMSAM Samgyetang Specialty Korean Restaurant | Novena Square** — Korean
 - **Scarpetta** — Pasta Bar
 - **Seoul & So** — Korean
 - **Shabestan** — Persian/Iranian
@@ -858,6 +861,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Spago** — Californian
 - **Steak Sudaku** — Japanese Steak
 - **Supernova** — Cafe
+- **Sushidan** — Sushi
 - **Suzuki** — Japanese Kaiseki
 - **Table65** — Modern European
 - **Tajin** — Middle Eastern
