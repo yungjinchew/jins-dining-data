@@ -1,6 +1,6 @@
-# Jin's Dining List — snapshot 2026-07-02
+# Jin's Dining List — snapshot 2026-07-03
 
-_Auto-exported from Supabase, refreshed nightly. 417 visited · 100 to try · 8.1 avg · 593 total._
+_Auto-exported from Supabase, refreshed nightly. 417 visited · 101 to try · 8.1 avg · 594 total._
 
 Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · ♥ = would return / favourite · [closed] = permanently closed.
 
@@ -779,7 +779,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 
 - **Restaurante Palomeque** — Tapas — 8.5
 
-## Want to try (100)
+## Want to try (101)
 
 ### Singapore
 
@@ -814,6 +814,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Hikiniku To Come (VivoCity)** — Japanese
 - **Hjh Maimunah** — Nasi Padang
 - **Humpback** — Seafood
+- **Ichigo Ichie 一期一江** — Japanese
 - **iL Cielo** — Italian
 - **Il Clay** — Italian
 - **IL Giardino** — Italian

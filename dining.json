@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-02T21:53:58.258Z",
+  "generated_at": "2026-07-03T21:45:45.934Z",
   "source": "Supabase (restaurants)",
   "summary": {
     "visited": 417,
-    "want_to_try": 100,
+    "want_to_try": 101,
     "avg_rating": 8.1,
-    "total": 593
+    "total": 594
   },
   "restaurants": [
     {
@@ -785,6 +785,21 @@
       "michelin_stars": 0,
       "michelin_verified": false,
       "google_rating": null,
+      "price_level": null,
+      "favourite": false
+    },
+    {
+      "name": "Ichigo Ichie 一期一江",
+      "cuisine": "Japanese",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Orchard",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.7,
       "price_level": null,
       "favourite": false
     },
