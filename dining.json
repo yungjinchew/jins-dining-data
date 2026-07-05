@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-04T21:16:15.158Z",
+  "generated_at": "2026-07-05T21:37:41.956Z",
   "source": "Supabase (restaurants)",
   "summary": {
-    "visited": 417,
-    "want_to_try": 101,
+    "visited": 419,
+    "want_to_try": 100,
     "avg_rating": 8.1,
     "total": 594
   },
@@ -7779,21 +7779,6 @@
       "favourite": false
     },
     {
-      "name": "Tonkatsu Daiki",
-      "cuisine": "Japanese Tonkatsu",
-      "country": "Singapore",
-      "city": "Singapore",
-      "area": "Orchard",
-      "rating": null,
-      "status": "want-to-try",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 4.7,
-      "price_level": null,
-      "favourite": false
-    },
-    {
       "name": "Towa",
       "cuisine": "Izakaya/Teppanyaki",
       "country": "Singapore",
@@ -7839,17 +7824,17 @@
       "favourite": false
     },
     {
-      "name": "Vender Bar",
-      "cuisine": "Bar / Cocktails",
-      "country": "Taiwan",
-      "city": "Taichung",
-      "area": "",
-      "rating": null,
-      "status": "active",
+      "name": "Tonkatsu Daiki",
+      "cuisine": "Japanese Tonkatsu",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Orchard",
+      "rating": 7.5,
+      "status": "visited",
       "michelin_type": null,
       "michelin_stars": 0,
       "michelin_verified": false,
-      "google_rating": 4.6,
+      "google_rating": 4.7,
       "price_level": null,
       "favourite": false
     },
@@ -7940,6 +7925,21 @@
       "michelin_stars": 0,
       "michelin_verified": false,
       "google_rating": 4.5,
+      "price_level": null,
+      "favourite": false
+    },
+    {
+      "name": "Vender Bar",
+      "cuisine": "Bar / Cocktails",
+      "country": "Taiwan",
+      "city": "Taichung",
+      "area": "",
+      "rating": 9.5,
+      "status": "visited",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.6,
       "price_level": null,
       "favourite": false
     },

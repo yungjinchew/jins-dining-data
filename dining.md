@@ -1,6 +1,6 @@
-# Jin's Dining List — snapshot 2026-07-04
+# Jin's Dining List — snapshot 2026-07-05
 
-_Auto-exported from Supabase, refreshed nightly. 417 visited · 101 to try · 8.1 avg · 594 total._
+_Auto-exported from Supabase, refreshed nightly. 419 visited · 100 to try · 8.1 avg · 594 total._
 
 Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · ♥ = would return / favourite · [closed] = permanently closed.
 
@@ -95,6 +95,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Cafe Quenino** — Contemporary Asian — 7.5
 - **Nambantei** — Japanese Yakitori — 7.5
 - **Tanuki Raw** — Japanese — 7.5
+- **Tonkatsu Daiki** — Japanese Tonkatsu — 7.5
 - **Wild Honey** — Brunch — 7.5
 - **Wooloomooloo Steakhouse** — Steakhouse — 7.5
 - **Salt Grill & Sky Bar** — International — 7.3
@@ -679,6 +680,18 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **주052** — Modern Korean — 8.5
 - **Jangan Samgyetang** — Samgyetang — 8
 
+### Taichung
+
+- **Vender Bar** — Bar / Cocktails — 9.5
+- **Ming Juan Lou (銘焕樓)** — Cantonese Dim Sum (Michelin) — 9.2
+- **L'Atelier par Yao** ★ — French (Michelin) — 8.8
+- **Shin Yuan (馨苑小料理)** — Taiwanese (elevated) — 8.5
+- **Fu Din Wang (富鼎旺)** — Pork Knuckle / Taiwanese — 8.4
+- **Dongyin Fisherman (東引釣客野生海產店)** — Seafood (homestyle) — 8
+- **Charm Coffee Roastery** — Coffee
+- **Miyahara (宮原眼科)** — Ice Cream / Dessert
+- **Nice Cream (勤美店)** — Ice Cream / Dessert
+
 ### Taipei
 
 - **Logy** ★★ — Asian Contemporary — 9.5
@@ -708,18 +721,6 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Tonkatsu KATSU Hana** ★ — Tonkatsu — 9
 - **Shokudo Akari** — Japanese Izakaya — 8.8
 - **Namba Okonomiyaki Ajinoya Honten** Bib — Okonomiyaki — 8
-
-### Taichung
-
-- **Ming Juan Lou (銘焕樓)** — Cantonese Dim Sum (Michelin) — 9.2
-- **L'Atelier par Yao** ★ — French (Michelin) — 8.8
-- **Shin Yuan (馨苑小料理)** — Taiwanese (elevated) — 8.5
-- **Fu Din Wang (富鼎旺)** — Pork Knuckle / Taiwanese — 8.4
-- **Dongyin Fisherman (東引釣客野生海產店)** — Seafood (homestyle) — 8
-- **Charm Coffee Roastery** — Coffee
-- **Miyahara (宮原眼科)** — Ice Cream / Dessert
-- **Nice Cream (勤美店)** — Ice Cream / Dessert
-- **Vender Bar** — Bar / Cocktails
 
 ### Barcelona
 
@@ -779,7 +780,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 
 - **Restaurante Palomeque** — Tapas — 8.5
 
-## Want to try (101)
+## Want to try (100)
 
 ### Singapore
 
@@ -873,7 +874,6 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **The English House** — British
 - **The Study** — British
 - **Todamgol** — Korean
-- **Tonkatsu Daiki** — Japanese Tonkatsu
 - **Towa** — Izakaya/Teppanyaki
 - **Trattoria Lafiandra** — Italian
 - **Um Yong Baek** — Korean BBQ
@@ -911,6 +911,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 | 9.5 | Sühring ★★★ | German | Bangkok |
 | 9.5 | Sushi Kimura Plus ♥ | Japanese | Orchard |
 | 9.5 | Thevar ★★ | Indian | Keong Saik |
+| 9.5 | Vender Bar | Bar / Cocktails | Taichung |
 | 9.5 | 鲨 野村 のむら (Sushi Nomura) ♥ | Japanese Sushi | Taipei |
 | 9.3 | Mustard Seed | Mod Singaporean | Serangoon |
 | 9.2 | Asakusa Imahan ♥ | Sukiyaki | Tokyo |
