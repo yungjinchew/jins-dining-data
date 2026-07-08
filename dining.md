@@ -1,6 +1,6 @@
-# Jin's Dining List — snapshot 2026-07-07
+# Jin's Dining List — snapshot 2026-07-08
 
-_Auto-exported from Supabase, refreshed nightly. 419 visited · 100 to try · 8.1 avg · 594 total._
+_Auto-exported from Supabase, refreshed nightly. 420 visited · 99 to try · 8.1 avg · 594 total._
 
 Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · ♥ = would return / favourite · [closed] = permanently closed.
 
@@ -326,6 +326,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Jungle** Bib ♥ — Thai Bar & Grill — 9
 - *Lolla [closed] — Mediterranean Tapas — 9*
 - **Yen Yakiniku** — Yakiniku — 8.5
+- **Les Ducs** — French — 7.5
 
 ### Bedok
 
@@ -780,7 +781,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 
 - **Restaurante Palomeque** — Tapas — 8.5
 
-## Want to try (100)
+## Want to try (99)
 
 ### Singapore
 
@@ -832,7 +833,6 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Lang Nuong Viet Nam** — Vietnamese
 - **Latido** — Colombian
 - **Les Climats** — Wine Bar
-- **Les Ducs** — French
 - **Loulou** — French/Wine Bar
 - **Mag's Wine Bar** — Wine Bar
 - **Mare Hachikyo** — Japanese Hokkaido

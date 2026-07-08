@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-07T22:21:41.103Z",
+  "generated_at": "2026-07-08T21:51:47.308Z",
   "source": "Supabase (restaurants)",
   "summary": {
-    "visited": 419,
-    "want_to_try": 100,
+    "visited": 420,
+    "want_to_try": 99,
     "avg_rating": 8.1,
     "total": 594
   },
@@ -7194,21 +7194,6 @@
       "favourite": false
     },
     {
-      "name": "Les Ducs",
-      "cuisine": "French",
-      "country": "Singapore",
-      "city": "Singapore",
-      "area": "Ann Siang",
-      "rating": null,
-      "status": "want-to-try",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 4.8,
-      "price_level": null,
-      "favourite": false
-    },
-    {
       "name": "Loulou",
       "cuisine": "French/Wine Bar",
       "country": "Singapore",
@@ -7280,6 +7265,21 @@
       "michelin_stars": 0,
       "michelin_verified": true,
       "google_rating": 4.6,
+      "price_level": null,
+      "favourite": false
+    },
+    {
+      "name": "Les Ducs",
+      "cuisine": "French",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Ann Siang",
+      "rating": 7.5,
+      "status": "visited",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.8,
       "price_level": null,
       "favourite": false
     },
