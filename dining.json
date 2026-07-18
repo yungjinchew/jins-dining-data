@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T13:28:40.465Z",
+  "generated_at": "2026-07-18T19:10:44.185Z",
   "source": "Supabase (restaurants)",
   "summary": {
     "visited": 427,
@@ -924,21 +924,6 @@
       "favourite": false
     },
     {
-      "name": "Bar Butler",
-      "cuisine": "Bar / Cocktails",
-      "country": "Japan",
-      "city": "Tokyo",
-      "area": "Ginza",
-      "rating": 9.3,
-      "status": "visited",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 4.7,
-      "price_level": null,
-      "favourite": false
-    },
-    {
       "name": "Restaurant Absinthe",
       "cuisine": "French",
       "country": "Singapore",
@@ -951,21 +936,6 @@
       "michelin_verified": false,
       "google_rating": 4.3,
       "price_level": 3,
-      "favourite": false
-    },
-    {
-      "name": "Bible Club",
-      "cuisine": "Bar / Cocktails",
-      "country": "Japan",
-      "city": "Osaka",
-      "area": "Shinsaibashi",
-      "rating": 9.3,
-      "status": "visited",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 4.5,
-      "price_level": null,
       "favourite": false
     },
     {
@@ -1244,21 +1214,6 @@
       "country": "Singapore",
       "city": "Singapore",
       "area": "Purvis Street",
-      "rating": null,
-      "status": "want-to-try",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 4.6,
-      "price_level": null,
-      "favourite": false
-    },
-    {
-      "name": "Sago House",
-      "cuisine": "Bar / Cocktails",
-      "country": "Singapore",
-      "city": "Singapore",
-      "area": "Duxton Hill",
       "rating": null,
       "status": "want-to-try",
       "michelin_type": null,
@@ -1656,6 +1611,21 @@
       "michelin_verified": false,
       "google_rating": 4.6,
       "price_level": 3,
+      "favourite": false
+    },
+    {
+      "name": "Bar Butler",
+      "cuisine": "Bar / Cocktails",
+      "country": "Japan",
+      "city": "Tokyo",
+      "area": "Ginza",
+      "rating": 9.3,
+      "status": "visited",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.7,
+      "price_level": null,
       "favourite": false
     },
     {
@@ -2229,6 +2199,36 @@
       "favourite": false
     },
     {
+      "name": "Bible Club",
+      "cuisine": "Bar / Cocktails",
+      "country": "Japan",
+      "city": "Osaka",
+      "area": "Shinsaibashi",
+      "rating": 9.3,
+      "status": "visited",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.5,
+      "price_level": null,
+      "favourite": false
+    },
+    {
+      "name": "Sago House",
+      "cuisine": "Bar / Cocktails",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Duxton Hill",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.6,
+      "price_level": null,
+      "favourite": false
+    },
+    {
       "name": "Galle Club",
       "cuisine": "South Asian",
       "country": "Indonesia",
@@ -2572,21 +2572,6 @@
       "google_rating": 4.8,
       "price_level": null,
       "favourite": false
-    },
-    {
-      "name": "Baan Tepa Culinary Space",
-      "cuisine": "Thai",
-      "country": "Thailand",
-      "city": "Bangkok",
-      "area": "Khet Bang Kapi",
-      "rating": 9.8,
-      "status": "visited",
-      "michelin_type": "star",
-      "michelin_stars": 2,
-      "michelin_verified": true,
-      "google_rating": 4.7,
-      "price_level": null,
-      "favourite": true
     },
     {
       "name": "Estiatorio Milos",
@@ -5409,21 +5394,6 @@
       "favourite": false
     },
     {
-      "name": "Crony",
-      "cuisine": "French",
-      "country": "Japan",
-      "city": "Tokyo",
-      "area": "20",
-      "rating": 9.8,
-      "status": "visited",
-      "michelin_type": "star",
-      "michelin_stars": 2,
-      "michelin_verified": true,
-      "google_rating": 4.7,
-      "price_level": null,
-      "favourite": true
-    },
-    {
       "name": "Kuro Maguro",
       "cuisine": "Japanese",
       "country": "Singapore",
@@ -8019,6 +7989,21 @@
       "favourite": false
     },
     {
+      "name": "Baan Tepa Culinary Space",
+      "cuisine": "Thai",
+      "country": "Thailand",
+      "city": "Bangkok",
+      "area": "Khet Bang Kapi",
+      "rating": 9.8,
+      "status": "visited",
+      "michelin_type": "star",
+      "michelin_stars": 2,
+      "michelin_verified": true,
+      "google_rating": 4.7,
+      "price_level": null,
+      "favourite": true
+    },
+    {
       "name": "White Marble",
       "cuisine": "Mediterranean",
       "country": "Singapore",
@@ -9097,6 +9082,21 @@
       "google_rating": 4.6,
       "price_level": null,
       "favourite": false
+    },
+    {
+      "name": "Crony",
+      "cuisine": "French",
+      "country": "Japan",
+      "city": "Tokyo",
+      "area": "20",
+      "rating": 9.8,
+      "status": "visited",
+      "michelin_type": "star",
+      "michelin_stars": 2,
+      "michelin_verified": true,
+      "google_rating": 4.7,
+      "price_level": null,
+      "favourite": true
     }
   ]
 }
