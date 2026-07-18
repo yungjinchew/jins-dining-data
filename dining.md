@@ -1,6 +1,6 @@
-# Jin's Dining List — snapshot 2026-07-17
+# Jin's Dining List — snapshot 2026-07-18
 
-_Auto-exported from Supabase, refreshed nightly. 420 visited · 99 to try · 8.1 avg · 594 total._
+_Auto-exported from Supabase, refreshed nightly. 427 visited · 104 to try · 8.1 avg · 606 total._
 
 Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · ♥ = would return / favourite · [closed] = permanently closed.
 
@@ -75,6 +75,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **DRIM Korean Steakhouse** — Korean BBQ — 9
 - **Jaan** ★★ — Modern British — 9
 - **Le Pristine** ♥ — Italian — 9
+- **Manhattan** — Bar / Cocktails — 9
 - **Osteria Mozza (Hilton)** ♥ — Italian — 9
 - *Alma by Juan Amador [closed] ★ — Spanish — 8.8*
 - **8 Korean BBQ** — Korean BBQ — 8.5
@@ -239,6 +240,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - *Ms. Maria & Mr. Singh [closed] — Indian+Mexican — 8.5*
 - **Shin Katsu** — Tonkatsu — 8.5
 - **Sukiyaki Yotaro** — Sukiyaki — 8.5
+- **Jigger & Pony** — Bar / Cocktails — 8
 - **Pizza Studio Tamaki** — Japanese Pizza — 8
 - **Shin Terroir** — Yakitori — 8
 - **Tong Ah Eating House** — Kaya Toast — 8
@@ -435,6 +437,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 
 - **Dolce Vita** — Italian — 8.5
 - **Maison Boulud** — French — 8.5
+- **MO Bar** — Bar / Cocktails — 8.5
 - **Melt Mandarin Oriental** — Buffet — 8
 
 ### New Bahru
@@ -623,6 +626,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Sühring** ★★★ — German — 9.5
 - **iODE** ♥ — French — 9.2
 - **80/20 Eighty Twenty** ★ — Thai — 9
+- **Firefly Bar** — Bar / Cocktails — 9
 - **GINGER FARM kitchen at central wOrld** ♥ — Thai — 9
 - **North Restaurant** — Thai — 9
 - **Plu** Bib ♥ — Thai — 9
@@ -633,6 +637,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Charmgang** Bib — Thai — 8.5
 - **Isao** — Japanese — 8.5
 - **Luka Sukhumvit 31** — Brunch — 8.5
+- **Messengerservice** — Bar / Cocktails — 8.5
 - **Rung Rueang Pork Noodle** Bib ♥ — Thai — 8.5
 - **Saawaan** — Thai — 8.5
 - **Sometimes I Feel** — Cafe — 8.5
@@ -642,6 +647,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 ### Tokyo
 
 - **Crony** ★★ ♥ — French — 9.8
+- **Bar Butler** — Bar / Cocktails — 9.3
 - **Asakusa Imahan** ♥ — Sukiyaki — 9.2
 - **Ginza Katsukami** — Tonkatsu — 9
 - **Waunn** ♥ — Japanese Kaisedon — 9
@@ -718,6 +724,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 
 ### Osaka
 
+- **Bible Club** — Bar / Cocktails — 9.3
 - **炭火焼肉 一獲** — Yakiniku — 9.2
 - **Tonkatsu KATSU Hana** ★ — Tonkatsu — 9
 - **Shokudo Akari** — Japanese Izakaya — 8.8
@@ -781,7 +788,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 
 - **Restaurante Palomeque** — Tapas — 8.5
 
-## Want to try (99)
+## Want to try (104)
 
 ### Singapore
 
@@ -808,6 +815,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Dusk Restaurant** — European
 - **Fleurette** — Modern European
 - **Fu Yuan Teochew Dining Greenwood** — Chinese
+- **Fura** — Bar / Cocktails
 - **Gai Inn Izakaya** — Japanese
 - **Gaston** — French Burgundian
 - **Guccio** — Italian
@@ -816,6 +824,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Hikiniku To Come (VivoCity)** — Japanese
 - **Hjh Maimunah** — Nasi Padang
 - **Humpback** — Seafood
+- **Hup San Social Club** — Bar / Cocktails
 - **Ichigo Ichie 一期一江** — Japanese
 - **iL Cielo** — Italian
 - **Il Clay** — Italian
@@ -838,7 +847,9 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Mare Hachikyo** — Japanese Hokkaido
 - **Meadesmoore** — Steakhouse
 - **Mimoto** — Izakaya
+- **Native** — Bar / Cocktails
 - **Noa Lounge** — Mediterranean
+- **Nutmeg & Clove** — Bar / Cocktails
 - **Omakase at Stevens** ★ — Japanese
 - **Pasta J** — Pasta/Steak
 - **PERA Turkish Grill** — Turkish
@@ -853,6 +864,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Rolls Izakaya** — Japanese
 - **Ronin** — Brunch
 - **Sabor** — Spanish
+- **Sago House** — Bar / Cocktails
 - **Salt & Soul** — European
 - **SAMSAMSAM Samgyetang Specialty Korean Restaurant | Novena Square** — Korean
 - **Scarpetta** — Pasta Bar
@@ -913,6 +925,8 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 | 9.5 | Thevar ★★ | Indian | Keong Saik |
 | 9.5 | Vender Bar | Bar / Cocktails | Taichung |
 | 9.5 | 鲨 野村 のむら (Sushi Nomura) ♥ | Japanese Sushi | Taipei |
+| 9.3 | Bar Butler | Bar / Cocktails | Tokyo |
+| 9.3 | Bible Club | Bar / Cocktails | Osaka |
 | 9.3 | Mustard Seed | Mod Singaporean | Serangoon |
 | 9.2 | Asakusa Imahan ♥ | Sukiyaki | Tokyo |
 | 9.2 | Born and Bred | Korean Steakhouse | Seoul |
@@ -940,6 +954,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 | 9 | Côte ♥ | Korean Steakhouse | CBD |
 | 9 | Dill | Scandinavian | Duxton |
 | 9 | DRIM Korean Steakhouse | Korean BBQ | Orchard |
+| 9 | Firefly Bar | Bar / Cocktails | Bangkok |
 | 9 | Fish and Bones | Korean Seafood | CBD |
 | 9 | GINGER FARM kitchen at central wOrld ♥ | Thai | Bangkok |
 | 9 | Ginza Katsukami | Tonkatsu | Tokyo |
@@ -950,6 +965,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 | 9 | Jungle Bib ♥ | Thai Bar & Grill | Ann Siang |
 | 9 | Le Pristine ♥ | Italian | Orchard |
 | 9 | Lolla | Mediterranean Tapas | Ann Siang |
+| 9 | Manhattan | Bar / Cocktails | Orchard |
 | 9 | Mr. Ahn's Craft Makgeolli | Gastropub | Seoul |
 | 9 | Nae:um ★ | Modern Korean | Telok Ayer |
 | 9 | Nishijin Fujiyoshi ★ | Japanese | Kyoto |
