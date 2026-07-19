@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T19:10:44.185Z",
+  "generated_at": "2026-07-19T19:11:52.802Z",
   "source": "Supabase (restaurants)",
   "summary": {
-    "visited": 427,
+    "visited": 428,
     "want_to_try": 104,
     "avg_rating": 8.1,
-    "total": 606
+    "total": 607
   },
   "restaurants": [
     {
@@ -2079,21 +2079,6 @@
       "favourite": false
     },
     {
-      "name": "Hachi",
-      "cuisine": "Japanese Omakase",
-      "country": "Singapore",
-      "city": "Singapore",
-      "area": "CBD",
-      "rating": 9.5,
-      "status": "visited",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 4.6,
-      "price_level": 4,
-      "favourite": false
-    },
-    {
       "name": "Locavore NXT",
       "cuisine": "Indonesian",
       "country": "Indonesia",
@@ -2135,6 +2120,21 @@
       "michelin_stars": 1,
       "michelin_verified": true,
       "google_rating": 4.8,
+      "price_level": 4,
+      "favourite": true
+    },
+    {
+      "name": "Hachi",
+      "cuisine": "Japanese Omakase",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "CBD",
+      "rating": 9.5,
+      "status": "visited",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.6,
       "price_level": 4,
       "favourite": true
     },
@@ -4929,6 +4929,21 @@
       "favourite": false
     },
     {
+      "name": "Nawa Thai Cuisine",
+      "cuisine": "Thai",
+      "country": "Thailand",
+      "city": "Bangkok",
+      "area": "Watthana",
+      "rating": 9.8,
+      "status": "visited",
+      "michelin_type": "star",
+      "michelin_stars": 1,
+      "michelin_verified": true,
+      "google_rating": 4.8,
+      "price_level": null,
+      "favourite": true
+    },
+    {
       "name": "Ya Ge",
       "cuisine": "Dim Sum",
       "country": "Taiwan",
@@ -5407,21 +5422,6 @@
       "google_rating": 4.6,
       "price_level": 3,
       "favourite": false
-    },
-    {
-      "name": "Nawa Thai Cuisine",
-      "cuisine": "Thai",
-      "country": "Thailand",
-      "city": "Bangkok",
-      "area": "Watthana",
-      "rating": 9.8,
-      "status": "visited",
-      "michelin_type": "star",
-      "michelin_stars": 1,
-      "michelin_verified": true,
-      "google_rating": 4.8,
-      "price_level": null,
-      "favourite": true
     },
     {
       "name": "Levant",
@@ -6774,6 +6774,21 @@
       "favourite": false
     },
     {
+      "name": "Wewa orchard gateway",
+      "cuisine": "Middle Eastern",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Orchard",
+      "rating": 7.5,
+      "status": "visited",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.6,
+      "price_level": null,
+      "favourite": false
+    },
+    {
       "name": "27 Degrees West",
       "cuisine": "Indian",
       "country": "Singapore",
@@ -7522,6 +7537,21 @@
       "google_rating": 4.4,
       "price_level": 2,
       "favourite": false
+    },
+    {
+      "name": "Ma Cuisine",
+      "cuisine": "French Wine Bar",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "CBD",
+      "rating": 9.5,
+      "status": "visited",
+      "michelin_type": "star",
+      "michelin_stars": 1,
+      "michelin_verified": true,
+      "google_rating": 4.5,
+      "price_level": null,
+      "favourite": true
     },
     {
       "name": "Province",
@@ -8844,21 +8874,6 @@
       "favourite": false
     },
     {
-      "name": "Ma Cuisine",
-      "cuisine": "French Wine Bar",
-      "country": "Singapore",
-      "city": "Singapore",
-      "area": "CBD",
-      "rating": 9.5,
-      "status": "visited",
-      "michelin_type": "star",
-      "michelin_stars": 1,
-      "michelin_verified": true,
-      "google_rating": 4.5,
-      "price_level": null,
-      "favourite": false
-    },
-    {
       "name": "Alma by Juan Amador",
       "cuisine": "Spanish",
       "country": "Singapore",
@@ -8994,21 +9009,6 @@
       "favourite": false
     },
     {
-      "name": "Araya",
-      "cuisine": "South American",
-      "country": "Singapore",
-      "city": "Singapore",
-      "area": "Duxton",
-      "rating": 9.5,
-      "status": "visited",
-      "michelin_type": "star",
-      "michelin_stars": 1,
-      "michelin_verified": true,
-      "google_rating": 4.5,
-      "price_level": null,
-      "favourite": false
-    },
-    {
       "name": "Coconut Club",
       "cuisine": "Local/Nasi Lemak",
       "country": "Singapore",
@@ -9050,6 +9050,21 @@
       "michelin_stars": 0,
       "michelin_verified": true,
       "google_rating": 4.4,
+      "price_level": null,
+      "favourite": false
+    },
+    {
+      "name": "Araya",
+      "cuisine": "South American",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Duxton",
+      "rating": 9.5,
+      "status": "visited",
+      "michelin_type": "star",
+      "michelin_stars": 1,
+      "michelin_verified": true,
+      "google_rating": 4.5,
       "price_level": null,
       "favourite": false
     },

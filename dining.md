@@ -1,15 +1,17 @@
-# Jin's Dining List — snapshot 2026-07-18
+# Jin's Dining List — snapshot 2026-07-19
 
-_Auto-exported from Supabase, refreshed nightly. 427 visited · 104 to try · 8.1 avg · 606 total._
+_Auto-exported from Supabase, refreshed nightly. 428 visited · 104 to try · 8.1 avg · 607 total._
 
 Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · ♥ = would return / favourite · [closed] = permanently closed.
 
-## Favourites (27)
+## Favourites (29)
 
 ### Singapore
 
 - **Seroja** ★ ♥ — Mod Singaporean/Malayan — 9.8
 - **Estiatorio Milos** ♥ — Greek — 9.5
+- **Hachi** ♥ — Japanese Omakase — 9.5
+- **Ma Cuisine** ★ ♥ — French Wine Bar — 9.5
 - **Sushi Kimura Plus** ♥ — Japanese — 9.5
 - **La Bottega Enoteca** ♥ — Pizza/Italian — 9.2
 - **Black Pearl** ♥ — Chinese Yue — 9
@@ -97,6 +99,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Nambantei** — Japanese Yakitori — 7.5
 - **Tanuki Raw** — Japanese — 7.5
 - **Tonkatsu Daiki** — Japanese Tonkatsu — 7.5
+- **Wewa orchard gateway** — Middle Eastern — 7.5
 - **Wild Honey** — Brunch — 7.5
 - **Wooloomooloo Steakhouse** — Steakhouse — 7.5
 - **Salt Grill & Sky Bar** — International — 7.3
@@ -118,8 +121,8 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 ### CBD
 
 - *Sommer [closed] — Modern European — 9.6*
-- **Hachi** — Japanese Omakase — 9.5
-- **Ma Cuisine** ★ — French Wine Bar — 9.5
+- **Hachi** ♥ — Japanese Omakase — 9.5
+- **Ma Cuisine** ★ ♥ — French Wine Bar — 9.5
 - *Rosemead [closed] — Californian — 9.2*
 - **Shinji by Kanesaka** — Japanese Omakase — 9.2
 - **Black Pearl** ♥ — Chinese Yue — 9
@@ -913,12 +916,12 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 | 9.5 | Araya ★ | South American | Duxton |
 | 9.5 | Desde 1911 ★ ♥ | Seafood | Madrid |
 | 9.5 | Estiatorio Milos ♥ | Greek | MBS |
-| 9.5 | Hachi | Japanese Omakase | CBD |
+| 9.5 | Hachi ♥ | Japanese Omakase | CBD |
 | 9.5 | Inddee ★★ | Indian | Bangkok |
 | 9.5 | Jungsik Seoul ★★ | Modern Korean | Seoul |
 | 9.5 | Locavore NXT | Indonesian | Bali |
 | 9.5 | Logy ★★ | Asian Contemporary | Taipei |
-| 9.5 | Ma Cuisine ★ | French Wine Bar | CBD |
+| 9.5 | Ma Cuisine ★ ♥ | French Wine Bar | CBD |
 | 9.5 | Meta ★★ | French-Asian | Keong Saik |
 | 9.5 | Sühring ★★★ | German | Bangkok |
 | 9.5 | Sushi Kimura Plus ♥ | Japanese | Orchard |
