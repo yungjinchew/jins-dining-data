@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-24T19:35:29.340Z",
+  "generated_at": "2026-07-25T19:14:16.643Z",
   "source": "Supabase (restaurants)",
   "summary": {
-    "visited": 428,
-    "want_to_try": 104,
+    "visited": 435,
+    "want_to_try": 106,
     "avg_rating": 8.1,
-    "total": 607
+    "total": 615
   },
   "restaurants": [
     {
@@ -1014,6 +1014,21 @@
       "favourite": false
     },
     {
+      "name": "Mex Out",
+      "cuisine": "Mexican",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "CBD",
+      "rating": 6.5,
+      "status": "visited",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.4,
+      "price_level": null,
+      "favourite": false
+    },
+    {
       "name": "Dario Pizza & More",
       "cuisine": "Pizza",
       "country": "Singapore",
@@ -1070,21 +1085,6 @@
       "michelin_stars": 0,
       "michelin_verified": false,
       "google_rating": 4.2,
-      "price_level": 2,
-      "favourite": false
-    },
-    {
-      "name": "Mex Out",
-      "cuisine": "Mexican",
-      "country": "Singapore",
-      "city": "Singapore",
-      "area": "CBD",
-      "rating": 6.5,
-      "status": "visited",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 4.5,
       "price_level": 2,
       "favourite": false
     },
@@ -1194,36 +1194,6 @@
       "favourite": false
     },
     {
-      "name": "Native",
-      "cuisine": "Bar / Cocktails",
-      "country": "Singapore",
-      "city": "Singapore",
-      "area": "Amoy Street",
-      "rating": null,
-      "status": "want-to-try",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 4.7,
-      "price_level": null,
-      "favourite": false
-    },
-    {
-      "name": "Nutmeg & Clove",
-      "cuisine": "Bar / Cocktails",
-      "country": "Singapore",
-      "city": "Singapore",
-      "area": "Purvis Street",
-      "rating": null,
-      "status": "want-to-try",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 4.6,
-      "price_level": null,
-      "favourite": false
-    },
-    {
       "name": "Capasso",
       "cuisine": "Colombian/Italian",
       "country": "Singapore",
@@ -1254,32 +1224,17 @@
       "favourite": false
     },
     {
-      "name": "Fura",
-      "cuisine": "Bar / Cocktails",
+      "name": "Gai Inn Izakaya",
+      "cuisine": "Japanese",
       "country": "Singapore",
       "city": "Singapore",
-      "area": "Amoy Street",
+      "area": "Orchard",
       "rating": null,
       "status": "want-to-try",
       "michelin_type": null,
       "michelin_stars": 0,
       "michelin_verified": false,
-      "google_rating": 4.7,
-      "price_level": null,
-      "favourite": false
-    },
-    {
-      "name": "Hup San Social Club",
-      "cuisine": "Bar / Cocktails",
-      "country": "Singapore",
-      "city": "Singapore",
-      "area": "Club Street",
-      "rating": null,
-      "status": "want-to-try",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 4.9,
+      "google_rating": 4.8,
       "price_level": null,
       "favourite": false
     },
@@ -1299,17 +1254,17 @@
       "favourite": false
     },
     {
-      "name": "Gai Inn Izakaya",
-      "cuisine": "Japanese",
+      "name": "Fura",
+      "cuisine": "Bar / Cocktails",
       "country": "Singapore",
       "city": "Singapore",
-      "area": "Orchard",
+      "area": "Amoy Street",
       "rating": null,
       "status": "want-to-try",
       "michelin_type": null,
       "michelin_stars": 0,
       "michelin_verified": false,
-      "google_rating": 4.8,
+      "google_rating": 4.7,
       "price_level": null,
       "favourite": false
     },
@@ -1325,6 +1280,51 @@
       "michelin_stars": 0,
       "michelin_verified": false,
       "google_rating": 4.5,
+      "price_level": null,
+      "favourite": false
+    },
+    {
+      "name": "Hup San Social Club",
+      "cuisine": "Bar / Cocktails",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Club Street",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.9,
+      "price_level": null,
+      "favourite": false
+    },
+    {
+      "name": "Native",
+      "cuisine": "Bar / Cocktails",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Amoy Street",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.7,
+      "price_level": null,
+      "favourite": false
+    },
+    {
+      "name": "Nutmeg & Clove",
+      "cuisine": "Bar / Cocktails",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Purvis Street",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.6,
       "price_level": null,
       "favourite": false
     },
@@ -1404,6 +1404,21 @@
       "favourite": false
     },
     {
+      "name": "Osteria Mozza (Hilton)",
+      "cuisine": "Italian",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Orchard",
+      "rating": 9,
+      "status": "visited",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.5,
+      "price_level": null,
+      "favourite": true
+    },
+    {
       "name": "Sobashubo Ichii",
       "cuisine": "Soba",
       "country": "Japan",
@@ -1416,6 +1431,21 @@
       "michelin_verified": true,
       "google_rating": 4.6,
       "price_level": 2,
+      "favourite": false
+    },
+    {
+      "name": "Side door",
+      "cuisine": "Café",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Outram",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.6,
+      "price_level": null,
       "favourite": false
     },
     {
@@ -1929,6 +1959,21 @@
       "favourite": false
     },
     {
+      "name": "The Tavernist (Kimpton Da An)",
+      "cuisine": "Bar",
+      "country": "Taiwan",
+      "city": "Taipei",
+      "area": "",
+      "rating": 8,
+      "status": "visited",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.5,
+      "price_level": null,
+      "favourite": false
+    },
+    {
       "name": "Luke's Chop House & Oyster Bar",
       "cuisine": "American",
       "country": "Singapore",
@@ -1966,21 +2011,6 @@
       "area": "Little India",
       "rating": null,
       "status": "want-to-try",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 4.5,
-      "price_level": null,
-      "favourite": false
-    },
-    {
-      "name": "The Tavernist (Kimpton Da An)",
-      "cuisine": "Bar",
-      "country": "Taiwan",
-      "city": "Taipei",
-      "area": "",
-      "rating": null,
-      "status": "active",
       "michelin_type": null,
       "michelin_stars": 0,
       "michelin_verified": false,
@@ -2225,6 +2255,21 @@
       "michelin_stars": 0,
       "michelin_verified": false,
       "google_rating": 4.6,
+      "price_level": null,
+      "favourite": false
+    },
+    {
+      "name": "Dough",
+      "cuisine": "Cafe",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "CBD",
+      "rating": 7.5,
+      "status": "visited",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.3,
       "price_level": null,
       "favourite": false
     },
@@ -3819,21 +3864,6 @@
       "favourite": false
     },
     {
-      "name": "Papi's Tacos",
-      "cuisine": "Mexican",
-      "country": "Singapore",
-      "city": "Singapore",
-      "area": "CBD",
-      "rating": 8.5,
-      "status": "visited",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 4.4,
-      "price_level": 2,
-      "favourite": false
-    },
-    {
       "name": "Paraphrase",
       "cuisine": "Grill",
       "country": "Singapore",
@@ -3846,6 +3876,21 @@
       "michelin_verified": false,
       "google_rating": 4.7,
       "price_level": null,
+      "favourite": false
+    },
+    {
+      "name": "Papi's Tacos",
+      "cuisine": "Mexican",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "CBD",
+      "rating": 8.5,
+      "status": "visited",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.4,
+      "price_level": 2,
       "favourite": false
     },
     {
@@ -5079,6 +5124,21 @@
       "favourite": false
     },
     {
+      "name": "5PM Lalapot",
+      "cuisine": "Chinese Hotpot",
+      "country": "Malaysia",
+      "city": "Johor Bahru",
+      "area": "Austin Heights",
+      "rating": 8.5,
+      "status": "visited",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.8,
+      "price_level": null,
+      "favourite": false
+    },
+    {
       "name": "Appetite",
       "cuisine": "European",
       "country": "Singapore",
@@ -5304,36 +5364,6 @@
       "favourite": false
     },
     {
-      "name": "Dough",
-      "cuisine": "Cafe",
-      "country": "Singapore",
-      "city": "Singapore",
-      "area": "CBD",
-      "rating": 7.5,
-      "status": "visited",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 4.4,
-      "price_level": null,
-      "favourite": false
-    },
-    {
-      "name": "Fabulous Baker Boy",
-      "cuisine": "Brunch",
-      "country": "Singapore",
-      "city": "Singapore",
-      "area": "Fort Canning",
-      "rating": 7.5,
-      "status": "visited",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 4,
-      "price_level": 2,
-      "favourite": false
-    },
-    {
       "name": "Fortuna Terrazza",
       "cuisine": "Italian",
       "country": "Singapore",
@@ -5406,6 +5436,21 @@
       "michelin_verified": false,
       "google_rating": 4.4,
       "price_level": null,
+      "favourite": false
+    },
+    {
+      "name": "Fabulous Baker Boy",
+      "cuisine": "Brunch",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Fort Canning",
+      "rating": 7.5,
+      "status": "visited",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4,
+      "price_level": 2,
       "favourite": false
     },
     {
@@ -6339,21 +6384,6 @@
       "favourite": false
     },
     {
-      "name": "Osteria Mozza (Hilton)",
-      "cuisine": "Italian",
-      "country": "Singapore",
-      "city": "Singapore",
-      "area": "Orchard",
-      "rating": 9,
-      "status": "visited",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 4.5,
-      "price_level": null,
-      "favourite": true
-    },
-    {
       "name": "Yantra",
       "cuisine": "Indian",
       "country": "Singapore",
@@ -6681,6 +6711,21 @@
       "michelin_verified": false,
       "google_rating": 4.5,
       "price_level": 3,
+      "favourite": false
+    },
+    {
+      "name": "Principle Cafe",
+      "cuisine": "Cafe / Coffee",
+      "country": "Malaysia",
+      "city": "Johor Bahru",
+      "area": "Mount Austin",
+      "rating": 8,
+      "status": "visited",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.7,
+      "price_level": null,
       "favourite": false
     },
     {
@@ -7209,6 +7254,21 @@
       "favourite": false
     },
     {
+      "name": "Nong Geng Ji",
+      "cuisine": "Chinese",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Great world city",
+      "rating": 8,
+      "status": "visited",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.7,
+      "price_level": null,
+      "favourite": false
+    },
+    {
       "name": "Le Pristine",
       "cuisine": "Italian",
       "country": "Singapore",
@@ -7536,6 +7596,21 @@
       "michelin_verified": false,
       "google_rating": 4.4,
       "price_level": 2,
+      "favourite": false
+    },
+    {
+      "name": "Haiiro Usagi",
+      "cuisine": "Cocktail Bar / Speakeasy",
+      "country": "Malaysia",
+      "city": "Johor Bahru",
+      "area": "Taman Maju Jaya",
+      "rating": 8,
+      "status": "visited",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.5,
+      "price_level": null,
       "favourite": false
     },
     {
@@ -9112,6 +9187,51 @@
       "google_rating": 4.7,
       "price_level": null,
       "favourite": true
+    },
+    {
+      "name": "Loulouca",
+      "cuisine": "Dessert",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Outram",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 5,
+      "price_level": null,
+      "favourite": false
+    },
+    {
+      "name": "Local House",
+      "cuisine": "Kopitiam / Cafe",
+      "country": "Malaysia",
+      "city": "Johor Bahru",
+      "area": "Eco Botanic",
+      "rating": 7.5,
+      "status": "visited",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.3,
+      "price_level": 1,
+      "favourite": false
+    },
+    {
+      "name": "Palates and Bagels",
+      "cuisine": "Bagels / Bakery",
+      "country": "Malaysia",
+      "city": "Johor Bahru",
+      "area": "Mount Austin",
+      "rating": 7.5,
+      "status": "visited",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.7,
+      "price_level": null,
+      "favourite": false
     }
   ]
 }

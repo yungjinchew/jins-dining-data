@@ -1,6 +1,6 @@
-# Jin's Dining List — snapshot 2026-07-24
+# Jin's Dining List — snapshot 2026-07-25
 
-_Auto-exported from Supabase, refreshed nightly. 428 visited · 104 to try · 8.1 avg · 607 total._
+_Auto-exported from Supabase, refreshed nightly. 435 visited · 106 to try · 8.1 avg · 615 total._
 
 Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · ♥ = would return / favourite · [closed] = permanently closed.
 
@@ -520,6 +520,10 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 
 - **Tong Fong Fatt** — Chicken Rice — 8
 
+### Great world city
+
+- **Nong Geng Ji** — Chinese — 8
+
 ### Great World City
 
 - **Kuriya Dining** — Japanese — 8
@@ -714,6 +718,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Moon Moon Food Qingdao Branch** Bib — Chicken Soup — 8.5
 - **Tien Hsia San Jyue** Bib — Beef Noodle Soup — 8.5
 - **Rechao — Lin Mei Ru (林美如)** — Rechao (stir-fry) — 8
+- **The Tavernist (Kimpton Da An)** — Bar — 8
 - **Weiding (味鼎)** — Taiwanese Breakfast — 8
 - **Ya Ge** ★ — Dim Sum — 8
 - **巷內轉角米粉湯 (Corner Rice Noodle Soup)** — Rice Noodle Soup — 8
@@ -722,7 +727,6 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Yong He Soya Milk King (永和豆漿大王)** — Taiwanese Breakfast — 7
 - **Fireweeds (野草居食屋)** — Japanese Izakaya — 6.5
 - **MATA Tofu Pudding (山海豆花)** — Tofu Pudding / Dessert
-- **The Tavernist (Kimpton Da An)** — Bar
 - **江記東門豆花 (Dongmen Jiang Ji Douhua)** — Tofu Pudding / Dessert
 
 ### Osaka
@@ -777,6 +781,14 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Restaurante Palacio Andaluz Almona** — Moroccan — 8.5
 - **El Rincón de Julio** — Tapas — 8
 
+### Johor Bahru
+
+- **5PM Lalapot** — Chinese Hotpot — 8.5
+- **Haiiro Usagi** — Cocktail Bar / Speakeasy — 8
+- **Principle Cafe** — Cafe / Coffee — 8
+- **Local House** — Kopitiam / Cafe — 7.5
+- **Palates and Bagels** — Bagels / Bakery — 7.5
+
 ### Kichijōji
 
 - **Mothers Kichijōji** — Pizza — 8.5
@@ -791,7 +803,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 
 - **Restaurante Palomeque** — Tapas — 8.5
 
-## Want to try (104)
+## Want to try (106)
 
 ### Singapore
 
@@ -846,6 +858,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Latido** — Colombian
 - **Les Climats** — Wine Bar
 - **Loulou** — French/Wine Bar
+- **Loulouca** — Dessert
 - **Mag's Wine Bar** — Wine Bar
 - **Mare Hachikyo** — Japanese Hokkaido
 - **Meadesmoore** — Steakhouse
@@ -874,6 +887,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Seoul & So** — Korean
 - **Shabestan** — Persian/Iranian
 - **Shoukouwa** ★★ — Japanese Omakase
+- **Side door** — Café
 - **Skai** — European
 - **Spago** — Californian
 - **Steak Sudaku** — Japanese Steak
