@@ -1,4 +1,4 @@
-# Jin's Dining List — snapshot 2026-07-25
+# Jin's Dining List — snapshot 2026-07-26
 
 _Auto-exported from Supabase, refreshed nightly. 435 visited · 106 to try · 8.1 avg · 615 total._
 
@@ -520,13 +520,10 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 
 - **Tong Fong Fatt** — Chicken Rice — 8
 
-### Great world city
-
-- **Nong Geng Ji** — Chinese — 8
-
 ### Great World City
 
 - **Kuriya Dining** — Japanese — 8
+- **Nong Geng Ji** — Chinese — 8
 
 ### Jalan Besar
 
@@ -567,13 +564,13 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 
 - **Atlas Coffeehouse** — Cafe/Brunch — 7.8
 
+### Bukit Panjang
+
+- **Fabulous Baker Boy** — Brunch — 7.5
+
 ### Esplanade
 
 - **Tomatillo** — Mexican — 7.5
-
-### Fort Canning
-
-- **Fabulous Baker Boy** — Brunch — 7.5
 
 ### Greenwood
 

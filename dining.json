@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T19:14:16.643Z",
+  "generated_at": "2026-07-26T19:17:38.074Z",
   "source": "Supabase (restaurants)",
   "summary": {
     "visited": 435,
@@ -5124,21 +5124,6 @@
       "favourite": false
     },
     {
-      "name": "5PM Lalapot",
-      "cuisine": "Chinese Hotpot",
-      "country": "Malaysia",
-      "city": "Johor Bahru",
-      "area": "Austin Heights",
-      "rating": 8.5,
-      "status": "visited",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 4.8,
-      "price_level": null,
-      "favourite": false
-    },
-    {
       "name": "Appetite",
       "cuisine": "European",
       "country": "Singapore",
@@ -5443,14 +5428,14 @@
       "cuisine": "Brunch",
       "country": "Singapore",
       "city": "Singapore",
-      "area": "Fort Canning",
+      "area": "Bukit Panjang",
       "rating": 7.5,
       "status": "visited",
       "michelin_type": null,
       "michelin_stars": 0,
       "michelin_verified": false,
       "google_rating": 4,
-      "price_level": 2,
+      "price_level": null,
       "favourite": false
     },
     {
@@ -7254,21 +7239,6 @@
       "favourite": false
     },
     {
-      "name": "Nong Geng Ji",
-      "cuisine": "Chinese",
-      "country": "Singapore",
-      "city": "Singapore",
-      "area": "Great world city",
-      "rating": 8,
-      "status": "visited",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 4.7,
-      "price_level": null,
-      "favourite": false
-    },
-    {
       "name": "Le Pristine",
       "cuisine": "Italian",
       "country": "Singapore",
@@ -7282,6 +7252,21 @@
       "google_rating": 4.7,
       "price_level": null,
       "favourite": true
+    },
+    {
+      "name": "Nong Geng Ji",
+      "cuisine": "Chinese",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Great World City",
+      "rating": 8,
+      "status": "visited",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.8,
+      "price_level": null,
+      "favourite": false
     },
     {
       "name": "Kazu Sami Yaki",
@@ -8092,21 +8077,6 @@
       "google_rating": 4.7,
       "price_level": null,
       "favourite": false
-    },
-    {
-      "name": "Baan Tepa Culinary Space",
-      "cuisine": "Thai",
-      "country": "Thailand",
-      "city": "Bangkok",
-      "area": "Khet Bang Kapi",
-      "rating": 9.8,
-      "status": "visited",
-      "michelin_type": "star",
-      "michelin_stars": 2,
-      "michelin_verified": true,
-      "google_rating": 4.7,
-      "price_level": null,
-      "favourite": true
     },
     {
       "name": "White Marble",
@@ -9232,6 +9202,36 @@
       "google_rating": 4.7,
       "price_level": null,
       "favourite": false
+    },
+    {
+      "name": "5PM Lalapot",
+      "cuisine": "Chinese Hotpot",
+      "country": "Malaysia",
+      "city": "Johor Bahru",
+      "area": "Mount Austin",
+      "rating": 8.5,
+      "status": "visited",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.9,
+      "price_level": null,
+      "favourite": false
+    },
+    {
+      "name": "Baan Tepa Culinary Space",
+      "cuisine": "Thai",
+      "country": "Thailand",
+      "city": "Bangkok",
+      "area": "Khet Bang Kapi",
+      "rating": 9.8,
+      "status": "visited",
+      "michelin_type": "star",
+      "michelin_stars": 2,
+      "michelin_verified": true,
+      "google_rating": 4.7,
+      "price_level": null,
+      "favourite": true
     }
   ]
 }
