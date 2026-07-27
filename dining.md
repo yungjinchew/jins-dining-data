@@ -1,6 +1,6 @@
-# Jin's Dining List — snapshot 2026-07-26
+# Jin's Dining List — snapshot 2026-07-27
 
-_Auto-exported from Supabase, refreshed nightly. 435 visited · 106 to try · 8.1 avg · 615 total._
+_Auto-exported from Supabase, refreshed nightly. 435 visited · 107 to try · 8.1 avg · 616 total._
 
 Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · ♥ = would return / favourite · [closed] = permanently closed.
 
@@ -800,7 +800,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 
 - **Restaurante Palomeque** — Tapas — 8.5
 
-## Want to try (106)
+## Want to try (107)
 
 ### Singapore
 
@@ -910,6 +910,10 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Whitegrass** ★ — French Japanese
 - **Wildcard** — Wine Bar
 - **Yakiniku Heijoen** — Yakiniku
+
+### Overseas
+
+- **Terumi** — Bar
 
 ## Top rated (9.0+)
 

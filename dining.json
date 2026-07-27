@@ -1,28 +1,13 @@
 {
-  "generated_at": "2026-07-26T19:17:38.074Z",
+  "generated_at": "2026-07-27T19:41:04.728Z",
   "source": "Supabase (restaurants)",
   "summary": {
     "visited": 435,
-    "want_to_try": 106,
+    "want_to_try": 107,
     "avg_rating": 8.1,
-    "total": 615
+    "total": 616
   },
   "restaurants": [
-    {
-      "name": "Thevar",
-      "cuisine": "Indian",
-      "country": "Singapore",
-      "city": "Singapore",
-      "area": "Keong Saik",
-      "rating": 9.5,
-      "status": "visited",
-      "michelin_type": "star",
-      "michelin_stars": 2,
-      "michelin_verified": true,
-      "google_rating": 4.6,
-      "price_level": null,
-      "favourite": false
-    },
     {
       "name": "Poise",
       "cuisine": "European/Nordic",
@@ -80,21 +65,6 @@
       "michelin_stars": 0,
       "michelin_verified": false,
       "google_rating": null,
-      "price_level": null,
-      "favourite": false
-    },
-    {
-      "name": "Nae:um",
-      "cuisine": "Modern Korean",
-      "country": "Singapore",
-      "city": "Singapore",
-      "area": "Telok Ayer",
-      "rating": 9,
-      "status": "visited",
-      "michelin_type": "star",
-      "michelin_stars": 1,
-      "michelin_verified": true,
-      "google_rating": 4.6,
       "price_level": null,
       "favourite": false
     },
@@ -1539,21 +1509,6 @@
       "favourite": false
     },
     {
-      "name": "Waunn",
-      "cuisine": "Japanese Kaisedon",
-      "country": "Japan",
-      "city": "Tokyo",
-      "area": "35",
-      "rating": 9,
-      "status": "visited",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 4.8,
-      "price_level": null,
-      "favourite": true
-    },
-    {
       "name": "Jungsik Seoul",
       "cuisine": "Modern Korean",
       "country": "South Korea",
@@ -1567,6 +1522,21 @@
       "google_rating": 4.4,
       "price_level": 4,
       "favourite": false
+    },
+    {
+      "name": "Waunn",
+      "cuisine": "Japanese Kaisedon",
+      "country": "Japan",
+      "city": "Tokyo",
+      "area": "35",
+      "rating": 9,
+      "status": "visited",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.8,
+      "price_level": null,
+      "favourite": true
     },
     {
       "name": "Le Bon Funk",
@@ -2109,36 +2079,6 @@
       "favourite": false
     },
     {
-      "name": "Locavore NXT",
-      "cuisine": "Indonesian",
-      "country": "Indonesia",
-      "city": "Bali",
-      "area": "Ubud",
-      "rating": 9.5,
-      "status": "visited",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 4.8,
-      "price_level": null,
-      "favourite": false
-    },
-    {
-      "name": "Logy",
-      "cuisine": "Asian Contemporary",
-      "country": "Taiwan",
-      "city": "Taipei",
-      "area": "Da'an District",
-      "rating": 9.5,
-      "status": "visited",
-      "michelin_type": "star",
-      "michelin_stars": 2,
-      "michelin_verified": true,
-      "google_rating": 4.3,
-      "price_level": 4,
-      "favourite": false
-    },
-    {
       "name": "Desde 1911",
       "cuisine": "Seafood",
       "country": "Spain",
@@ -2484,21 +2424,6 @@
       "favourite": false
     },
     {
-      "name": "Sühring",
-      "cuisine": "German",
-      "country": "Thailand",
-      "city": "Bangkok",
-      "area": "Khet Yan Nawa",
-      "rating": 9.5,
-      "status": "visited",
-      "michelin_type": "star",
-      "michelin_stars": 3,
-      "michelin_verified": true,
-      "google_rating": 4.6,
-      "price_level": 4,
-      "favourite": false
-    },
-    {
       "name": "Micasa",
       "cuisine": "Spanish",
       "country": "Singapore",
@@ -2694,21 +2619,6 @@
       "favourite": false
     },
     {
-      "name": "Born and Bred",
-      "cuisine": "Korean Steakhouse",
-      "country": "South Korea",
-      "city": "Seoul",
-      "area": "Seongdong-gu",
-      "rating": 9.2,
-      "status": "visited",
-      "michelin_type": "selected",
-      "michelin_stars": 0,
-      "michelin_verified": true,
-      "google_rating": 4.4,
-      "price_level": 4,
-      "favourite": false
-    },
-    {
       "name": "Carlitos",
       "cuisine": "Spanish",
       "country": "Singapore",
@@ -2782,6 +2692,21 @@
       "google_rating": 4.7,
       "price_level": 3,
       "favourite": true
+    },
+    {
+      "name": "Born and Bred",
+      "cuisine": "Korean Steakhouse",
+      "country": "South Korea",
+      "city": "Seoul",
+      "area": "Seongdong-gu",
+      "rating": 9.2,
+      "status": "visited",
+      "michelin_type": "selected",
+      "michelin_stars": 0,
+      "michelin_verified": true,
+      "google_rating": 4.4,
+      "price_level": 4,
+      "favourite": false
     },
     {
       "name": "Shinji by Kanesaka",
@@ -2871,21 +2796,6 @@
       "michelin_verified": true,
       "google_rating": 4.6,
       "price_level": null,
-      "favourite": false
-    },
-    {
-      "name": "Burnt Ends",
-      "cuisine": "Modern Australian BBQ",
-      "country": "Singapore",
-      "city": "Singapore",
-      "area": "Keong Saik",
-      "rating": 9,
-      "status": "visited",
-      "michelin_type": "star",
-      "michelin_stars": 1,
-      "michelin_verified": true,
-      "google_rating": 4.5,
-      "price_level": 3,
       "favourite": false
     },
     {
@@ -5679,21 +5589,6 @@
       "favourite": false
     },
     {
-      "name": "Seroja",
-      "cuisine": "Mod Singaporean/Malayan",
-      "country": "Singapore",
-      "city": "Singapore",
-      "area": "Bugis",
-      "rating": 9.8,
-      "status": "visited",
-      "michelin_type": "star",
-      "michelin_stars": 1,
-      "michelin_verified": true,
-      "google_rating": 4.7,
-      "price_level": null,
-      "favourite": true
-    },
-    {
       "name": "Sushi Kimura Plus",
       "cuisine": "Japanese",
       "country": "Singapore",
@@ -6789,21 +6684,6 @@
       "favourite": false
     },
     {
-      "name": "1887 by Andre",
-      "cuisine": "French",
-      "country": "Singapore",
-      "city": "Singapore",
-      "area": "Orchard",
-      "rating": null,
-      "status": "want-to-try",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 3.6,
-      "price_level": null,
-      "favourite": false
-    },
-    {
       "name": "Wewa orchard gateway",
       "cuisine": "Middle Eastern",
       "country": "Singapore",
@@ -6815,6 +6695,21 @@
       "michelin_stars": 0,
       "michelin_verified": false,
       "google_rating": 4.6,
+      "price_level": null,
+      "favourite": false
+    },
+    {
+      "name": "1887 by Andre",
+      "cuisine": "French",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Orchard",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 3.8,
       "price_level": null,
       "favourite": false
     },
@@ -7011,21 +6906,6 @@
       "michelin_verified": false,
       "google_rating": 4.3,
       "price_level": 2,
-      "favourite": false
-    },
-    {
-      "name": "Cloudstreet",
-      "cuisine": "Modern European",
-      "country": "Singapore",
-      "city": "Singapore",
-      "area": "Amoy",
-      "rating": null,
-      "status": "want-to-try",
-      "michelin_type": "star",
-      "michelin_stars": 2,
-      "michelin_verified": true,
-      "google_rating": 4.7,
-      "price_level": 4,
       "favourite": false
     },
     {
@@ -8874,21 +8754,6 @@
       "favourite": false
     },
     {
-      "name": "Meta",
-      "cuisine": "French-Asian",
-      "country": "Singapore",
-      "city": "Singapore",
-      "area": "Keong Saik",
-      "rating": 9.5,
-      "status": "visited",
-      "michelin_type": "star",
-      "michelin_stars": 2,
-      "michelin_verified": true,
-      "google_rating": 4.6,
-      "price_level": null,
-      "favourite": false
-    },
-    {
       "name": "Shoukouwa",
       "cuisine": "Japanese Omakase",
       "country": "Singapore",
@@ -8904,21 +8769,6 @@
       "favourite": false
     },
     {
-      "name": "Labyrinth",
-      "cuisine": "Mod Singaporean",
-      "country": "Singapore",
-      "city": "Singapore",
-      "area": "CBD",
-      "rating": 7.5,
-      "status": "visited",
-      "michelin_type": "star",
-      "michelin_stars": 1,
-      "michelin_verified": true,
-      "google_rating": 4.5,
-      "price_level": null,
-      "favourite": false
-    },
-    {
       "name": "Alma by Juan Amador",
       "cuisine": "Spanish",
       "country": "Singapore",
@@ -8931,6 +8781,21 @@
       "michelin_verified": true,
       "google_rating": 4.5,
       "price_level": 4,
+      "favourite": false
+    },
+    {
+      "name": "Meta",
+      "cuisine": "French-Asian",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Keong Saik",
+      "rating": 9.5,
+      "status": "visited",
+      "michelin_type": "star",
+      "michelin_stars": 2,
+      "michelin_verified": true,
+      "google_rating": 4.6,
+      "price_level": null,
       "favourite": false
     },
     {
@@ -9144,21 +9009,6 @@
       "favourite": false
     },
     {
-      "name": "Crony",
-      "cuisine": "French",
-      "country": "Japan",
-      "city": "Tokyo",
-      "area": "20",
-      "rating": 9.8,
-      "status": "visited",
-      "michelin_type": "star",
-      "michelin_stars": 2,
-      "michelin_verified": true,
-      "google_rating": 4.7,
-      "price_level": null,
-      "favourite": true
-    },
-    {
       "name": "Loulouca",
       "cuisine": "Dessert",
       "country": "Singapore",
@@ -9204,6 +9054,21 @@
       "favourite": false
     },
     {
+      "name": "Crony",
+      "cuisine": "French",
+      "country": "Japan",
+      "city": "Tokyo",
+      "area": "20",
+      "rating": 9.8,
+      "status": "visited",
+      "michelin_type": "star",
+      "michelin_stars": 2,
+      "michelin_verified": true,
+      "google_rating": 4.7,
+      "price_level": null,
+      "favourite": true
+    },
+    {
       "name": "5PM Lalapot",
       "cuisine": "Chinese Hotpot",
       "country": "Malaysia",
@@ -9215,6 +9080,21 @@
       "michelin_stars": 0,
       "michelin_verified": false,
       "google_rating": 4.9,
+      "price_level": null,
+      "favourite": false
+    },
+    {
+      "name": "Terumi",
+      "cuisine": "Bar",
+      "country": "Malaysia",
+      "city": "Singapore",
+      "area": "Taman Paramount",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.8,
       "price_level": null,
       "favourite": false
     },
@@ -9232,6 +9112,141 @@
       "google_rating": 4.7,
       "price_level": null,
       "favourite": true
+    },
+    {
+      "name": "Thevar",
+      "cuisine": "Indian",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Keong Saik",
+      "rating": 9.5,
+      "status": "visited",
+      "michelin_type": "star",
+      "michelin_stars": 2,
+      "michelin_verified": true,
+      "google_rating": 4.6,
+      "price_level": null,
+      "favourite": false
+    },
+    {
+      "name": "Nae:um",
+      "cuisine": "Modern Korean",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Telok Ayer",
+      "rating": 9,
+      "status": "visited",
+      "michelin_type": "star",
+      "michelin_stars": 1,
+      "michelin_verified": true,
+      "google_rating": 4.6,
+      "price_level": null,
+      "favourite": false
+    },
+    {
+      "name": "Locavore NXT",
+      "cuisine": "Indonesian",
+      "country": "Indonesia",
+      "city": "Bali",
+      "area": "Ubud",
+      "rating": 9.5,
+      "status": "visited",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.8,
+      "price_level": null,
+      "favourite": false
+    },
+    {
+      "name": "Logy",
+      "cuisine": "Asian Contemporary",
+      "country": "Taiwan",
+      "city": "Taipei",
+      "area": "Da'an District",
+      "rating": 9.5,
+      "status": "visited",
+      "michelin_type": "star",
+      "michelin_stars": 2,
+      "michelin_verified": true,
+      "google_rating": 4.3,
+      "price_level": 4,
+      "favourite": false
+    },
+    {
+      "name": "Sühring",
+      "cuisine": "German",
+      "country": "Thailand",
+      "city": "Bangkok",
+      "area": "Khet Yan Nawa",
+      "rating": 9.5,
+      "status": "visited",
+      "michelin_type": "star",
+      "michelin_stars": 3,
+      "michelin_verified": true,
+      "google_rating": 4.6,
+      "price_level": 4,
+      "favourite": false
+    },
+    {
+      "name": "Burnt Ends",
+      "cuisine": "Modern Australian BBQ",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Keong Saik",
+      "rating": 9,
+      "status": "visited",
+      "michelin_type": "star",
+      "michelin_stars": 1,
+      "michelin_verified": true,
+      "google_rating": 4.5,
+      "price_level": 3,
+      "favourite": false
+    },
+    {
+      "name": "Seroja",
+      "cuisine": "Mod Singaporean/Malayan",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Bugis",
+      "rating": 9.8,
+      "status": "visited",
+      "michelin_type": "star",
+      "michelin_stars": 1,
+      "michelin_verified": true,
+      "google_rating": 4.7,
+      "price_level": null,
+      "favourite": true
+    },
+    {
+      "name": "Labyrinth",
+      "cuisine": "Mod Singaporean",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "CBD",
+      "rating": 7.5,
+      "status": "visited",
+      "michelin_type": "star",
+      "michelin_stars": 1,
+      "michelin_verified": true,
+      "google_rating": 4.5,
+      "price_level": null,
+      "favourite": false
+    },
+    {
+      "name": "Cloudstreet",
+      "cuisine": "Modern European",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Amoy",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": "star",
+      "michelin_stars": 2,
+      "michelin_verified": true,
+      "google_rating": 4.7,
+      "price_level": 4,
+      "favourite": false
     }
   ]
 }
