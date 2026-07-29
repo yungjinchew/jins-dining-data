@@ -1,6 +1,6 @@
-# Jin's Dining List — snapshot 2026-07-28
+# Jin's Dining List — snapshot 2026-07-29
 
-_Auto-exported from Supabase, refreshed nightly. 435 visited · 107 to try · 8.1 avg · 616 total._
+_Auto-exported from Supabase, refreshed nightly. 435 visited · 154 to try · 8.1 avg · 663 total._
 
 Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · ♥ = would return / favourite · [closed] = permanently closed.
 
@@ -800,7 +800,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 
 - **Restaurante Palomeque** — Tapas — 8.5
 
-## Want to try (107)
+## Want to try (154)
 
 ### Singapore
 
@@ -808,14 +808,17 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **1887 by Andre** — French
 - **27 Degrees West** — Indian
 - **Ayasofya** — Turkish
+- **Bar Bon Funk** — Bar / Cocktails
 - **Bar kap** — Bar
 - **Belimbing** — Singaporean
 - **Bonding Kitchen** — Peranakan
+- **BOP** — Bar / Cocktails
 - **Bouillon Gavroche** — French
 - **Buona Terra** ★ — Italian
 - **Capasso** — Colombian/Italian
 - **Casa Cicheti** — Italian
 - **Casa Tartufo** — Italian
+- **Cat Bite Club** — Bar / Cocktails
 - **Catfish** — Seafood
 - **Ce Soir** — French
 - **Chooby Pizza** — Pizza
@@ -863,7 +866,9 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Native** — Bar / Cocktails
 - **Noa Lounge** — Mediterranean
 - **Nutmeg & Clove** — Bar / Cocktails
+- **Offtrack** — Bar / Cocktails
 - **Omakase at Stevens** ★ — Japanese
+- **Origin Bar** — Bar / Cocktails
 - **Pasta J** — Pasta/Steak
 - **PERA Turkish Grill** — Turkish
 - **Permata Singapore** — Malay
@@ -887,6 +892,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Side door** — Café
 - **Skai** — European
 - **Spago** — Californian
+- **Stay Gold Flamingo** — Bar / Cocktails
 - **Steak Sudaku** — Japanese Steak
 - **Supernova** — Cafe
 - **Sushidan** — Sushi
@@ -897,6 +903,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Tamba** — West African
 - **Terra Italian Tokyo** — Italian Japanese
 - **The Champagnery** — Champagne Bar
+- **The Elephant Room** — Bar / Cocktails
 - **The English House** — British
 - **The Study** — British
 - **Todamgol** — Korean
@@ -913,7 +920,47 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 
 ### Overseas
 
+- **Argo** — Bar / Cocktails
+- **Backdoor Bodega** — Bar / Cocktails
+- **Bar Benfiddich** — Bar / Cocktails
+- **Bar Cham** — Bar / Cocktails
+- **Bar Mood** — Bar / Cocktails
+- **Bar Sathorn** — Bar / Cocktails
+- **Bar Trench** — Bar / Cocktails
+- **Bar Us** — Bar / Cocktails
+- **Between the Sips** — Bar / Cocktails
+- **Cabinet 8** — Bar / Cocktails
+- **Carrots Bar** — Bar / Cocktails
+- **Coa** — Bar / Cocktails
+- **Cosmo Pony** — Bar / Cocktails
+- **Dry Wave Cocktail Studio** — Bar / Cocktails
+- **G.O.D** — Bar / Cocktails
+- **Gokan** — Bar / Cocktails
+- **Gong Gan** — Bar / Cocktails
+- **Lennon's** — Bar / Cocktails
+- **M+MS Bar** — Bar / Cocktails
+- **Mahaniyom Cocktail Bar** — Bar / Cocktails
+- **Maltail** — Bar / Cocktails
+- **Mius** — Bar / Cocktails
+- **Modernhaus** — Bar / Cocktails
+- **Moonrock** — Bar / Cocktails
+- **Opium** — Bar / Cocktails
+- **Penrose** — Bar / Cocktails
+- **Punch Room Tokyo** — Bar / Cocktails
+- **Reka** — Bar / Cocktails
+- **Tell Camellia** — Bar / Cocktails
 - **Terumi** — Bar
+- **The Bellwood** — Bar / Cocktails
+- **The Golden Tooth** — Bar / Cocktails
+- **The Han-Jia** — Bar / Cocktails
+- **The Public House** — Bar / Cocktails
+- **The Savory Project** — Bar / Cocktails
+- **The St. Regis Bar** — Bar / Cocktails
+- **To Infinity & Beyond** — Bar / Cocktails
+- **unDer lab** — Bar / Cocktails
+- **Virtù** — Bar / Cocktails
+- **Yakoboku** — Bar / Cocktails
+- **Zest** — Bar / Cocktails
 
 ## Top rated (9.0+)
 
