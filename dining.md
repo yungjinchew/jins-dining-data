@@ -1,6 +1,6 @@
-# Jin's Dining List — snapshot 2026-07-31
+# Jin's Dining List — snapshot 2026-08-01
 
-_Auto-exported from Supabase, refreshed nightly. 435 visited · 154 to try · 8.1 avg · 663 total._
+_Auto-exported from Supabase, refreshed nightly. 437 visited · 160 to try · 8.1 avg · 671 total._
 
 Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · ♥ = would return / favourite · [closed] = permanently closed.
 
@@ -58,7 +58,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - *Poise [closed] — European/Nordic — 9.8*
 - **Meta** ★★ — French-Asian — 9.5
 - **Thevar** ★★ — Indian — 9.5
-- **Burnt Ends** ★ — Modern Australian BBQ — 9
+- **Burnt Ends** ★ — Modern Australian BBQ — 9.3
 - **Gu:Um** — Korean Steakhouse — 9
 - **Humo Spanish Izakaya** — Spanish-Japanese — 8.5
 - **Olivia** — Spanish — 8.5
@@ -416,6 +416,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 ### Bukit Timah
 
 - **Lino** — Pizza — 8.5
+- **Sweet cheeks** — Dessert — 8.5
 - **Micasa** — Spanish — 8
 - **Little Diner** — American — 7.5
 - **Tenderfresh** — Fried Chicken — 7
@@ -557,7 +558,6 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 ### National Gallery
 
 - **National Kitchen by Violet Oon** — Peranakan — 7.8
-- **Aura** — European — 7
 - **Restaurant Art** — Italian — 6.5
 
 ### Newton
@@ -683,6 +683,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 
 ### Seoul
 
+- **Bar Cham** — Bar / Cocktails — 9.5
 - **Jungsik Seoul** ★★ — Modern Korean — 9.5
 - **Born and Bred** — Korean Steakhouse — 9.2
 - **Mr. Ahn's Craft Makgeolli** — Gastropub — 9
@@ -758,6 +759,10 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **KARA-KUSA curry** — Japanese Curry — 8.5
 - **Nishiki Sushi Shin** — Sushi — 8.5
 
+### Shibuya
+
+- **Bar Trench** — Bar / Cocktails — 9
+
 ### Kanazawa
 
 - **Tsubajin** — Japanese Kaiseki — 8.8
@@ -800,7 +805,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 
 - **Restaurante Palomeque** — Tapas — 8.5
 
-## Want to try (154)
+## Want to try (160)
 
 ### Singapore
 
@@ -808,6 +813,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **1887 by Andre** — French
 - **27 Degrees West** — Indian
 - **Ayasofya** — Turkish
+- **Bae Sik Dang** — Korean BBQ
 - **Bar Bon Funk** — Bar / Cocktails
 - **Bar kap** — Bar
 - **Belimbing** — Singaporean
@@ -817,6 +823,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Buona Terra** ★ — Italian
 - **Capasso** — Colombian/Italian
 - **Casa Cicheti** — Italian
+- **Casa Mori** — Spanish / Modern Asian
 - **Casa Tartufo** — Italian
 - **Cat Bite Club** — Bar / Cocktails
 - **Catfish** — Seafood
@@ -833,6 +840,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Fura** — Bar / Cocktails
 - **Gai Inn Izakaya** — Japanese
 - **Gaston** — French Burgundian
+- **Gilmore & Damian D'Silva** — Eurasian
 - **Guccio** — Italian
 - **Hamamoto** ★ — Japanese
 - **Hazuki** — Japanese
@@ -844,11 +852,13 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **iL Cielo** — Italian
 - **Il Clay** — Italian
 - **IL Giardino** — Italian
+- **Joong San** — Korean BBQ
 - **Kakushin** — Japanese Omakase
 - **Katsuya** — Tonkatsu
 - **Kazu Sami Yaki** — Japanese Yakitori
 - **Keyaki Pan Pacific** — Japanese
 - **Ki-sho** — Japanese
+- **Kong Madam** — Korean Soontofu
 - **Kura Oyster & Highball Bar** — Japanese Oyster Bar
 - **Kyuu by Shunshui** — Japanese Omakase
 - **L'Amo Bistro del Mare** — Coastal Italian
@@ -885,16 +895,19 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Sago House** — Bar / Cocktails
 - **Salt & Soul** — European
 - **SAMSAMSAM Samgyetang Specialty Korean Restaurant | Novena Square** — Korean
+- **Satori** — Japanese Yakitori
 - **Scarpetta** — Pasta Bar
 - **Seoul & So** — Korean
 - **Shabestan** — Persian/Iranian
 - **Shoukouwa** ★★ — Japanese Omakase
 - **Side door** — Café
+- **Sio Pasta** — Japanese Pasta
 - **Skai** — European
 - **Spago** — Californian
 - **Stay Gold Flamingo** — Bar / Cocktails
 - **Steak Sudaku** — Japanese Steak
 - **Supernova** — Cafe
+- **Sushi Hare** — Japanese Omakase
 - **Sushidan** — Sushi
 - **Suzuki** — Japanese Kaiseki
 - **Table65** — Modern European
@@ -923,10 +936,8 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Argo** — Bar / Cocktails
 - **Backdoor Bodega** — Bar / Cocktails
 - **Bar Benfiddich** — Bar / Cocktails
-- **Bar Cham** — Bar / Cocktails
 - **Bar Mood** — Bar / Cocktails
 - **Bar Sathorn** — Bar / Cocktails
-- **Bar Trench** — Bar / Cocktails
 - **Bar Us** — Bar / Cocktails
 - **Between the Sips** — Bar / Cocktails
 - **Cabinet 8** — Bar / Cocktails
@@ -976,6 +987,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 | 9.6 | Euphoria | Modern European | Tanjong Pagar |
 | 9.6 | Sommer | Modern European | CBD |
 | 9.5 | Araya ★ | South American | Duxton |
+| 9.5 | Bar Cham | Bar / Cocktails | Seoul |
 | 9.5 | Desde 1911 ★ ♥ | Seafood | Madrid |
 | 9.5 | Estiatorio Milos ♥ | Greek | MBS |
 | 9.5 | Hachi ♥ | Japanese Omakase | CBD |
@@ -992,6 +1004,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 | 9.5 | 鲨 野村 のむら (Sushi Nomura) ♥ | Japanese Sushi | Taipei |
 | 9.3 | Bar Butler | Bar / Cocktails | Tokyo |
 | 9.3 | Bible Club | Bar / Cocktails | Osaka |
+| 9.3 | Burnt Ends ★ | Modern Australian BBQ | Keong Saik |
 | 9.3 | Mustard Seed | Mod Singaporean | Serangoon |
 | 9.2 | Asakusa Imahan ♥ | Sukiyaki | Tokyo |
 | 9.2 | Born and Bred | Korean Steakhouse | Seoul |
@@ -1008,11 +1021,11 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 | 9.2 | 炭火焼肉 一獲 | Yakiniku | Osaka |
 | 9.1 | Hearth | Izakaya | Craig Road |
 | 9 | 80/20 Eighty Twenty ★ | Thai | Bangkok |
+| 9 | Bar Trench | Bar / Cocktails | Shibuya |
 | 9 | Bedok Chwee Kueh | Chwee Kueh | Bedok |
 | 9 | Beni | French-Japanese | Orchard |
 | 9 | Black Pearl ♥ | Chinese Yue | CBD |
 | 9 | Bukit Purmei Lor Mee | Lor Mee | Bukit Purmei |
-| 9 | Burnt Ends ★ | Modern Australian BBQ | Keong Saik |
 | 9 | Cañete | Tapas | Barcelona |
 | 9 | Chef Kang Wonton Noodle | Wonton Noodle | Toa Payoh |
 | 9 | Claudine | French | Dempsey |
