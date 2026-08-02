@@ -1,6 +1,6 @@
-# Jin's Dining List — snapshot 2026-08-01
+# Jin's Dining List — snapshot 2026-08-02
 
-_Auto-exported from Supabase, refreshed nightly. 437 visited · 160 to try · 8.1 avg · 671 total._
+_Auto-exported from Supabase, refreshed nightly. 440 visited · 161 to try · 8.1 avg · 675 total._
 
 Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · ♥ = would return / favourite · [closed] = permanently closed.
 
@@ -544,6 +544,10 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Hansang** — Korean — 8
 - **Sinn Ji** — Chicken Rice — 7
 
+### Outram
+
+- **Nesuto** — Café — 8
+
 ### Redhill
 
 - **Fu Ming Carrot Cake** — Carrot Cake — 8
@@ -564,9 +568,17 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 
 - **Atlas Coffeehouse** — Cafe/Brunch — 7.8
 
+### Tanglin
+
+- **Pantler** — Café — 7.8
+
 ### Bukit Panjang
 
 - **Fabulous Baker Boy** — Brunch — 7.5
+
+### Changi
+
+- **Kantin** —  — 7.5
 
 ### Esplanade
 
@@ -805,7 +817,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 
 - **Restaurante Palomeque** — Tapas — 8.5
 
-## Want to try (160)
+## Want to try (161)
 
 ### Singapore
 
@@ -852,6 +864,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **iL Cielo** — Italian
 - **Il Clay** — Italian
 - **IL Giardino** — Italian
+- **Iru den** — Taiwanese
 - **Joong San** — Korean BBQ
 - **Kakushin** — Japanese Omakase
 - **Katsuya** — Tonkatsu

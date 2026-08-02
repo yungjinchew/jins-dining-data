@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-01T19:15:16.094Z",
+  "generated_at": "2026-08-02T19:16:46.155Z",
   "source": "Supabase (restaurants)",
   "summary": {
-    "visited": 437,
-    "want_to_try": 160,
+    "visited": 440,
+    "want_to_try": 161,
     "avg_rating": 8.1,
-    "total": 671
+    "total": 675
   },
   "restaurants": [
     {
@@ -3579,6 +3579,36 @@
       "favourite": false
     },
     {
+      "name": "Iru den",
+      "cuisine": "Taiwanese",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Newton",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": "selected",
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.7,
+      "price_level": null,
+      "favourite": false
+    },
+    {
+      "name": "Nesuto",
+      "cuisine": "Café",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Outram",
+      "rating": 8,
+      "status": "visited",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.5,
+      "price_level": null,
+      "favourite": false
+    },
+    {
       "name": "Lavo",
       "cuisine": "Italian",
       "country": "Singapore",
@@ -3667,6 +3697,36 @@
       "google_rating": 4.5,
       "price_level": null,
       "favourite": true
+    },
+    {
+      "name": "Kantin",
+      "cuisine": "",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Changi",
+      "rating": 7.5,
+      "status": "visited",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.7,
+      "price_level": null,
+      "favourite": false
+    },
+    {
+      "name": "Pantler",
+      "cuisine": "Café",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Tanglin",
+      "rating": 7.8,
+      "status": "visited",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.2,
+      "price_level": 2,
+      "favourite": false
     },
     {
       "name": "Mothers Kichijōji",
