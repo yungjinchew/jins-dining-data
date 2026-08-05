@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-04T19:42:27.639Z",
+  "generated_at": "2026-08-05T19:41:27.311Z",
   "source": "Supabase (restaurants)",
   "summary": {
-    "visited": 440,
+    "visited": 441,
     "want_to_try": 161,
     "avg_rating": 8.1,
-    "total": 675
+    "total": 676
   },
   "restaurants": [
     {
@@ -4719,21 +4719,6 @@
       "favourite": false
     },
     {
-      "name": "Temper Wine Room",
-      "cuisine": "Wine Bar",
-      "country": "Singapore",
-      "city": "Singapore",
-      "area": "CBD",
-      "rating": 8,
-      "status": "visited",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 4.6,
-      "price_level": null,
-      "favourite": false
-    },
-    {
       "name": "Thanying",
       "cuisine": "Thai",
       "country": "Singapore",
@@ -4792,6 +4777,21 @@
       "google_rating": 2.5,
       "price_level": null,
       "favourite": false
+    },
+    {
+      "name": "Temper Wine Room",
+      "cuisine": "Wine Bar",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "CBD",
+      "rating": 8,
+      "status": "visited",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.7,
+      "price_level": 4,
+      "favourite": true
     },
     {
       "name": "Unagi Yondaime Kikukawa",
@@ -9549,21 +9549,6 @@
       "favourite": false
     },
     {
-      "name": "Native",
-      "cuisine": "Bar / Cocktails",
-      "country": "Singapore",
-      "city": "Singapore",
-      "area": "Amoy Street",
-      "rating": null,
-      "status": "want-to-try",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 4.7,
-      "price_level": null,
-      "favourite": false
-    },
-    {
       "name": "Jianhong Beef Noodles (建宏牛肉麵)",
       "cuisine": "Beef Noodle Soup",
       "country": "Taiwan",
@@ -10131,6 +10116,36 @@
       "michelin_verified": false,
       "google_rating": 4.6,
       "price_level": null,
+      "favourite": false
+    },
+    {
+      "name": "Loca niru",
+      "cuisine": "Japanese",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Museum",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.8,
+      "price_level": 4,
+      "favourite": false
+    },
+    {
+      "name": "Native",
+      "cuisine": "Bar / Cocktails",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Amoy Street",
+      "rating": 8.5,
+      "status": "visited",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.7,
+      "price_level": 2,
       "favourite": false
     }
   ]

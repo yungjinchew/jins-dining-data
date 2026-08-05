@@ -1,10 +1,10 @@
-# Jin's Dining List — snapshot 2026-08-04
+# Jin's Dining List — snapshot 2026-08-05
 
-_Auto-exported from Supabase, refreshed nightly. 440 visited · 161 to try · 8.1 avg · 675 total._
+_Auto-exported from Supabase, refreshed nightly. 441 visited · 161 to try · 8.1 avg · 676 total._
 
 Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · ♥ = would return / favourite · [closed] = permanently closed.
 
-## Favourites (29)
+## Favourites (30)
 
 ### Singapore
 
@@ -24,6 +24,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Mott 32** ♥ — Chinese — 8.5
 - **MyX** ♥ — Latin — 8.5
 - **Roberta's Pizza** ♥ — Pizza — 8.5
+- **Temper Wine Room** ♥ — Wine Bar — 8
 
 ### Overseas
 
@@ -162,7 +163,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Red Eye Smokehouse** — American BBQ — 8
 - *Restaurant Gaig [closed] — Spanish — 8*
 - **Taste Paradise** — Dim Sum — 8
-- **Temper Wine Room** — Wine Bar — 8
+- **Temper Wine Room** ♥ — Wine Bar — 8
 - **Thanying** — Thai — 8
 - **Unagi Yondaime Kikukawa** — Unagi — 8
 - **Wah Kee Prawn Mee** — Prawn Mee — 8
@@ -407,6 +408,10 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 
 - **Magpie** — Borderless Soul Food — 8.8
 - **Forty Hands** — Coffee/Cafe — 7
+
+### Amoy Street
+
+- **Native** — Bar / Cocktails — 8.5
 
 ### Boat Quay
 
@@ -880,13 +885,13 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Lang Nuong Viet Nam** — Vietnamese
 - **Latido** — Colombian
 - **Les Climats** — Wine Bar
+- **Loca niru** — Japanese
 - **Loulou** — French/Wine Bar
 - **Loulouca** — Dessert
 - **Mag's Wine Bar** — Wine Bar
 - **Mare Hachikyo** — Japanese Hokkaido
 - **Meadesmoore** — Steakhouse
 - **Mimoto** — Izakaya
-- **Native** — Bar / Cocktails
 - **Noa Lounge** — Mediterranean
 - **Nutmeg & Clove** — Bar / Cocktails
 - **Offtrack** — Bar / Cocktails
