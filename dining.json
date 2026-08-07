@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T00:06:06.040Z",
+  "generated_at": "2026-08-07T19:02:47.036Z",
   "source": "Supabase (restaurants)",
   "summary": {
     "visited": 441,
@@ -2301,21 +2301,6 @@
       "michelin_verified": true,
       "google_rating": 4.5,
       "price_level": 3,
-      "favourite": false
-    },
-    {
-      "name": "Ushidoki Wagyu Kaiseki",
-      "cuisine": "Japanese Wagyu",
-      "country": "Singapore",
-      "city": "Singapore",
-      "area": "Tanjong Pagar",
-      "rating": 9,
-      "status": "visited",
-      "michelin_type": "selected",
-      "michelin_stars": 0,
-      "michelin_verified": true,
-      "google_rating": 4.8,
-      "price_level": null,
       "favourite": false
     },
     {
@@ -10146,6 +10131,21 @@
       "michelin_verified": false,
       "google_rating": 4.7,
       "price_level": 2,
+      "favourite": false
+    },
+    {
+      "name": "Ushidoki Wagyu Kaiseki",
+      "cuisine": "Japanese Wagyu",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Tanjong Pagar",
+      "rating": 9,
+      "status": "visited",
+      "michelin_type": "selected",
+      "michelin_stars": 0,
+      "michelin_verified": true,
+      "google_rating": 4.8,
+      "price_level": 4,
       "favourite": false
     }
   ]
