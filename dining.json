@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-09T18:47:18.474Z",
+  "generated_at": "2026-08-10T19:02:40.742Z",
   "source": "Supabase (restaurants)",
   "summary": {
-    "visited": 441,
+    "visited": 448,
     "want_to_try": 161,
     "avg_rating": 8.1,
-    "total": 676
+    "total": 683
   },
   "restaurants": [
     {
@@ -8619,21 +8619,6 @@
       "favourite": false
     },
     {
-      "name": "Bar kap",
-      "cuisine": "Bar",
-      "country": "Singapore",
-      "city": "Singapore",
-      "area": "Museum",
-      "rating": null,
-      "status": "want-to-try",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 4.9,
-      "price_level": null,
-      "favourite": false
-    },
-    {
       "name": "Farangse",
       "cuisine": "French Thai",
       "country": "Singapore",
@@ -10146,6 +10131,126 @@
       "michelin_verified": true,
       "google_rating": 4.8,
       "price_level": 4,
+      "favourite": false
+    },
+    {
+      "name": "Beta KL",
+      "cuisine": "Modern Malaysian",
+      "country": "Malaysia",
+      "city": "Kuala Lumpur",
+      "area": "KLCC",
+      "rating": 9,
+      "status": "visited",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.7,
+      "price_level": 4,
+      "favourite": false
+    },
+    {
+      "name": "Betawi",
+      "cuisine": "Indonesian",
+      "country": "Malaysia",
+      "city": "Kuala Lumpur",
+      "area": "TTDI",
+      "rating": 8.5,
+      "status": "visited",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.8,
+      "price_level": 2,
+      "favourite": false
+    },
+    {
+      "name": "JWALA",
+      "cuisine": "Modern Indian",
+      "country": "Malaysia",
+      "city": "Kuala Lumpur",
+      "area": "Bukit Damansara",
+      "rating": 8.5,
+      "status": "visited",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.8,
+      "price_level": 4,
+      "favourite": false
+    },
+    {
+      "name": "Tsuka Bangsar",
+      "cuisine": "Malay",
+      "country": "Malaysia",
+      "city": "Kuala Lumpur",
+      "area": "Bangsar",
+      "rating": 8,
+      "status": "visited",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.5,
+      "price_level": 2,
+      "favourite": false
+    },
+    {
+      "name": "Yan Kee Claypot Chicken Rice",
+      "cuisine": "Chinese / Claypot",
+      "country": "Malaysia",
+      "city": "Kuala Lumpur",
+      "area": "Pudu",
+      "rating": 7,
+      "status": "visited",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.4,
+      "price_level": 2,
+      "favourite": false
+    },
+    {
+      "name": "PS150",
+      "cuisine": "Bar / Cocktails",
+      "country": "Malaysia",
+      "city": "Kuala Lumpur",
+      "area": "Chinatown",
+      "rating": 6.5,
+      "status": "visited",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.6,
+      "price_level": 2,
+      "favourite": false
+    },
+    {
+      "name": "Bar Trigona",
+      "cuisine": "Bar / Cocktails",
+      "country": "Malaysia",
+      "city": "Kuala Lumpur",
+      "area": "KLCC",
+      "rating": 7.5,
+      "status": "visited",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.4,
+      "price_level": null,
+      "favourite": false
+    },
+    {
+      "name": "Bar kap",
+      "cuisine": "Bar",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Museum",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.9,
+      "price_level": null,
       "favourite": false
     }
   ]

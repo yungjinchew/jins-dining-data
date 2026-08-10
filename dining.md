@@ -1,6 +1,6 @@
-# Jin's Dining List — snapshot 2026-08-09
+# Jin's Dining List — snapshot 2026-08-10
 
-_Auto-exported from Supabase, refreshed nightly. 441 visited · 161 to try · 8.1 avg · 676 total._
+_Auto-exported from Supabase, refreshed nightly. 448 visited · 161 to try · 8.1 avg · 683 total._
 
 Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · ♥ = would return / favourite · [closed] = permanently closed.
 
@@ -768,6 +768,16 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Mizutaki Hamadaya Honten** — Chicken Hot Pot — 8.5
 - **Ramen Kanetora** — Ramen — 8
 
+### Kuala Lumpur
+
+- **Beta KL** — Modern Malaysian — 9
+- **Betawi** — Indonesian — 8.5
+- **JWALA** — Modern Indian — 8.5
+- **Tsuka Bangsar** — Malay — 8
+- **Bar Trigona** — Bar / Cocktails — 7.5
+- **Yan Kee Claypot Chicken Rice** — Chinese / Claypot — 7
+- **PS150** — Bar / Cocktails — 6.5
+
 ### Kyoto
 
 - **Nishijin Fujiyoshi** ★ — Japanese — 9
@@ -1042,6 +1052,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 | 9 | Bar Trench | Bar / Cocktails | Shibuya |
 | 9 | Bedok Chwee Kueh | Chwee Kueh | Bedok |
 | 9 | Beni | French-Japanese | Orchard |
+| 9 | Beta KL | Modern Malaysian | Kuala Lumpur |
 | 9 | Black Pearl ♥ | Chinese Yue | CBD |
 | 9 | Bukit Purmei Lor Mee | Lor Mee | Bukit Purmei |
 | 9 | Cañete | Tapas | Barcelona |
