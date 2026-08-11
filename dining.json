@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T19:02:40.742Z",
+  "generated_at": "2026-08-11T19:06:59.612Z",
   "source": "Supabase (restaurants)",
   "summary": {
     "visited": 448,
@@ -5574,21 +5574,6 @@
       "favourite": false
     },
     {
-      "name": "Sushi Kimura Plus",
-      "cuisine": "Japanese",
-      "country": "Singapore",
-      "city": "Singapore",
-      "area": "Orchard",
-      "rating": 9.5,
-      "status": "visited",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 5,
-      "price_level": null,
-      "favourite": true
-    },
-    {
       "name": "Skirt",
       "cuisine": "Steakhouse",
       "country": "Singapore",
@@ -10252,6 +10237,21 @@
       "google_rating": 4.9,
       "price_level": null,
       "favourite": false
+    },
+    {
+      "name": "Sushi Kimura Plus",
+      "cuisine": "Japanese",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Orchard",
+      "rating": 9.5,
+      "status": "visited",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.8,
+      "price_level": 4,
+      "favourite": true
     }
   ]
 }
