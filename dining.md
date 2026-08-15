@@ -1,6 +1,6 @@
-# Jin's Dining List — snapshot 2026-08-14
+# Jin's Dining List — snapshot 2026-08-15
 
-_Auto-exported from Supabase, refreshed nightly. 448 visited · 161 to try · 8.1 avg · 683 total._
+_Auto-exported from Supabase, refreshed nightly. 442 visited · 159 to try · 8.1 avg · 681 total._
 
 Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · ♥ = would return / favourite · [closed] = permanently closed.
 
@@ -66,7 +66,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Bistro Gaston** — French — 8
 - *Wine & Chef [closed] — Wine Bar — 8*
 - **Fleur de Sel** — French — 7.5
-- **Muchachos** — Mexican — 7.5
+- *Muchachos [closed] — Mexican — 7.5*
 - **Anto Pizza** — Pizza — 7
 - *Tippling Club [closed] — Modern European*
 
@@ -160,7 +160,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Ming Chung Restaurant** — Zi Char — 8
 - **Populous** — Brunch — 8
 - *Rebel Rebel Wine Bar [closed] — Wine Bar — 8*
-- **Red Eye Smokehouse** — American BBQ — 8
+- *Red Eye Smokehouse [closed] — American BBQ — 8*
 - *Restaurant Gaig [closed] — Spanish — 8*
 - **Taste Paradise** — Dim Sum — 8
 - **Temper Wine Room** ♥ — Wine Bar — 8
@@ -263,7 +263,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - *Encore by Rhubarb [closed] — French — 8.8*
 - **Fortuna Singapore** — Pizza — 8.5
 - **Marcy's** — Seafood — 8
-- **Rhubarb** — French — 8
+- *Rhubarb [closed] — French — 8*
 - **Vincenzo Capuano** — Pizza — 8
 - **Fortuna Terrazza** — Italian — 7.5
 - **Group Therapy Cafe** — Cafe — 7.5
@@ -461,7 +461,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Miyoshi by Fat Cow** — Teppanyaki — 8.5
 - **Knolls** — European — 7.5
 - **Moutarde** — French Bistro — 7.5
-- **Osia** — Australian — 7.5
+- *Osia [closed] — Australian — 7.5*
 - **Skirt** — Steakhouse — 7.5
 
 ### Sin Ming
@@ -579,7 +579,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 
 ### Bukit Panjang
 
-- **Fabulous Baker Boy** — Brunch — 7.5
+- *Fabulous Baker Boy [closed] — Brunch — 7.5*
 
 ### Changi
 
@@ -599,7 +599,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 
 ### Marine Parade
 
-- **Nampla** — Thai — 7.5
+- *Nampla [closed] — Thai — 7.5*
 
 ### Purvis Street
 
@@ -832,7 +832,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 
 - **Restaurante Palomeque** — Tapas — 8.5
 
-## Want to try (161)
+## Want to try (159)
 
 ### Singapore
 
@@ -945,8 +945,6 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Terra Italian Tokyo** — Italian Japanese
 - **The Champagnery** — Champagne Bar
 - **The Elephant Room** — Bar / Cocktails
-- **The English House** — British
-- **The Study** — British
 - **Todamgol** — Korean
 - **Towa** — Izakaya/Teppanyaki
 - **Trattoria Lafiandra** — Italian
