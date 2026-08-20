@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T18:40:19.849Z",
+  "generated_at": "2026-08-20T18:45:27.027Z",
   "source": "Supabase (restaurants)",
   "summary": {
     "visited": 442,
@@ -4569,21 +4569,6 @@
       "favourite": false
     },
     {
-      "name": "Jyu Gae",
-      "cuisine": "Taiwanese",
-      "country": "Singapore",
-      "city": "Singapore",
-      "area": "Bugis",
-      "rating": 8.5,
-      "status": "visited",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 4.6,
-      "price_level": 2,
-      "favourite": false
-    },
-    {
       "name": "Lavo",
       "cuisine": "Italian",
       "country": "Singapore",
@@ -4641,6 +4626,21 @@
       "michelin_verified": false,
       "google_rating": 4.7,
       "price_level": null,
+      "favourite": false
+    },
+    {
+      "name": "Jyu Gae",
+      "cuisine": "Taiwanese",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Bugis",
+      "rating": 8.5,
+      "status": "visited",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.6,
+      "price_level": 2,
       "favourite": false
     },
     {
