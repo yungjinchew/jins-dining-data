@@ -1,6 +1,6 @@
-# Jin's Dining List — snapshot 2026-08-21
+# Jin's Dining List — snapshot 2026-08-22
 
-_Auto-exported from Supabase, refreshed nightly. 442 visited · 159 to try · 8.1 avg · 681 total._
+_Auto-exported from Supabase, refreshed nightly. 442 visited · 163 to try · 8.1 avg · 685 total._
 
 Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · ♥ = would return / favourite · [closed] = permanently closed.
 
@@ -832,7 +832,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 
 - **Restaurante Palomeque** — Tapas — 8.5
 
-## Want to try (159)
+## Want to try (163)
 
 ### Singapore
 
@@ -974,10 +974,14 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **G.O.D** — Bar / Cocktails
 - **Gokan** — Bar / Cocktails
 - **Gong Gan** — Bar / Cocktails
+- **Hashikatsu Tonkatsu Ginza** — Tonkatsu
+- **Jambo Hanare** — Yakiniku
+- **Kanda Matsuya** — Soba
 - **Lennon's** — Bar / Cocktails
 - **M+MS Bar** — Bar / Cocktails
 - **Mahaniyom Cocktail Bar** — Bar / Cocktails
 - **Maltail** — Bar / Cocktails
+- **Maruya Honten - Ginza Glasse** — Unagi
 - **Mius** — Bar / Cocktails
 - **Modernhaus** — Bar / Cocktails
 - **Moonrock** — Bar / Cocktails

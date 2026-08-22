@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-21T18:41:30.624Z",
+  "generated_at": "2026-08-22T18:35:56.338Z",
   "source": "Supabase (restaurants)",
   "summary": {
     "visited": 442,
-    "want_to_try": 159,
+    "want_to_try": 163,
     "avg_rating": 8.1,
-    "total": 681
+    "total": 685
   },
   "restaurants": [
     {
@@ -4146,6 +4146,66 @@
       "michelin_verified": false,
       "google_rating": 4.8,
       "price_level": 2,
+      "favourite": false
+    },
+    {
+      "name": "Jambo Hanare",
+      "cuisine": "Yakiniku",
+      "country": "Japan",
+      "city": "Tokyo",
+      "area": "Hongo, Bunkyo",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.7,
+      "price_level": null,
+      "favourite": false
+    },
+    {
+      "name": "Kanda Matsuya",
+      "cuisine": "Soba",
+      "country": "Japan",
+      "city": "Tokyo",
+      "area": "Kanda Sudacho",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.3,
+      "price_level": null,
+      "favourite": false
+    },
+    {
+      "name": "Hashikatsu Tonkatsu Ginza",
+      "cuisine": "Tonkatsu",
+      "country": "Japan",
+      "city": "Tokyo",
+      "area": "Ginza",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.8,
+      "price_level": null,
+      "favourite": false
+    },
+    {
+      "name": "Maruya Honten - Ginza Glasse",
+      "cuisine": "Unagi",
+      "country": "Japan",
+      "city": "Tokyo",
+      "area": "Ginza",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.7,
+      "price_level": null,
       "favourite": false
     },
     {
