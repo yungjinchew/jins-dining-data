@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T18:43:58.757Z",
+  "generated_at": "2026-08-26T19:52:14.213Z",
   "source": "Supabase (restaurants)",
   "summary": {
     "visited": 442,
@@ -3099,21 +3099,6 @@
       "favourite": false
     },
     {
-      "name": "Kafe Utu",
-      "cuisine": "African",
-      "country": "Singapore",
-      "city": "Singapore",
-      "area": "Tanjong Pagar",
-      "rating": 8.8,
-      "status": "visited",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 4.6,
-      "price_level": null,
-      "favourite": false
-    },
-    {
       "name": "Belimbing",
       "cuisine": "Singaporean",
       "country": "Singapore",
@@ -4266,6 +4251,21 @@
       "michelin_verified": false,
       "google_rating": 4.1,
       "price_level": null,
+      "favourite": false
+    },
+    {
+      "name": "Kafe Utu",
+      "cuisine": "African",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Tanjong Pagar",
+      "rating": 8.8,
+      "status": "visited",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.6,
+      "price_level": 3,
       "favourite": false
     },
     {
