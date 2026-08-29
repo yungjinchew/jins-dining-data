@@ -1,6 +1,6 @@
 # Jin's Dining List — snapshot 2026-08-29
 
-_Auto-exported from Supabase, refreshed nightly. 442 visited · 163 to try · 8.1 avg · 685 total._
+_Auto-exported from Supabase, refreshed nightly. 443 visited · 164 to try · 8.1 avg · 687 total._
 
 Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · ♥ = would return / favourite · [closed] = permanently closed.
 
@@ -771,6 +771,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 ### Kuala Lumpur
 
 - **Beta KL** — Modern Malaysian — 9
+- **Penko** — Japanese — 8.8
 - **Betawi** — Indonesian — 8.5
 - **JWALA** — Modern Indian — 8.5
 - **Tsuka Bangsar** — Malay — 8
@@ -832,7 +833,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 
 - **Restaurante Palomeque** — Tapas — 8.5
 
-## Want to try (163)
+## Want to try (164)
 
 ### Singapore
 
@@ -975,6 +976,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Gokan** — Bar / Cocktails
 - **Gong Gan** — Bar / Cocktails
 - **Hashikatsu Tonkatsu Ginza** — Tonkatsu
+- **Hock kee** — Café
 - **Jambo Hanare** — Yakiniku
 - **Kanda Matsuya** — Soba
 - **Lennon's** — Bar / Cocktails

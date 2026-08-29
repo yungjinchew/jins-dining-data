@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-29T01:34:13.312Z",
+  "generated_at": "2026-08-29T20:43:01.232Z",
   "source": "Supabase (restaurants)",
   "summary": {
-    "visited": 442,
-    "want_to_try": 163,
+    "visited": 443,
+    "want_to_try": 164,
     "avg_rating": 8.1,
-    "total": 685
+    "total": 687
   },
   "restaurants": [
     {
@@ -4419,6 +4419,21 @@
       "favourite": false
     },
     {
+      "name": "Penko",
+      "cuisine": "Japanese",
+      "country": "Malaysia",
+      "city": "Kuala Lumpur",
+      "area": "City Centre",
+      "rating": 8.8,
+      "status": "visited",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.8,
+      "price_level": null,
+      "favourite": false
+    },
+    {
       "name": "Nawa Thai Cuisine",
       "cuisine": "Thai",
       "country": "Thailand",
@@ -4491,6 +4506,21 @@
       "michelin_verified": false,
       "google_rating": 4.7,
       "price_level": null,
+      "favourite": false
+    },
+    {
+      "name": "Hock kee",
+      "cuisine": "Café",
+      "country": "Malaysia",
+      "city": "Kuala Lumpur",
+      "area": "Bukit Bintang",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.6,
+      "price_level": 2,
       "favourite": false
     },
     {
