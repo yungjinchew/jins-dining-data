@@ -1,6 +1,6 @@
-# Jin's Dining List — snapshot 2026-08-29
+# Jin's Dining List — snapshot 2026-08-30
 
-_Auto-exported from Supabase, refreshed nightly. 443 visited · 164 to try · 8.1 avg · 687 total._
+_Auto-exported from Supabase, refreshed nightly. 444 visited · 166 to try · 8.1 avg · 690 total._
 
 Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · ♥ = would return / favourite · [closed] = permanently closed.
 
@@ -420,6 +420,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 
 ### Bukit Timah
 
+- **Bario** — Spanish — 8.5
 - **Lino** — Pizza — 8.5
 - **Sweet cheeks** — Dessert — 8.5
 - **Micasa** — Spanish — 8
@@ -833,13 +834,14 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 
 - **Restaurante Palomeque** — Tapas — 8.5
 
-## Want to try (164)
+## Want to try (166)
 
 ### Singapore
 
 - **1-Alfaro** — Italian
 - **1887 by Andre** — French
 - **27 Degrees West** — Indian
+- **Alani** — Bakery
 - **Ayasofya** — Turkish
 - **Bae Sik Dang** — Korean BBQ
 - **Bar Bon Funk** — Bar / Cocktails
@@ -903,6 +905,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Mare Hachikyo** — Japanese Hokkaido
 - **Meadesmoore** — Steakhouse
 - **Mimoto** — Izakaya
+- **Nami** — Korean Barbecue
 - **Noa Lounge** — Mediterranean
 - **Nutmeg & Clove** — Bar / Cocktails
 - **Offtrack** — Bar / Cocktails

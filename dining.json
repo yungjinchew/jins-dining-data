@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-29T20:43:01.232Z",
+  "generated_at": "2026-08-30T20:48:16.565Z",
   "source": "Supabase (restaurants)",
   "summary": {
-    "visited": 443,
-    "want_to_try": 164,
+    "visited": 444,
+    "want_to_try": 166,
     "avg_rating": 8.1,
-    "total": 687
+    "total": 690
   },
   "restaurants": [
     {
@@ -4734,6 +4734,21 @@
       "favourite": false
     },
     {
+      "name": "Alani",
+      "cuisine": "Bakery",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Downtown Core",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.4,
+      "price_level": 2,
+      "favourite": false
+    },
+    {
       "name": "Le Clos",
       "cuisine": "French Wine Bar",
       "country": "Singapore",
@@ -4944,6 +4959,21 @@
       "favourite": false
     },
     {
+      "name": "Bario",
+      "cuisine": "Spanish",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Bukit Timah",
+      "rating": 8.5,
+      "status": "visited",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.6,
+      "price_level": 3,
+      "favourite": false
+    },
+    {
       "name": "Levant",
       "cuisine": "Middle Eastern",
       "country": "Singapore",
@@ -5030,6 +5060,21 @@
       "michelin_stars": 0,
       "michelin_verified": false,
       "google_rating": 4.2,
+      "price_level": null,
+      "favourite": false
+    },
+    {
+      "name": "Nami",
+      "cuisine": "Korean Barbecue",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Bukit Timah",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.8,
       "price_level": null,
       "favourite": false
     },
@@ -7670,7 +7715,7 @@
       "michelin_stars": 1,
       "michelin_verified": true,
       "google_rating": 4.7,
-      "price_level": null,
+      "price_level": 4,
       "favourite": true
     },
     {
