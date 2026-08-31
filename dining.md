@@ -1,6 +1,6 @@
-# Jin's Dining List — snapshot 2026-08-30
+# Jin's Dining List — snapshot 2026-08-31
 
-_Auto-exported from Supabase, refreshed nightly. 444 visited · 166 to try · 8.1 avg · 690 total._
+_Auto-exported from Supabase, refreshed nightly. 445 visited · 159 to try · 8.1 avg · 684 total._
 
 Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · ♥ = would return / favourite · [closed] = permanently closed.
 
@@ -96,6 +96,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - *Saboten [closed] — Japanese Katsu — 8*
 - **Slainte Paragon** — Grill — 8
 - **Apollon** — Izakaya — 7.5
+- **Bouillon Gavroche** — French — 7.5
 - **Cafe Quenino** — Contemporary Asian — 7.5
 - **Nambantei** — Japanese Yakitori — 7.5
 - **Tanuki Raw** — Japanese — 7.5
@@ -834,7 +835,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 
 - **Restaurante Palomeque** — Tapas — 8.5
 
-## Want to try (166)
+## Want to try (159)
 
 ### Singapore
 
@@ -849,7 +850,6 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Belimbing** — Singaporean
 - **Bonding Kitchen** — Peranakan
 - **BOP** — Bar / Cocktails
-- **Bouillon Gavroche** — French
 - **Buona Terra** ★ — Italian
 - **Capasso** — Colombian/Italian
 - **Casa Cicheti** — Italian
@@ -861,7 +861,6 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Chooby Pizza** — Pizza
 - **Cloudstreet** ★★ — Modern European
 - **Club Rangoon** — Burmese
-- **Coco dining ho chi minh** — 
 - **Cudo** — Latin American
 - **Cure** — Modern European
 - **Dusk Restaurant** — European
@@ -915,11 +914,9 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **PERA Turkish Grill** — Turkish
 - **Permata Singapore** — Malay
 - **Province** — Singaporean
-- **Publico Restaurante** — Italian
 - **Pulsii French Bistro** — French
 - **Quenino** — Contemporary Asian
 - **Restaurant Born** ★ — French Chinese
-- **Riviera** — Mediterranean
 - **Robata Hikari** — Japanese
 - **Rolls Izakaya** — Japanese
 - **Ronin** — Brunch
@@ -934,7 +931,6 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Shoukouwa** ★★ — Japanese Omakase
 - **Side door** — Café
 - **Sio Pasta** — Japanese Pasta
-- **Skai** — European
 - **Spago** — Californian
 - **Stay Gold Flamingo** — Bar / Cocktails
 - **Steak Sudaku** — Japanese Steak
@@ -946,17 +942,14 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Tajin** — Middle Eastern
 - **Takahashi** — Japanese Omakase
 - **Tamba** — West African
-- **Terra Italian Tokyo** — Italian Japanese
 - **The Champagnery** — Champagne Bar
 - **The Elephant Room** — Bar / Cocktails
-- **Todamgol** — Korean
 - **Towa** — Izakaya/Teppanyaki
 - **Trattoria Lafiandra** — Italian
 - **Um Yong Baek** — Korean BBQ
 - **Under Der Linden** — Cafe
 - **Wagyu Jin** — Japanese Beef
 - **Waroeng Anak Indo** — Indonesian
-- **White Marble** — Mediterranean
 - **Whitegrass** ★ — French Japanese
 - **Wildcard** — Wine Bar
 - **Yakiniku Heijoen** — Yakiniku
@@ -973,6 +966,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Cabinet 8** — Bar / Cocktails
 - **Carrots Bar** — Bar / Cocktails
 - **Coa** — Bar / Cocktails
+- **Coco dining ho chi minh** — 
 - **Cosmo Pony** — Bar / Cocktails
 - **Dry Wave Cocktail Studio** — Bar / Cocktails
 - **G.O.D** — Bar / Cocktails
