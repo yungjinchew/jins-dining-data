@@ -1,6 +1,6 @@
-# Jin's Dining List — snapshot 2026-09-03
+# Jin's Dining List — snapshot 2026-09-04
 
-_Auto-exported from Supabase, refreshed nightly. 445 visited · 159 to try · 8.1 avg · 684 total._
+_Auto-exported from Supabase, refreshed nightly. 446 visited · 159 to try · 8.1 avg · 685 total._
 
 Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · ♥ = would return / favourite · [closed] = permanently closed.
 
@@ -824,6 +824,10 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 ### Kichijōji
 
 - **Mothers Kichijōji** — Pizza — 8.5
+
+### San francisco
+
+- **Wayfare tavern** — American — 8.5
 
 ### Tainan
 
