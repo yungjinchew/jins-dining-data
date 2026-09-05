@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-04T20:32:56.615Z",
+  "generated_at": "2026-09-05T20:07:57.453Z",
   "source": "Supabase (restaurants)",
   "summary": {
-    "visited": 446,
-    "want_to_try": 159,
+    "visited": 448,
+    "want_to_try": 171,
     "avg_rating": 8.1,
-    "total": 685
+    "total": 699
   },
   "restaurants": [
     {
@@ -5784,6 +5784,21 @@
       "favourite": false
     },
     {
+      "name": "Tadich Grill",
+      "cuisine": "Seafood",
+      "country": "Usa",
+      "city": "San francisco",
+      "area": "Financial District",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.5,
+      "price_level": 3,
+      "favourite": false
+    },
+    {
       "name": "Charmgang",
       "cuisine": "Thai",
       "country": "Thailand",
@@ -6084,6 +6099,21 @@
       "favourite": false
     },
     {
+      "name": "Kokkari Estiatorio",
+      "cuisine": "Greek",
+      "country": "Usa",
+      "city": "San francisco",
+      "area": "Northern Waterfront",
+      "rating": 8,
+      "status": "visited",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.7,
+      "price_level": 3,
+      "favourite": false
+    },
+    {
       "name": "Casa Cicheti",
       "cuisine": "Italian",
       "country": "Singapore",
@@ -6096,6 +6126,21 @@
       "michelin_verified": false,
       "google_rating": 4.4,
       "price_level": null,
+      "favourite": false
+    },
+    {
+      "name": "Cotogna",
+      "cuisine": "Italian",
+      "country": "Usa",
+      "city": "San francisco",
+      "area": "North Beach",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.5,
+      "price_level": 4,
       "favourite": false
     },
     {
@@ -6156,6 +6201,21 @@
       "michelin_verified": false,
       "google_rating": 4.3,
       "price_level": null,
+      "favourite": false
+    },
+    {
+      "name": "Angler",
+      "cuisine": "Seafood",
+      "country": "Usa",
+      "city": "San francisco",
+      "area": "Embarcadero",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.5,
+      "price_level": 4,
       "favourite": false
     },
     {
@@ -6234,6 +6294,21 @@
       "favourite": false
     },
     {
+      "name": "Via Aurelia",
+      "cuisine": "",
+      "country": "Usa",
+      "city": "San francisco",
+      "area": "Mission Bay",
+      "rating": 8,
+      "status": "visited",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.4,
+      "price_level": 4,
+      "favourite": false
+    },
+    {
       "name": "Kakushin",
       "cuisine": "Japanese Omakase",
       "country": "Singapore",
@@ -6294,6 +6369,36 @@
       "favourite": false
     },
     {
+      "name": "Arsicault Bakery",
+      "cuisine": "Bakery",
+      "country": "United States",
+      "city": "San Francisco",
+      "area": "Inner Richmond",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.8,
+      "price_level": 2,
+      "favourite": false
+    },
+    {
+      "name": "La Taqueria",
+      "cuisine": "Mexican",
+      "country": "Usa",
+      "city": "San francisco",
+      "area": "Mission District",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.5,
+      "price_level": 1,
+      "favourite": false
+    },
+    {
       "name": "Kazu Sami Yaki",
       "cuisine": "Japanese Yakitori",
       "country": "Singapore",
@@ -6306,6 +6411,21 @@
       "michelin_verified": false,
       "google_rating": 4.4,
       "price_level": null,
+      "favourite": false
+    },
+    {
+      "name": "House of Prime Rib",
+      "cuisine": "British",
+      "country": "Usa",
+      "city": "San francisco",
+      "area": "Polk Gulch",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.6,
+      "price_level": 3,
       "favourite": false
     },
     {
@@ -6384,6 +6504,21 @@
       "favourite": false
     },
     {
+      "name": "Cookhouse",
+      "cuisine": "Western",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Dempsey",
+      "rating": 8,
+      "status": "visited",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.5,
+      "price_level": 4,
+      "favourite": false
+    },
+    {
       "name": "Les Climats",
       "cuisine": "Wine Bar",
       "country": "Singapore",
@@ -6444,6 +6579,21 @@
       "favourite": false
     },
     {
+      "name": "Whuchu Korean Dining",
+      "cuisine": "Korean",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "River Valley",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.9,
+      "price_level": null,
+      "favourite": false
+    },
+    {
       "name": "PERA Turkish Grill",
       "cuisine": "Turkish",
       "country": "Singapore",
@@ -6470,6 +6620,96 @@
       "michelin_stars": 0,
       "michelin_verified": false,
       "google_rating": 4.5,
+      "price_level": null,
+      "favourite": false
+    },
+    {
+      "name": "Liora Contemporary Dining",
+      "cuisine": "Modern Korean",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Clarke Quay",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.8,
+      "price_level": null,
+      "favourite": false
+    },
+    {
+      "name": "Kott-Don 360 (VivoCity)",
+      "cuisine": "Korean BBQ",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "HarbourFront",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.7,
+      "price_level": null,
+      "favourite": false
+    },
+    {
+      "name": "Katsu by Kyu",
+      "cuisine": "Tonkatsu",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "CBD",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.3,
+      "price_level": null,
+      "favourite": false
+    },
+    {
+      "name": "Casa Lola",
+      "cuisine": "Spanish",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Telok Ayer",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.9,
+      "price_level": null,
+      "favourite": false
+    },
+    {
+      "name": "Noor",
+      "cuisine": "Mediterranean",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "River Valley",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.9,
+      "price_level": null,
+      "favourite": false
+    },
+    {
+      "name": "Bari Bari Grand",
+      "cuisine": "Teppanyaki",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "City Hall",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.8,
       "price_level": null,
       "favourite": false
     },
@@ -7974,21 +8214,6 @@
       "favourite": false
     },
     {
-      "name": "Cure",
-      "cuisine": "Modern European",
-      "country": "Singapore",
-      "city": "Singapore",
-      "area": "Keong Saik",
-      "rating": null,
-      "status": "want-to-try",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 4.6,
-      "price_level": 3,
-      "favourite": false
-    },
-    {
       "name": "Fleurette",
       "cuisine": "Modern European",
       "country": "Singapore",
@@ -8871,21 +9096,6 @@
       "michelin_verified": false,
       "google_rating": 4.6,
       "price_level": 4,
-      "favourite": false
-    },
-    {
-      "name": "Cookhouse",
-      "cuisine": "Western",
-      "country": "Singapore",
-      "city": "Singapore",
-      "area": "Dempsey",
-      "rating": 8,
-      "status": "visited",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 4.5,
-      "price_level": 3,
       "favourite": false
     },
     {

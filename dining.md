@@ -1,6 +1,6 @@
-# Jin's Dining List — snapshot 2026-09-04
+# Jin's Dining List — snapshot 2026-09-05
 
-_Auto-exported from Supabase, refreshed nightly. 446 visited · 159 to try · 8.1 avg · 685 total._
+_Auto-exported from Supabase, refreshed nightly. 448 visited · 171 to try · 8.1 avg · 699 total._
 
 Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · ♥ = would return / favourite · [closed] = permanently closed.
 
@@ -828,6 +828,8 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 ### San francisco
 
 - **Wayfare tavern** — American — 8.5
+- **Kokkari Estiatorio** — Greek — 8
+- **Via Aurelia** —  — 8
 
 ### Tainan
 
@@ -839,7 +841,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 
 - **Restaurante Palomeque** — Tapas — 8.5
 
-## Want to try (159)
+## Want to try (171)
 
 ### Singapore
 
@@ -851,12 +853,14 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Bae Sik Dang** — Korean BBQ
 - **Bar Bon Funk** — Bar / Cocktails
 - **Bar kap** — Bar
+- **Bari Bari Grand** — Teppanyaki
 - **Belimbing** — Singaporean
 - **Bonding Kitchen** — Peranakan
 - **BOP** — Bar / Cocktails
 - **Buona Terra** ★ — Italian
 - **Capasso** — Colombian/Italian
 - **Casa Cicheti** — Italian
+- **Casa Lola** — Spanish
 - **Casa Mori** — Spanish / Modern Asian
 - **Casa Tartufo** — Italian
 - **Cat Bite Club** — Bar / Cocktails
@@ -866,7 +870,6 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Cloudstreet** ★★ — Modern European
 - **Club Rangoon** — Burmese
 - **Cudo** — Latin American
-- **Cure** — Modern European
 - **Dusk Restaurant** — European
 - **Fleurette** — Modern European
 - **Fu Yuan Teochew Dining Greenwood** — Chinese
@@ -888,11 +891,13 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Iru den** — Taiwanese
 - **Joong San** — Korean BBQ
 - **Kakushin** — Japanese Omakase
+- **Katsu by Kyu** — Tonkatsu
 - **Katsuya** — Tonkatsu
 - **Kazu Sami Yaki** — Japanese Yakitori
 - **Keyaki Pan Pacific** — Japanese
 - **Ki-sho** — Japanese
 - **Kong Madam** — Korean Soontofu
+- **Kott-Don 360 (VivoCity)** — Korean BBQ
 - **Kura Oyster & Highball Bar** — Japanese Oyster Bar
 - **Kyuu by Shunshui** — Japanese Omakase
 - **L'Amo Bistro del Mare** — Coastal Italian
@@ -901,6 +906,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Lang Nuong Viet Nam** — Vietnamese
 - **Latido** — Colombian
 - **Les Climats** — Wine Bar
+- **Liora Contemporary Dining** — Modern Korean
 - **Loca niru** — Japanese
 - **Loulou** — French/Wine Bar
 - **Loulouca** — Dessert
@@ -910,6 +916,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Mimoto** — Izakaya
 - **Nami** — Korean Barbecue
 - **Noa Lounge** — Mediterranean
+- **Noor** — Mediterranean
 - **Nutmeg & Clove** — Bar / Cocktails
 - **Offtrack** — Bar / Cocktails
 - **Omakase at Stevens** ★ — Japanese
@@ -955,12 +962,15 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Wagyu Jin** — Japanese Beef
 - **Waroeng Anak Indo** — Indonesian
 - **Whitegrass** ★ — French Japanese
+- **Whuchu Korean Dining** — Korean
 - **Wildcard** — Wine Bar
 - **Yakiniku Heijoen** — Yakiniku
 
 ### Overseas
 
+- **Angler** — Seafood
 - **Argo** — Bar / Cocktails
+- **Arsicault Bakery** — Bakery
 - **Backdoor Bodega** — Bar / Cocktails
 - **Bar Benfiddich** — Bar / Cocktails
 - **Bar Mood** — Bar / Cocktails
@@ -972,14 +982,17 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Coa** — Bar / Cocktails
 - **Coco dining ho chi minh** — 
 - **Cosmo Pony** — Bar / Cocktails
+- **Cotogna** — Italian
 - **Dry Wave Cocktail Studio** — Bar / Cocktails
 - **G.O.D** — Bar / Cocktails
 - **Gokan** — Bar / Cocktails
 - **Gong Gan** — Bar / Cocktails
 - **Hashikatsu Tonkatsu Ginza** — Tonkatsu
 - **Hock kee** — Café
+- **House of Prime Rib** — British
 - **Jambo Hanare** — Yakiniku
 - **Kanda Matsuya** — Soba
+- **La Taqueria** — Mexican
 - **Lennon's** — Bar / Cocktails
 - **M+MS Bar** — Bar / Cocktails
 - **Mahaniyom Cocktail Bar** — Bar / Cocktails
@@ -992,6 +1005,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Penrose** — Bar / Cocktails
 - **Punch Room Tokyo** — Bar / Cocktails
 - **Reka** — Bar / Cocktails
+- **Tadich Grill** — Seafood
 - **Tell Camellia** — Bar / Cocktails
 - **Terumi** — Bar
 - **The Bellwood** — Bar / Cocktails
