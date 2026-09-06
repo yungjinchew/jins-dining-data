@@ -1,6 +1,6 @@
-# Jin's Dining List — snapshot 2026-09-05
+# Jin's Dining List — snapshot 2026-09-06
 
-_Auto-exported from Supabase, refreshed nightly. 448 visited · 171 to try · 8.1 avg · 699 total._
+_Auto-exported from Supabase, refreshed nightly. 450 visited · 176 to try · 8.1 avg · 706 total._
 
 Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · ♥ = would return / favourite · [closed] = permanently closed.
 
@@ -424,6 +424,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Bario** — Spanish — 8.5
 - **Lino** — Pizza — 8.5
 - **Sweet cheeks** — Dessert — 8.5
+- **Fu Yuan Teochew Dining Greenwood** — Chinese — 8.2
 - **Micasa** — Spanish — 8
 - **Little Diner** — American — 7.5
 - **Tenderfresh** — Fried Chicken — 7
@@ -478,6 +479,12 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 
 - **Rubicon** — Japanese Steakhouse — 8.5
 - *Pacamara Boutique Cafe [closed] — Brunch*
+
+### Novena
+
+- **Chui huay lim** — Chinese — 8.2
+- **Hansang** — Korean — 8
+- **Sinn Ji** — Chicken Rice — 7
 
 ### Star Vista
 
@@ -545,11 +552,6 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 ### Mohammed Sultan
 
 - **Bad Habits** — Pizza — 8
-
-### Novena
-
-- **Hansang** — Korean — 8
-- **Sinn Ji** — Chicken Rice — 7
 
 ### Outram
 
@@ -841,16 +843,18 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 
 - **Restaurante Palomeque** — Tapas — 8.5
 
-## Want to try (171)
+## Want to try (176)
 
 ### Singapore
 
 - **1-Alfaro** — Italian
 - **1887 by Andre** — French
 - **27 Degrees West** — Indian
+- **808** — Asian
 - **Alani** — Bakery
 - **Ayasofya** — Turkish
 - **Bae Sik Dang** — Korean BBQ
+- **Ban lan** — Chinese
 - **Bar Bon Funk** — Bar / Cocktails
 - **Bar kap** — Bar
 - **Bari Bari Grand** — Teppanyaki
@@ -872,7 +876,6 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Cudo** — Latin American
 - **Dusk Restaurant** — European
 - **Fleurette** — Modern European
-- **Fu Yuan Teochew Dining Greenwood** — Chinese
 - **Fura** — Bar / Cocktails
 - **Gai Inn Izakaya** — Japanese
 - **Gaston** — French Burgundian
@@ -888,6 +891,8 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **iL Cielo** — Italian
 - **Il Clay** — Italian
 - **IL Giardino** — Italian
+- **Imperial Treasure Fine Teochew Cuisine (Marina Bay Sands)** — Chinese
+- **Imperial treasures teochew** — Chinese
 - **Iru den** — Taiwanese
 - **Joong San** — Korean BBQ
 - **Kakushin** — Japanese Omakase
@@ -917,6 +922,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Nami** — Korean Barbecue
 - **Noa Lounge** — Mediterranean
 - **Noor** — Mediterranean
+- **Numb** — Chinese
 - **Nutmeg & Clove** — Bar / Cocktails
 - **Offtrack** — Bar / Cocktails
 - **Omakase at Stevens** ★ — Japanese
@@ -939,6 +945,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Scarpetta** — Pasta Bar
 - **Seoul & So** — Korean
 - **Shabestan** — Persian/Iranian
+- **Shisen Hanten** — Fusion
 - **Shoukouwa** ★★ — Japanese Omakase
 - **Side door** — Café
 - **Sio Pasta** — Japanese Pasta

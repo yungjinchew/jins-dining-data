@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-05T20:07:57.453Z",
+  "generated_at": "2026-09-06T20:12:49.308Z",
   "source": "Supabase (restaurants)",
   "summary": {
-    "visited": 448,
-    "want_to_try": 171,
+    "visited": 450,
+    "want_to_try": 176,
     "avg_rating": 8.1,
-    "total": 699
+    "total": 706
   },
   "restaurants": [
     {
@@ -6339,21 +6339,6 @@
       "favourite": true
     },
     {
-      "name": "Fu Yuan Teochew Dining Greenwood",
-      "cuisine": "Chinese",
-      "country": "Singapore",
-      "city": "Singapore",
-      "area": "Bukit Timah",
-      "rating": null,
-      "status": "want-to-try",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 4.9,
-      "price_level": null,
-      "favourite": false
-    },
-    {
       "name": "Humpback",
       "cuisine": "Seafood",
       "country": "Singapore",
@@ -6380,6 +6365,21 @@
       "michelin_stars": 0,
       "michelin_verified": false,
       "google_rating": 4.8,
+      "price_level": 2,
+      "favourite": false
+    },
+    {
+      "name": "Fu Yuan Teochew Dining Greenwood",
+      "cuisine": "Chinese",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Bukit Timah",
+      "rating": 8.2,
+      "status": "visited",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.9,
       "price_level": 2,
       "favourite": false
     },
@@ -6774,6 +6774,21 @@
       "favourite": false
     },
     {
+      "name": "808",
+      "cuisine": "Asian",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Geylang",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.9,
+      "price_level": 2,
+      "favourite": false
+    },
+    {
       "name": "Hikiniku To Come (VivoCity)",
       "cuisine": "Japanese",
       "country": "Singapore",
@@ -6819,6 +6834,36 @@
       "favourite": false
     },
     {
+      "name": "Chui huay lim",
+      "cuisine": "Chinese",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Novena",
+      "rating": 8.2,
+      "status": "visited",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.5,
+      "price_level": 4,
+      "favourite": false
+    },
+    {
+      "name": "Imperial treasures teochew",
+      "cuisine": "Chinese",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Orchard",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.3,
+      "price_level": 4,
+      "favourite": false
+    },
+    {
       "name": "Waa cow! Vivocity",
       "cuisine": "Japanese",
       "country": "Singapore",
@@ -6831,6 +6876,21 @@
       "michelin_verified": false,
       "google_rating": 4.7,
       "price_level": null,
+      "favourite": false
+    },
+    {
+      "name": "Imperial Treasure Fine Teochew Cuisine (Marina Bay Sands)",
+      "cuisine": "Chinese",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Downtown Core",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.5,
+      "price_level": 4,
       "favourite": false
     },
     {
@@ -6939,6 +6999,21 @@
       "favourite": false
     },
     {
+      "name": "Ban lan",
+      "cuisine": "Chinese",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Orchard",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.8,
+      "price_level": 4,
+      "favourite": false
+    },
+    {
       "name": "Cabinet 8",
       "cuisine": "Bar / Cocktails",
       "country": "Malaysia",
@@ -6981,6 +7056,36 @@
       "michelin_verified": false,
       "google_rating": 4.1,
       "price_level": 1,
+      "favourite": false
+    },
+    {
+      "name": "Shisen Hanten",
+      "cuisine": "Fusion",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Orchard",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.8,
+      "price_level": 4,
+      "favourite": false
+    },
+    {
+      "name": "Numb",
+      "cuisine": "Chinese",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Downtown Core",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.8,
+      "price_level": 2,
       "favourite": false
     },
     {
