@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-09T20:44:00.484Z",
+  "generated_at": "2026-09-10T20:39:05.100Z",
   "source": "Supabase (restaurants)",
   "summary": {
-    "visited": 450,
-    "want_to_try": 176,
+    "visited": 453,
+    "want_to_try": 180,
     "avg_rating": 8.1,
-    "total": 706
+    "total": 713
   },
   "restaurants": [
     {
@@ -7164,6 +7164,36 @@
       "favourite": false
     },
     {
+      "name": "Zarf",
+      "cuisine": "Indian",
+      "country": "India",
+      "city": "Bangalore",
+      "area": "Whitefield",
+      "rating": 8.8,
+      "status": "visited",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.8,
+      "price_level": 4,
+      "favourite": false
+    },
+    {
+      "name": "Tomo kei",
+      "cuisine": "",
+      "country": "India",
+      "city": "Bangalore",
+      "area": "Whitefield",
+      "rating": 8.5,
+      "status": "visited",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.8,
+      "price_level": 4,
+      "favourite": false
+    },
+    {
       "name": "Braci",
       "cuisine": "Italian",
       "country": "Singapore",
@@ -7254,6 +7284,21 @@
       "favourite": false
     },
     {
+      "name": "Oota",
+      "cuisine": "South Indian",
+      "country": "India",
+      "city": "Bangalore",
+      "area": "Whitefield",
+      "rating": 8.3,
+      "status": "visited",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.3,
+      "price_level": 3,
+      "favourite": false
+    },
+    {
       "name": "Shin Yuu",
       "cuisine": "Japanese Sushi",
       "country": "Singapore",
@@ -7266,6 +7311,21 @@
       "michelin_verified": false,
       "google_rating": 4.2,
       "price_level": 2,
+      "favourite": false
+    },
+    {
+      "name": "Karavalli",
+      "cuisine": "South Indian",
+      "country": "India",
+      "city": "Bangalore",
+      "area": "Ashok Nagar",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.5,
+      "price_level": 4,
       "favourite": false
     },
     {
@@ -7389,6 +7449,21 @@
       "favourite": false
     },
     {
+      "name": "Navu",
+      "cuisine": "",
+      "country": "India",
+      "city": "Bangalore",
+      "area": "Ashok Nagar",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.2,
+      "price_level": 4,
+      "favourite": false
+    },
+    {
       "name": "Restaurante Ogrelo",
       "cuisine": "Seafood",
       "country": "Spain",
@@ -7419,6 +7494,21 @@
       "favourite": false
     },
     {
+      "name": "jamavar leela palace",
+      "cuisine": "Fine Dining",
+      "country": "India",
+      "city": "Bangalore",
+      "area": "Kodihalli",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.5,
+      "price_level": null,
+      "favourite": false
+    },
+    {
       "name": "Avenue 87",
       "cuisine": "Asian Fusion",
       "country": "Singapore",
@@ -7431,6 +7521,21 @@
       "michelin_verified": false,
       "google_rating": 4.7,
       "price_level": null,
+      "favourite": false
+    },
+    {
+      "name": "Ala Dakshinapuramlo",
+      "cuisine": "South Indian",
+      "country": "India",
+      "city": "Bangalore",
+      "area": "Whitefield 62",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.5,
+      "price_level": 2,
       "favourite": false
     },
     {

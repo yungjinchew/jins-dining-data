@@ -1,6 +1,6 @@
-# Jin's Dining List — snapshot 2026-09-09
+# Jin's Dining List — snapshot 2026-09-10
 
-_Auto-exported from Supabase, refreshed nightly. 450 visited · 176 to try · 8.1 avg · 706 total._
+_Auto-exported from Supabase, refreshed nightly. 453 visited · 180 to try · 8.1 avg · 713 total._
 
 Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · ♥ = would return / favourite · [closed] = permanently closed.
 
@@ -795,6 +795,12 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 
 - **Bar Trench** — Bar / Cocktails — 9
 
+### Bangalore
+
+- **Zarf** — Indian — 8.8
+- **Tomo kei** —  — 8.5
+- **Oota** — South Indian — 8.3
+
 ### Kanazawa
 
 - **Tsubajin** — Japanese Kaiseki — 8.8
@@ -843,7 +849,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 
 - **Restaurante Palomeque** — Tapas — 8.5
 
-## Want to try (176)
+## Want to try (180)
 
 ### Singapore
 
@@ -975,6 +981,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 
 ### Overseas
 
+- **Ala Dakshinapuramlo** — South Indian
 - **Angler** — Seafood
 - **Argo** — Bar / Cocktails
 - **Arsicault Bakery** — Bakery
@@ -997,8 +1004,10 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Hashikatsu Tonkatsu Ginza** — Tonkatsu
 - **Hock kee** — Café
 - **House of Prime Rib** — British
+- **jamavar leela palace** — Fine Dining
 - **Jambo Hanare** — Yakiniku
 - **Kanda Matsuya** — Soba
+- **Karavalli** — South Indian
 - **La Taqueria** — Mexican
 - **Lennon's** — Bar / Cocktails
 - **M+MS Bar** — Bar / Cocktails
@@ -1008,6 +1017,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Mius** — Bar / Cocktails
 - **Modernhaus** — Bar / Cocktails
 - **Moonrock** — Bar / Cocktails
+- **Navu** — 
 - **Opium** — Bar / Cocktails
 - **Penrose** — Bar / Cocktails
 - **Punch Room Tokyo** — Bar / Cocktails
