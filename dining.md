@@ -1,6 +1,6 @@
-# Jin's Dining List — snapshot 2026-09-10
+# Jin's Dining List — snapshot 2026-09-11
 
-_Auto-exported from Supabase, refreshed nightly. 453 visited · 180 to try · 8.1 avg · 713 total._
+_Auto-exported from Supabase, refreshed nightly. 454 visited · 179 to try · 8.1 avg · 713 total._
 
 Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · ♥ = would return / favourite · [closed] = permanently closed.
 
@@ -365,6 +365,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **La Terrace** — French — 8
 - **Tinto** — Spanish — 8
 - *Tuga [closed] — Portuguese — 8*
+- **Casa Mori** — Spanish / Modern Asian — 7.8
 - *Open Farm Community [closed] — Farm-to-Table — 7.8*
 - **Blu Kouzina** — Greek — 7.5
 - **Au Petit Salut** — French — 7
@@ -849,7 +850,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 
 - **Restaurante Palomeque** — Tapas — 8.5
 
-## Want to try (180)
+## Want to try (179)
 
 ### Singapore
 
@@ -871,7 +872,6 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Capasso** — Colombian/Italian
 - **Casa Cicheti** — Italian
 - **Casa Lola** — Spanish
-- **Casa Mori** — Spanish / Modern Asian
 - **Casa Tartufo** — Italian
 - **Cat Bite Club** — Bar / Cocktails
 - **Catfish** — Seafood

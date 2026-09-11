@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-10T20:39:05.100Z",
+  "generated_at": "2026-09-11T20:44:17.692Z",
   "source": "Supabase (restaurants)",
   "summary": {
-    "visited": 453,
-    "want_to_try": 180,
+    "visited": 454,
+    "want_to_try": 179,
     "avg_rating": 8.1,
     "total": 713
   },
@@ -5199,21 +5199,6 @@
       "favourite": false
     },
     {
-      "name": "Casa Mori",
-      "cuisine": "Spanish / Modern Asian",
-      "country": "Singapore",
-      "city": "Singapore",
-      "area": "Dempsey",
-      "rating": null,
-      "status": "want-to-try",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 4.7,
-      "price_level": 3,
-      "favourite": false
-    },
-    {
       "name": "Wooloomooloo Steakhouse",
       "cuisine": "Steakhouse",
       "country": "Singapore",
@@ -7715,6 +7700,21 @@
       "michelin_stars": 0,
       "michelin_verified": false,
       "google_rating": 4.4,
+      "price_level": 3,
+      "favourite": false
+    },
+    {
+      "name": "Casa Mori",
+      "cuisine": "Spanish / Modern Asian",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Dempsey",
+      "rating": 7.8,
+      "status": "visited",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.7,
       "price_level": 3,
       "favourite": false
     },
