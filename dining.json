@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-11T20:44:17.692Z",
+  "generated_at": "2026-09-12T20:21:54.692Z",
   "source": "Supabase (restaurants)",
   "summary": {
-    "visited": 454,
-    "want_to_try": 179,
+    "visited": 456,
+    "want_to_try": 181,
     "avg_rating": 8.1,
-    "total": 713
+    "total": 717
   },
   "restaurants": [
     {
@@ -6444,21 +6444,6 @@
       "favourite": false
     },
     {
-      "name": "Keyaki Pan Pacific",
-      "cuisine": "Japanese",
-      "country": "Singapore",
-      "city": "Singapore",
-      "area": "CBD",
-      "rating": null,
-      "status": "want-to-try",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 4.2,
-      "price_level": null,
-      "favourite": false
-    },
-    {
       "name": "Les Ducs",
       "cuisine": "French",
       "country": "Singapore",
@@ -7709,7 +7694,7 @@
       "country": "Singapore",
       "city": "Singapore",
       "area": "Dempsey",
-      "rating": 7.8,
+      "rating": 7.5,
       "status": "visited",
       "michelin_type": null,
       "michelin_stars": 0,
@@ -7760,6 +7745,21 @@
       "michelin_stars": 1,
       "michelin_verified": true,
       "google_rating": 4.5,
+      "price_level": null,
+      "favourite": false
+    },
+    {
+      "name": "Xiang xiang",
+      "cuisine": "",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "",
+      "rating": 8.5,
+      "status": "visited",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": null,
       "price_level": null,
       "favourite": false
     },
@@ -7835,6 +7835,36 @@
       "michelin_stars": 0,
       "michelin_verified": false,
       "google_rating": 4.6,
+      "price_level": 4,
+      "favourite": false
+    },
+    {
+      "name": "Pera turkish",
+      "cuisine": "Turkish",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Downtown Core",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.9,
+      "price_level": 3,
+      "favourite": false
+    },
+    {
+      "name": "Medusa",
+      "cuisine": "Italian",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Downtown Core",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.7,
       "price_level": 4,
       "favourite": false
     },
@@ -7929,6 +7959,21 @@
       "favourite": true
     },
     {
+      "name": "Sabòr Cocina y Tapas",
+      "cuisine": "Spanish",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Downtown Core",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.6,
+      "price_level": null,
+      "favourite": false
+    },
+    {
       "name": "Nam Sing Hokkien Mee",
       "cuisine": "Hokkien Mee",
       "country": "Singapore",
@@ -7984,6 +8029,21 @@
       "michelin_type": "bib_gourmand",
       "michelin_stars": 0,
       "michelin_verified": true,
+      "google_rating": 4.8,
+      "price_level": 2,
+      "favourite": false
+    },
+    {
+      "name": "Tanyu",
+      "cuisine": "Chinese",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Orchard",
+      "rating": 8.5,
+      "status": "visited",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
       "google_rating": 4.8,
       "price_level": 2,
       "favourite": false

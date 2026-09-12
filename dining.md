@@ -1,6 +1,6 @@
-# Jin's Dining List — snapshot 2026-09-11
+# Jin's Dining List — snapshot 2026-09-12
 
-_Auto-exported from Supabase, refreshed nightly. 454 visited · 179 to try · 8.1 avg · 713 total._
+_Auto-exported from Supabase, refreshed nightly. 456 visited · 181 to try · 8.1 avg · 717 total._
 
 Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · ♥ = would return / favourite · [closed] = permanently closed.
 
@@ -86,6 +86,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Kaya at the Standard** — Japanese — 8.5
 - **Origin Bar & Grill** — Steakhouse — 8.5
 - *So France Claymore [closed] — French Bistro — 8.5*
+- **Tanyu** — Chinese — 8.5
 - **Uya** — Unagi — 8.5
 - **BBR by Ducasse** — European — 8
 - **Fi Woodfire Thai** — Thai — 8
@@ -365,9 +366,9 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **La Terrace** — French — 8
 - **Tinto** — Spanish — 8
 - *Tuga [closed] — Portuguese — 8*
-- **Casa Mori** — Spanish / Modern Asian — 7.8
 - *Open Farm Community [closed] — Farm-to-Table — 7.8*
 - **Blu Kouzina** — Greek — 7.5
+- **Casa Mori** — Spanish / Modern Asian — 7.5
 - **Au Petit Salut** — French — 7
 - **The Disgruntled Chef** — Mediterranean — 6.5
 - **Dempsey Brasserie** — Western — 6
@@ -410,6 +411,10 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 
 - **Magpie** — Borderless Soul Food — 8.8
 - **Forty Hands** — Coffee/Cafe — 7
+
+### —
+
+- **Xiang xiang** —  — 8.5
 
 ### Amoy Street
 
@@ -850,7 +855,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 
 - **Restaurante Palomeque** — Tapas — 8.5
 
-## Want to try (179)
+## Want to try (181)
 
 ### Singapore
 
@@ -905,7 +910,6 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Katsu by Kyu** — Tonkatsu
 - **Katsuya** — Tonkatsu
 - **Kazu Sami Yaki** — Japanese Yakitori
-- **Keyaki Pan Pacific** — Japanese
 - **Ki-sho** — Japanese
 - **Kong Madam** — Korean Soontofu
 - **Kott-Don 360 (VivoCity)** — Korean BBQ
@@ -924,6 +928,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Mag's Wine Bar** — Wine Bar
 - **Mare Hachikyo** — Japanese Hokkaido
 - **Meadesmoore** — Steakhouse
+- **Medusa** — Italian
 - **Mimoto** — Izakaya
 - **Nami** — Korean Barbecue
 - **Noa Lounge** — Mediterranean
@@ -934,6 +939,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Omakase at Stevens** ★ — Japanese
 - **Origin Bar** — Bar / Cocktails
 - **Pasta J** — Pasta/Steak
+- **Pera turkish** — Turkish
 - **PERA Turkish Grill** — Turkish
 - **Permata Singapore** — Malay
 - **Province** — Singaporean
@@ -944,6 +950,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Rolls Izakaya** — Japanese
 - **Ronin** — Brunch
 - **Sabor** — Spanish
+- **Sabòr Cocina y Tapas** — Spanish
 - **Sago House** — Bar / Cocktails
 - **Salt & Soul** — European
 - **SAMSAMSAM Samgyetang Specialty Korean Restaurant | Novena Square** — Korean
