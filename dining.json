@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-12T20:21:54.692Z",
+  "generated_at": "2026-09-13T20:32:34.463Z",
   "source": "Supabase (restaurants)",
   "summary": {
-    "visited": 456,
+    "visited": 457,
     "want_to_try": 181,
     "avg_rating": 8.1,
-    "total": 717
+    "total": 718
   },
   "restaurants": [
     {
@@ -425,21 +425,6 @@
       "michelin_stars": 0,
       "michelin_verified": false,
       "google_rating": 4.6,
-      "price_level": null,
-      "favourite": false
-    },
-    {
-      "name": "Tonshou",
-      "cuisine": "Korean Tonkatsu",
-      "country": "Singapore",
-      "city": "Singapore",
-      "area": "Tanjong Pagar",
-      "rating": 8,
-      "status": "visited",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 4.5,
       "price_level": null,
       "favourite": false
     },
@@ -3639,21 +3624,6 @@
       "favourite": false
     },
     {
-      "name": "Shin Katsu",
-      "cuisine": "Tonkatsu",
-      "country": "Singapore",
-      "city": "Singapore",
-      "area": "Tanjong Pagar",
-      "rating": 8.5,
-      "status": "visited",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 4.6,
-      "price_level": null,
-      "favourite": false
-    },
-    {
       "name": "Maltail",
       "cuisine": "Bar / Cocktails",
       "country": "Taiwan",
@@ -3666,6 +3636,21 @@
       "michelin_verified": false,
       "google_rating": 4.8,
       "price_level": null,
+      "favourite": false
+    },
+    {
+      "name": "Sukiyaki Yotaro",
+      "cuisine": "Sukiyaki",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Tanjong Pagar",
+      "rating": 8.5,
+      "status": "visited",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.7,
+      "price_level": 4,
       "favourite": false
     },
     {
@@ -3740,21 +3725,6 @@
       "michelin_stars": 0,
       "michelin_verified": false,
       "google_rating": 4.8,
-      "price_level": null,
-      "favourite": false
-    },
-    {
-      "name": "Sukiyaki Yotaro",
-      "cuisine": "Sukiyaki",
-      "country": "Singapore",
-      "city": "Singapore",
-      "area": "Tanjong Pagar",
-      "rating": 8.5,
-      "status": "visited",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 4.7,
       "price_level": null,
       "favourite": false
     },
@@ -6624,21 +6594,6 @@
       "favourite": false
     },
     {
-      "name": "Katsu by Kyu",
-      "cuisine": "Tonkatsu",
-      "country": "Singapore",
-      "city": "Singapore",
-      "area": "CBD",
-      "rating": null,
-      "status": "want-to-try",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 4.3,
-      "price_level": null,
-      "favourite": false
-    },
-    {
       "name": "Casa Lola",
       "cuisine": "Spanish",
       "country": "Singapore",
@@ -8109,6 +8064,36 @@
       "favourite": false
     },
     {
+      "name": "Shin Katsu",
+      "cuisine": "Tonkatsu",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Tanjong Pagar",
+      "rating": 8.5,
+      "status": "visited",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.6,
+      "price_level": 2,
+      "favourite": true
+    },
+    {
+      "name": "Katsu by Kyu",
+      "cuisine": "Tonkatsu",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "CBD",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.3,
+      "price_level": 2,
+      "favourite": false
+    },
+    {
       "name": "Nae:um",
       "cuisine": "Modern Korean",
       "country": "Singapore",
@@ -8199,21 +8184,6 @@
       "favourite": false
     },
     {
-      "name": "Katsuya",
-      "cuisine": "Tonkatsu",
-      "country": "Singapore",
-      "city": "Singapore",
-      "area": "East Coast",
-      "rating": null,
-      "status": "want-to-try",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 4.5,
-      "price_level": null,
-      "favourite": false
-    },
-    {
       "name": "Yakiniku Yazawa",
       "cuisine": "Japanese BBQ",
       "country": "Singapore",
@@ -8227,6 +8197,36 @@
       "google_rating": 4.4,
       "price_level": 4,
       "favourite": false
+    },
+    {
+      "name": "Katsuya",
+      "cuisine": "Tonkatsu",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "East Coast",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.5,
+      "price_level": 2,
+      "favourite": false
+    },
+    {
+      "name": "Tonshou",
+      "cuisine": "Korean Tonkatsu",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Tanjong Pagar",
+      "rating": 8,
+      "status": "visited",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.5,
+      "price_level": 2,
+      "favourite": true
     },
     {
       "name": "Labyrinth",
@@ -8270,6 +8270,21 @@
       "michelin_stars": 0,
       "michelin_verified": true,
       "google_rating": 4.2,
+      "price_level": 2,
+      "favourite": false
+    },
+    {
+      "name": "Chirashizushi Sho",
+      "cuisine": "Japanese",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Bishan",
+      "rating": 7.5,
+      "status": "visited",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.5,
       "price_level": 2,
       "favourite": false
     },

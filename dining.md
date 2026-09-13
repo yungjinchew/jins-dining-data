@@ -1,10 +1,10 @@
-# Jin's Dining List — snapshot 2026-09-12
+# Jin's Dining List — snapshot 2026-09-13
 
-_Auto-exported from Supabase, refreshed nightly. 456 visited · 181 to try · 8.1 avg · 717 total._
+_Auto-exported from Supabase, refreshed nightly. 457 visited · 181 to try · 8.1 avg · 718 total._
 
 Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · ♥ = would return / favourite · [closed] = permanently closed.
 
-## Favourites (30)
+## Favourites (32)
 
 ### Singapore
 
@@ -24,7 +24,9 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Mott 32** ♥ — Chinese — 8.5
 - **MyX** ♥ — Latin — 8.5
 - **Roberta's Pizza** ♥ — Pizza — 8.5
+- **Shin Katsu** ♥ — Tonkatsu — 8.5
 - **Temper Wine Room** ♥ — Wine Bar — 8
+- **Tonshou** ♥ — Korean Tonkatsu — 8
 
 ### Overseas
 
@@ -244,13 +246,13 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Anju** — Modern Korean — 8.5
 - **Bonjour Ma Cuisine** — French Breakfast/Lunch — 8.5
 - *Ms. Maria & Mr. Singh [closed] — Indian+Mexican — 8.5*
-- **Shin Katsu** — Tonkatsu — 8.5
+- **Shin Katsu** ♥ — Tonkatsu — 8.5
 - **Sukiyaki Yotaro** — Sukiyaki — 8.5
 - **Jigger & Pony** — Bar / Cocktails — 8
 - **Pizza Studio Tamaki** — Japanese Pizza — 8
 - **Shin Terroir** — Yakitori — 8
 - **Tong Ah Eating House** — Kaya Toast — 8
-- **Tonshou** — Korean Tonkatsu — 8
+- **Tonshou** ♥ — Korean Tonkatsu — 8
 - **Café & Bar Gavroche** — French — 7.5
 - **Chicken Up** — Korean — 7.5
 - **Kuro Maguro** — Japanese — 7.5
@@ -587,6 +589,11 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 
 - **Pantler** — Café — 7.8
 
+### Bishan
+
+- **Chirashizushi Sho** — Japanese — 7.5
+- **Grub** — Western — 6
+
 ### Bukit Panjang
 
 - *Fabulous Baker Boy [closed] — Brunch — 7.5*
@@ -638,10 +645,6 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 ### Alexandra
 
 - **Rabbit Stash** — Modern European — 6
-
-### Bishan
-
-- **Grub** — Western — 6
 
 ### Shenton
 
