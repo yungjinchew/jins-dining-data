@@ -1,6 +1,6 @@
-# Jin's Dining List — snapshot 2026-09-17
+# Jin's Dining List — snapshot 2026-09-18
 
-_Auto-exported from Supabase, refreshed nightly. 457 visited · 181 to try · 8.1 avg · 718 total._
+_Auto-exported from Supabase, refreshed nightly. 458 visited · 180 to try · 8.1 avg · 718 total._
 
 Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · ♥ = would return / favourite · [closed] = permanently closed.
 
@@ -488,6 +488,10 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Rubicon** — Japanese Steakhouse — 8.5
 - *Pacamara Boutique Cafe [closed] — Brunch*
 
+### Downtown Core
+
+- **Pera turkish** — Turkish — 8.2
+
 ### Novena
 
 - **Chui huay lim** — Chinese — 8.2
@@ -858,7 +862,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 
 - **Restaurante Palomeque** — Tapas — 8.5
 
-## Want to try (181)
+## Want to try (180)
 
 ### Singapore
 
@@ -942,7 +946,6 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Omakase at Stevens** ★ — Japanese
 - **Origin Bar** — Bar / Cocktails
 - **Pasta J** — Pasta/Steak
-- **Pera turkish** — Turkish
 - **PERA Turkish Grill** — Turkish
 - **Permata Singapore** — Malay
 - **Province** — Singaporean

@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-17T21:07:39.737Z",
+  "generated_at": "2026-09-18T20:40:06.661Z",
   "source": "Supabase (restaurants)",
   "summary": {
-    "visited": 457,
-    "want_to_try": 181,
+    "visited": 458,
+    "want_to_try": 180,
     "avg_rating": 8.1,
     "total": 718
   },
@@ -7794,21 +7794,6 @@
       "favourite": false
     },
     {
-      "name": "Pera turkish",
-      "cuisine": "Turkish",
-      "country": "Singapore",
-      "city": "Singapore",
-      "area": "Downtown Core",
-      "rating": null,
-      "status": "want-to-try",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 4.9,
-      "price_level": 3,
-      "favourite": false
-    },
-    {
       "name": "Medusa",
       "cuisine": "Italian",
       "country": "Singapore",
@@ -7821,6 +7806,21 @@
       "michelin_verified": false,
       "google_rating": 4.7,
       "price_level": 4,
+      "favourite": false
+    },
+    {
+      "name": "Pera turkish",
+      "cuisine": "Turkish",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Downtown Core",
+      "rating": 8.2,
+      "status": "visited",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.8,
+      "price_level": 3,
       "favourite": false
     },
     {
