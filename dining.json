@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-19T20:19:07.281Z",
+  "generated_at": "2026-09-20T20:33:41.049Z",
   "source": "Supabase (restaurants)",
   "summary": {
     "visited": 458,
-    "want_to_try": 180,
+    "want_to_try": 181,
     "avg_rating": 8.1,
-    "total": 718
+    "total": 719
   },
   "restaurants": [
     {
@@ -269,13 +269,13 @@
       "country": "Singapore",
       "city": "Singapore",
       "area": "Orchard",
-      "rating": 8,
+      "rating": 8.2,
       "status": "visited",
       "michelin_type": null,
       "michelin_stars": 0,
       "michelin_verified": false,
       "google_rating": 4.4,
-      "price_level": null,
+      "price_level": 2,
       "favourite": false
     },
     {
@@ -2137,21 +2137,6 @@
       "google_rating": 4.1,
       "price_level": 1,
       "favourite": false
-    },
-    {
-      "name": "Crony",
-      "cuisine": "French",
-      "country": "Japan",
-      "city": "Tokyo",
-      "area": "20",
-      "rating": 9.8,
-      "status": "visited",
-      "michelin_type": "star",
-      "michelin_stars": 2,
-      "michelin_verified": true,
-      "google_rating": 4.7,
-      "price_level": null,
-      "favourite": true
     },
     {
       "name": "5PM Lalapot",
@@ -8289,6 +8274,21 @@
       "favourite": false
     },
     {
+      "name": "Crony",
+      "cuisine": "French",
+      "country": "Japan",
+      "city": "Tokyo",
+      "area": "20",
+      "rating": 9.8,
+      "status": "visited",
+      "michelin_type": "star",
+      "michelin_stars": 2,
+      "michelin_verified": true,
+      "google_rating": 4.7,
+      "price_level": 4,
+      "favourite": true
+    },
+    {
       "name": "Yen Yakiniku",
       "cuisine": "Yakiniku",
       "country": "Singapore",
@@ -8406,6 +8406,21 @@
       "michelin_verified": true,
       "google_rating": 4.7,
       "price_level": null,
+      "favourite": false
+    },
+    {
+      "name": "Stags head",
+      "cuisine": "British",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Downtown Core",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.8,
+      "price_level": 4,
       "favourite": false
     },
     {

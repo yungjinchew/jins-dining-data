@@ -1,6 +1,6 @@
-# Jin's Dining List — snapshot 2026-09-19
+# Jin's Dining List — snapshot 2026-09-20
 
-_Auto-exported from Supabase, refreshed nightly. 458 visited · 180 to try · 8.1 avg · 718 total._
+_Auto-exported from Supabase, refreshed nightly. 458 visited · 181 to try · 8.1 avg · 719 total._
 
 Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · ♥ = would return / favourite · [closed] = permanently closed.
 
@@ -90,9 +90,9 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - *So France Claymore [closed] — French Bistro — 8.5*
 - **Tanyu** — Chinese — 8.5
 - **Uya** — Unagi — 8.5
+- **Gyukatsu Kyoto Katsugyu** — Japanese Katsu — 8.2
 - **BBR by Ducasse** — European — 8
 - **Fi Woodfire Thai** — Thai — 8
-- **Gyukatsu Kyoto Katsugyu** — Japanese Katsu — 8
 - **Jinjo** — Japanese/Sukiyaki — 8
 - **KangJi Curry Mee** — Penang Curry Mee — 8
 - **Moon Moon** — Chinese Soup — 8
@@ -862,7 +862,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 
 - **Restaurante Palomeque** — Tapas — 8.5
 
-## Want to try (180)
+## Want to try (181)
 
 ### Singapore
 
@@ -969,6 +969,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Side door** — Café
 - **Sio Pasta** — Japanese Pasta
 - **Spago** — Californian
+- **Stags head** — British
 - **Stay Gold Flamingo** — Bar / Cocktails
 - **Steak Sudaku** — Japanese Steak
 - **Supernova** — Cafe
