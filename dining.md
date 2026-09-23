@@ -1,6 +1,6 @@
-# Jin's Dining List — snapshot 2026-09-22
+# Jin's Dining List — snapshot 2026-09-23
 
-_Auto-exported from Supabase, refreshed nightly. 458 visited · 181 to try · 8.1 avg · 719 total._
+_Auto-exported from Supabase, refreshed nightly. 458 visited · 182 to try · 8.1 avg · 720 total._
 
 Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · ♥ = would return / favourite · [closed] = permanently closed.
 
@@ -862,7 +862,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 
 - **Restaurante Palomeque** — Tapas — 8.5
 
-## Want to try (181)
+## Want to try (182)
 
 ### Singapore
 
@@ -921,6 +921,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Kong Madam** — Korean Soontofu
 - **Kott-Don 360 (VivoCity)** — Korean BBQ
 - **Kura Oyster & Highball Bar** — Japanese Oyster Bar
+- **Kuro kare** — Japanese Curry
 - **Kyuu by Shunshui** — Japanese Omakase
 - **L'Amo Bistro del Mare** — Coastal Italian
 - **L'arte Pizza** — Roman Pizza
