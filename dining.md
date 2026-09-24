@@ -1,4 +1,4 @@
-# Jin's Dining List — snapshot 2026-09-23
+# Jin's Dining List — snapshot 2026-09-24
 
 _Auto-exported from Supabase, refreshed nightly. 458 visited · 182 to try · 8.1 avg · 720 total._
 
