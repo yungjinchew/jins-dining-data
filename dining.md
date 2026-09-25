@@ -1,6 +1,6 @@
-# Jin's Dining List — snapshot 2026-09-24
+# Jin's Dining List — snapshot 2026-09-25
 
-_Auto-exported from Supabase, refreshed nightly. 458 visited · 182 to try · 8.1 avg · 720 total._
+_Auto-exported from Supabase, refreshed nightly. 459 visited · 181 to try · 8.1 avg · 720 total._
 
 Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · ♥ = would return / favourite · [closed] = permanently closed.
 
@@ -460,6 +460,12 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **MO Bar** — Bar / Cocktails — 8.5
 - **Melt Mandarin Oriental** — Buffet — 8
 
+### National Gallery
+
+- **Seoul & So** — Korean — 8.5
+- **National Kitchen by Violet Oon** — Peranakan — 7.8
+- **Restaurant Art** — Italian — 6.5
+
 ### New Bahru
 
 - **Atipco Room #15** — Bistro — 8.5
@@ -579,11 +585,6 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Huevos** — Mexican — 8
 - **Odem** — Korean Makgeolli Bar — 8
 - *Five & Dine [closed] — Brunch — 7.5*
-
-### National Gallery
-
-- **National Kitchen by Violet Oon** — Peranakan — 7.8
-- **Restaurant Art** — Italian — 6.5
 
 ### Newton
 
@@ -862,7 +863,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 
 - **Restaurante Palomeque** — Tapas — 8.5
 
-## Want to try (182)
+## Want to try (181)
 
 ### Singapore
 
@@ -963,7 +964,6 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **SAMSAMSAM Samgyetang Specialty Korean Restaurant | Novena Square** — Korean
 - **Satori** — Japanese Yakitori
 - **Scarpetta** — Pasta Bar
-- **Seoul & So** — Korean
 - **Shabestan** — Persian/Iranian
 - **Shisen Hanten** — Fusion
 - **Shoukouwa** ★★ — Japanese Omakase

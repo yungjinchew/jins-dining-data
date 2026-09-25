@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-24T21:19:56.095Z",
+  "generated_at": "2026-09-25T21:18:56.442Z",
   "source": "Supabase (restaurants)",
   "summary": {
-    "visited": 458,
-    "want_to_try": 182,
+    "visited": 459,
+    "want_to_try": 181,
     "avg_rating": 8.1,
     "total": 720
   },
@@ -8739,21 +8739,6 @@
       "favourite": false
     },
     {
-      "name": "Seoul & So",
-      "cuisine": "Korean",
-      "country": "Singapore",
-      "city": "Singapore",
-      "area": "National Gallery",
-      "rating": null,
-      "status": "want-to-try",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 4.6,
-      "price_level": null,
-      "favourite": false
-    },
-    {
       "name": "Shabestan",
       "cuisine": "Persian/Iranian",
       "country": "Singapore",
@@ -9037,6 +9022,21 @@
       "google_rating": 4.8,
       "price_level": 4,
       "favourite": true
+    },
+    {
+      "name": "Seoul & So",
+      "cuisine": "Korean",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "National Gallery",
+      "rating": 8.5,
+      "status": "visited",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.6,
+      "price_level": null,
+      "favourite": false
     },
     {
       "name": "Chooby Pizza",
