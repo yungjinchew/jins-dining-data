@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-25T21:18:56.442Z",
+  "generated_at": "2026-09-26T20:51:21.934Z",
   "source": "Supabase (restaurants)",
   "summary": {
     "visited": 459,
-    "want_to_try": 181,
+    "want_to_try": 183,
     "avg_rating": 8.1,
-    "total": 720
+    "total": 722
   },
   "restaurants": [
     {
@@ -973,7 +973,7 @@
       "cuisine": "French Japanese",
       "country": "Singapore",
       "city": "Singapore",
-      "area": "CBD",
+      "area": "Downtown Core",
       "rating": null,
       "status": "want-to-try",
       "michelin_type": "star",
@@ -996,6 +996,21 @@
       "michelin_verified": false,
       "google_rating": 4.4,
       "price_level": null,
+      "favourite": false
+    },
+    {
+      "name": "Ushidoki Wagyu Kaiseki",
+      "cuisine": "Japanese Wagyu",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Tanjong Pagar",
+      "rating": 9,
+      "status": "visited",
+      "michelin_type": "selected",
+      "michelin_stars": 0,
+      "michelin_verified": true,
+      "google_rating": 4.8,
+      "price_level": 4,
       "favourite": false
     },
     {
@@ -2901,21 +2916,6 @@
       "michelin_verified": false,
       "google_rating": 4.7,
       "price_level": 2,
-      "favourite": false
-    },
-    {
-      "name": "Ushidoki Wagyu Kaiseki",
-      "cuisine": "Japanese Wagyu",
-      "country": "Singapore",
-      "city": "Singapore",
-      "area": "Tanjong Pagar",
-      "rating": 9,
-      "status": "visited",
-      "michelin_type": "selected",
-      "michelin_stars": 0,
-      "michelin_verified": true,
-      "google_rating": 4.8,
-      "price_level": 4,
       "favourite": false
     },
     {
@@ -7554,21 +7554,6 @@
       "favourite": false
     },
     {
-      "name": "Shoukouwa",
-      "cuisine": "Japanese Omakase",
-      "country": "Singapore",
-      "city": "Singapore",
-      "area": "CBD",
-      "rating": null,
-      "status": "want-to-try",
-      "michelin_type": "star",
-      "michelin_stars": 2,
-      "michelin_verified": true,
-      "google_rating": 4.5,
-      "price_level": 4,
-      "favourite": false
-    },
-    {
       "name": "Alma by Juan Amador",
       "cuisine": "Spanish",
       "country": "Singapore",
@@ -7611,6 +7596,21 @@
       "michelin_verified": false,
       "google_rating": 4.6,
       "price_level": null,
+      "favourite": false
+    },
+    {
+      "name": "Shoukouwa",
+      "cuisine": "Japanese Omakase",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "CBD",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": "star",
+      "michelin_stars": 2,
+      "michelin_verified": true,
+      "google_rating": 4.5,
+      "price_level": 4,
       "favourite": false
     },
     {
@@ -10689,6 +10689,21 @@
       "favourite": false
     },
     {
+      "name": "Habibi san",
+      "cuisine": "Bar",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Kallang",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.7,
+      "price_level": null,
+      "favourite": false
+    },
+    {
       "name": "Meatliquor",
       "cuisine": "Burgers",
       "country": "Singapore",
@@ -10806,6 +10821,21 @@
       "michelin_verified": true,
       "google_rating": 4.5,
       "price_level": 3,
+      "favourite": false
+    },
+    {
+      "name": "3 meals a day",
+      "cuisine": "",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Rochor",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.6,
+      "price_level": 1,
       "favourite": false
     }
   ]
