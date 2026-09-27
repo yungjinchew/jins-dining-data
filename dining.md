@@ -1,6 +1,6 @@
-# Jin's Dining List — snapshot 2026-09-26
+# Jin's Dining List — snapshot 2026-09-27
 
-_Auto-exported from Supabase, refreshed nightly. 459 visited · 183 to try · 8.1 avg · 722 total._
+_Auto-exported from Supabase, refreshed nightly. 461 visited · 183 to try · 8.1 avg · 724 total._
 
 Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · ♥ = would return / favourite · [closed] = permanently closed.
 
@@ -98,6 +98,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Moon Moon** — Chinese Soup — 8
 - *Saboten [closed] — Japanese Katsu — 8*
 - **Slainte Paragon** — Grill — 8
+- **Bebek Goreng Pak Ndut @Lucky Plaza** — Indonesian — 7.8
 - **Apollon** — Izakaya — 7.5
 - **Bouillon Gavroche** — French — 7.5
 - **Cafe Quenino** — Contemporary Asian — 7.5
@@ -392,6 +393,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 
 - **Chef Kang Wonton Noodle** — Wonton Noodle — 9
 - **Hao Kee Seafood** — Zi Char — 8
+- **THREE. by Garamika** — Indonesian — 8
 - *Kim Keat Hokkien Mee [closed] — Hokkien Mee — 7*
 
 ### Robertson Quay

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-26T20:51:21.934Z",
+  "generated_at": "2026-09-27T21:07:44.288Z",
   "source": "Supabase (restaurants)",
   "summary": {
-    "visited": 459,
+    "visited": 461,
     "want_to_try": 183,
     "avg_rating": 8.1,
-    "total": 722
+    "total": 724
   },
   "restaurants": [
     {
@@ -1104,6 +1104,21 @@
       "favourite": false
     },
     {
+      "name": "THREE. by Garamika",
+      "cuisine": "Indonesian",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Toa Payoh",
+      "rating": 8,
+      "status": "visited",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.6,
+      "price_level": 2,
+      "favourite": false
+    },
+    {
       "name": "Rolls Izakaya",
       "cuisine": "Japanese",
       "country": "Singapore",
@@ -1446,6 +1461,21 @@
       "michelin_verified": false,
       "google_rating": 4.8,
       "price_level": null,
+      "favourite": false
+    },
+    {
+      "name": "Bebek Goreng Pak Ndut @Lucky Plaza",
+      "cuisine": "Indonesian",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Orchard",
+      "rating": 7.8,
+      "status": "visited",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.7,
+      "price_level": 2,
       "favourite": false
     },
     {
