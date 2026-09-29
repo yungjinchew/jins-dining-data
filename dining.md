@@ -1,6 +1,6 @@
-# Jin's Dining List — snapshot 2026-09-28
+# Jin's Dining List — snapshot 2026-09-29
 
-_Auto-exported from Supabase, refreshed nightly. 461 visited · 183 to try · 8.1 avg · 724 total._
+_Auto-exported from Supabase, refreshed nightly. 462 visited · 182 to try · 8.1 avg · 724 total._
 
 Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · ♥ = would return / favourite · [closed] = permanently closed.
 
@@ -163,6 +163,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Le Chasseur** — Claypot Rice — 8
 - **Luke's Chop House & Oyster Bar** — American — 8
 - **Ming Chung Restaurant** — Zi Char — 8
+- **PERA Turkish Grill** — Turkish — 8
 - **Populous** — Brunch — 8
 - *Rebel Rebel Wine Bar [closed] — Wine Bar — 8*
 - *Red Eye Smokehouse [closed] — American BBQ — 8*
@@ -865,7 +866,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 
 - **Restaurante Palomeque** — Tapas — 8.5
 
-## Want to try (183)
+## Want to try (182)
 
 ### Singapore
 
@@ -952,7 +953,6 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Omakase at Stevens** ★ — Japanese
 - **Origin Bar** — Bar / Cocktails
 - **Pasta J** — Pasta/Steak
-- **PERA Turkish Grill** — Turkish
 - **Permata Singapore** — Malay
 - **Province** — Singaporean
 - **Pulsii French Bistro** — French

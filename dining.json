@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-28T23:04:38.423Z",
+  "generated_at": "2026-09-29T22:03:02.801Z",
   "source": "Supabase (restaurants)",
   "summary": {
-    "visited": 461,
-    "want_to_try": 183,
+    "visited": 462,
+    "want_to_try": 182,
     "avg_rating": 8.1,
     "total": 724
   },
@@ -6549,21 +6549,6 @@
       "favourite": false
     },
     {
-      "name": "PERA Turkish Grill",
-      "cuisine": "Turkish",
-      "country": "Singapore",
-      "city": "Singapore",
-      "area": "CBD",
-      "rating": null,
-      "status": "want-to-try",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 4.9,
-      "price_level": null,
-      "favourite": false
-    },
-    {
       "name": "Haiiro Usagi",
       "cuisine": "Cocktail Bar / Speakeasy",
       "country": "Malaysia",
@@ -6651,6 +6636,21 @@
       "michelin_verified": false,
       "google_rating": 4.8,
       "price_level": null,
+      "favourite": false
+    },
+    {
+      "name": "PERA Turkish Grill",
+      "cuisine": "Turkish",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "CBD",
+      "rating": 8,
+      "status": "visited",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.8,
+      "price_level": 3,
       "favourite": false
     },
     {
