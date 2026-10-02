@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-01T22:30:01.469Z",
+  "generated_at": "2026-10-02T22:00:08.173Z",
   "source": "Supabase (restaurants)",
   "summary": {
     "visited": 462,
-    "want_to_try": 182,
+    "want_to_try": 185,
     "avg_rating": 8.1,
-    "total": 724
+    "total": 727
   },
   "restaurants": [
     {
@@ -1719,6 +1719,21 @@
       "favourite": false
     },
     {
+      "name": "AO Restaurant",
+      "cuisine": "Modern Japanese",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Orchard",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.8,
+      "price_level": null,
+      "favourite": false
+    },
+    {
       "name": "The Golden Tooth",
       "cuisine": "Bar / Cocktails",
       "country": "Indonesia",
@@ -1730,6 +1745,36 @@
       "michelin_stars": 0,
       "michelin_verified": false,
       "google_rating": 4.9,
+      "price_level": null,
+      "favourite": false
+    },
+    {
+      "name": "Tembusu Dining House",
+      "cuisine": "Mod Singaporean",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Botanic Gardens",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.5,
+      "price_level": null,
+      "favourite": false
+    },
+    {
+      "name": "Gamja",
+      "cuisine": "Korean",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Telok Ayer",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 5,
       "price_level": null,
       "favourite": false
     },
@@ -2377,6 +2422,21 @@
       "google_rating": 4.2,
       "price_level": null,
       "favourite": false
+    },
+    {
+      "name": "Jungle",
+      "cuisine": "Thai Bar & Grill",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Ann Siang",
+      "rating": 9,
+      "status": "visited",
+      "michelin_type": "bib_gourmand",
+      "michelin_stars": 0,
+      "michelin_verified": true,
+      "google_rating": 4.8,
+      "price_level": 3,
+      "favourite": true
     },
     {
       "name": "Atout",
@@ -5572,21 +5632,6 @@
       "google_rating": 4.8,
       "price_level": null,
       "favourite": false
-    },
-    {
-      "name": "Jungle",
-      "cuisine": "Thai Bar & Grill",
-      "country": "Singapore",
-      "city": "Singapore",
-      "area": "Ann Siang",
-      "rating": 9,
-      "status": "visited",
-      "michelin_type": "bib_gourmand",
-      "michelin_stars": 0,
-      "michelin_verified": true,
-      "google_rating": 4.8,
-      "price_level": null,
-      "favourite": true
     },
     {
       "name": "Anto Pizza",

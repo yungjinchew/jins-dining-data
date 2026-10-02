@@ -1,6 +1,6 @@
-# Jin's Dining List — snapshot 2026-10-01
+# Jin's Dining List — snapshot 2026-10-02
 
-_Auto-exported from Supabase, refreshed nightly. 462 visited · 182 to try · 8.1 avg · 724 total._
+_Auto-exported from Supabase, refreshed nightly. 462 visited · 185 to try · 8.1 avg · 727 total._
 
 Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · ♥ = would return / favourite · [closed] = permanently closed.
 
@@ -866,7 +866,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 
 - **Restaurante Palomeque** — Tapas — 8.5
 
-## Want to try (182)
+## Want to try (185)
 
 ### Singapore
 
@@ -876,6 +876,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **3 meals a day** — 
 - **808** — Asian
 - **Alani** — Bakery
+- **AO Restaurant** — Modern Japanese
 - **Ayasofya** — Turkish
 - **Bae Sik Dang** — Korean BBQ
 - **Ban lan** — Chinese
@@ -901,6 +902,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Fleurette** — Modern European
 - **Fura** — Bar / Cocktails
 - **Gai Inn Izakaya** — Japanese
+- **Gamja** — Korean
 - **Gaston** — French Burgundian
 - **Gilmore & Damian D'Silva** — Eurasian
 - **Guccio** — Italian
@@ -985,6 +987,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Tajin** — Middle Eastern
 - **Takahashi** — Japanese Omakase
 - **Tamba** — West African
+- **Tembusu Dining House** — Mod Singaporean
 - **The Champagnery** — Champagne Bar
 - **The Elephant Room** — Bar / Cocktails
 - **Towa** — Izakaya/Teppanyaki
