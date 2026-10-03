@@ -1,6 +1,6 @@
-# Jin's Dining List — snapshot 2026-10-02
+# Jin's Dining List — snapshot 2026-10-03
 
-_Auto-exported from Supabase, refreshed nightly. 462 visited · 185 to try · 8.1 avg · 727 total._
+_Auto-exported from Supabase, refreshed nightly. 464 visited · 185 to try · 8.1 avg · 729 total._
 
 Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · ♥ = would return / favourite · [closed] = permanently closed.
 
@@ -843,8 +843,10 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **5PM Lalapot** — Chinese Hotpot — 8.5
 - **Haiiro Usagi** — Cocktail Bar / Speakeasy — 8
 - **Principle Cafe** — Cafe / Coffee — 8
+- **33 Noodle House** — Noodles / Mee Hoon Kueh — 7.5
 - **Local House** — Kopitiam / Cafe — 7.5
 - **Palates and Bagels** — Bagels / Bakery — 7.5
+- **Hua Mui** — Hainanese Kopitiam — 7
 
 ### Kichijōji
 

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-02T22:00:08.173Z",
+  "generated_at": "2026-10-03T20:48:56.411Z",
   "source": "Supabase (restaurants)",
   "summary": {
-    "visited": 462,
+    "visited": 464,
     "want_to_try": 185,
     "avg_rating": 8.1,
-    "total": 727
+    "total": 729
   },
   "restaurants": [
     {
@@ -1719,21 +1719,6 @@
       "favourite": false
     },
     {
-      "name": "AO Restaurant",
-      "cuisine": "Modern Japanese",
-      "country": "Singapore",
-      "city": "Singapore",
-      "area": "Orchard",
-      "rating": null,
-      "status": "want-to-try",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 4.8,
-      "price_level": null,
-      "favourite": false
-    },
-    {
       "name": "The Golden Tooth",
       "cuisine": "Bar / Cocktails",
       "country": "Indonesia",
@@ -1749,17 +1734,17 @@
       "favourite": false
     },
     {
-      "name": "Tembusu Dining House",
-      "cuisine": "Mod Singaporean",
+      "name": "AO Restaurant",
+      "cuisine": "Modern Japanese",
       "country": "Singapore",
       "city": "Singapore",
-      "area": "Botanic Gardens",
+      "area": "Orchard",
       "rating": null,
       "status": "want-to-try",
       "michelin_type": null,
       "michelin_stars": 0,
       "michelin_verified": false,
-      "google_rating": 4.5,
+      "google_rating": 4.8,
       "price_level": null,
       "favourite": false
     },
@@ -1775,6 +1760,21 @@
       "michelin_stars": 0,
       "michelin_verified": false,
       "google_rating": 5,
+      "price_level": null,
+      "favourite": false
+    },
+    {
+      "name": "Tembusu Dining House",
+      "cuisine": "Mod Singaporean",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Botanic Gardens",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.5,
       "price_level": null,
       "favourite": false
     },
@@ -2780,6 +2780,36 @@
       "michelin_stars": 0,
       "michelin_verified": false,
       "google_rating": 4.9,
+      "price_level": null,
+      "favourite": false
+    },
+    {
+      "name": "33 Noodle House",
+      "cuisine": "Noodles / Mee Hoon Kueh",
+      "country": "Malaysia",
+      "city": "Johor Bahru",
+      "area": "Bukit Indah",
+      "rating": 7.5,
+      "status": "visited",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": null,
+      "price_level": null,
+      "favourite": false
+    },
+    {
+      "name": "Hua Mui",
+      "cuisine": "Hainanese Kopitiam",
+      "country": "Malaysia",
+      "city": "Johor Bahru",
+      "area": "Eco Botanic",
+      "rating": 7,
+      "status": "visited",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": null,
       "price_level": null,
       "favourite": false
     },
@@ -6579,21 +6609,6 @@
       "favourite": false
     },
     {
-      "name": "Whuchu Korean Dining",
-      "cuisine": "Korean",
-      "country": "Singapore",
-      "city": "Singapore",
-      "area": "River Valley",
-      "rating": null,
-      "status": "want-to-try",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 4.9,
-      "price_level": null,
-      "favourite": false
-    },
-    {
       "name": "Haiiro Usagi",
       "cuisine": "Cocktail Bar / Speakeasy",
       "country": "Malaysia",
@@ -6609,32 +6624,32 @@
       "favourite": false
     },
     {
-      "name": "Liora Contemporary Dining",
-      "cuisine": "Modern Korean",
+      "name": "PERA Turkish Grill",
+      "cuisine": "Turkish",
       "country": "Singapore",
       "city": "Singapore",
-      "area": "Clarke Quay",
+      "area": "CBD",
+      "rating": 8,
+      "status": "visited",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.8,
+      "price_level": 3,
+      "favourite": false
+    },
+    {
+      "name": "Bari Bari Grand",
+      "cuisine": "Teppanyaki",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "City Hall",
       "rating": null,
       "status": "want-to-try",
       "michelin_type": null,
       "michelin_stars": 0,
       "michelin_verified": false,
       "google_rating": 4.8,
-      "price_level": null,
-      "favourite": false
-    },
-    {
-      "name": "Kott-Don 360 (VivoCity)",
-      "cuisine": "Korean BBQ",
-      "country": "Singapore",
-      "city": "Singapore",
-      "area": "HarbourFront",
-      "rating": null,
-      "status": "want-to-try",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 4.7,
       "price_level": null,
       "favourite": false
     },
@@ -6654,6 +6669,36 @@
       "favourite": false
     },
     {
+      "name": "Kott-Don 360 (VivoCity)",
+      "cuisine": "Korean BBQ",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "HarbourFront",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.7,
+      "price_level": null,
+      "favourite": false
+    },
+    {
+      "name": "Liora Contemporary Dining",
+      "cuisine": "Modern Korean",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Clarke Quay",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.8,
+      "price_level": null,
+      "favourite": false
+    },
+    {
       "name": "Noor",
       "cuisine": "Mediterranean",
       "country": "Singapore",
@@ -6669,33 +6714,18 @@
       "favourite": false
     },
     {
-      "name": "Bari Bari Grand",
-      "cuisine": "Teppanyaki",
+      "name": "Whuchu Korean Dining",
+      "cuisine": "Korean",
       "country": "Singapore",
       "city": "Singapore",
-      "area": "City Hall",
+      "area": "River Valley",
       "rating": null,
       "status": "want-to-try",
       "michelin_type": null,
       "michelin_stars": 0,
       "michelin_verified": false,
-      "google_rating": 4.8,
+      "google_rating": 4.9,
       "price_level": null,
-      "favourite": false
-    },
-    {
-      "name": "PERA Turkish Grill",
-      "cuisine": "Turkish",
-      "country": "Singapore",
-      "city": "Singapore",
-      "area": "CBD",
-      "rating": 8,
-      "status": "visited",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 4.8,
-      "price_level": 3,
       "favourite": false
     },
     {
@@ -7764,21 +7794,6 @@
       "favourite": false
     },
     {
-      "name": "Xiang xiang",
-      "cuisine": "",
-      "country": "Singapore",
-      "city": "Singapore",
-      "area": "",
-      "rating": 8.5,
-      "status": "visited",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": null,
-      "price_level": null,
-      "favourite": false
-    },
-    {
       "name": "Hamamoto",
       "cuisine": "Japanese",
       "country": "Singapore",
@@ -7821,6 +7836,21 @@
       "michelin_verified": false,
       "google_rating": 4.5,
       "price_level": 1,
+      "favourite": false
+    },
+    {
+      "name": "Xiang xiang",
+      "cuisine": "",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "",
+      "rating": 8.5,
+      "status": "visited",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": null,
+      "price_level": null,
       "favourite": false
     },
     {
