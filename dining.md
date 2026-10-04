@@ -1,6 +1,6 @@
-# Jin's Dining List — snapshot 2026-10-03
+# Jin's Dining List — snapshot 2026-10-04
 
-_Auto-exported from Supabase, refreshed nightly. 464 visited · 185 to try · 8.1 avg · 729 total._
+_Auto-exported from Supabase, refreshed nightly. 464 visited · 186 to try · 8.1 avg · 730 total._
 
 Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · ♥ = would return / favourite · [closed] = permanently closed.
 
@@ -868,7 +868,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 
 - **Restaurante Palomeque** — Tapas — 8.5
 
-## Want to try (185)
+## Want to try (186)
 
 ### Singapore
 
@@ -968,6 +968,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Sabor** — Spanish
 - **Sabòr Cocina y Tapas** — Spanish
 - **Sago House** — Bar / Cocktails
+- **Saikyo** — Japanese
 - **Salt & Soul** — European
 - **SAMSAMSAM Samgyetang Specialty Korean Restaurant | Novena Square** — Korean
 - **Satori** — Japanese Yakitori
