@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T21:04:29.628Z",
+  "generated_at": "2026-10-05T14:13:34.265Z",
   "source": "Supabase (restaurants)",
   "summary": {
     "visited": 464,
@@ -2334,21 +2334,6 @@
       "favourite": false
     },
     {
-      "name": "Baan Tepa Culinary Space",
-      "cuisine": "Thai",
-      "country": "Thailand",
-      "city": "Bangkok",
-      "area": "Khet Bang Kapi",
-      "rating": 9.8,
-      "status": "visited",
-      "michelin_type": "star",
-      "michelin_stars": 2,
-      "michelin_verified": true,
-      "google_rating": 4.7,
-      "price_level": null,
-      "favourite": true
-    },
-    {
       "name": "Virtù",
       "cuisine": "Bar / Cocktails",
       "country": "Japan",
@@ -3052,6 +3037,21 @@
       "google_rating": 4.7,
       "price_level": 2,
       "favourite": false
+    },
+    {
+      "name": "Baan Tepa Culinary Space",
+      "cuisine": "Thai",
+      "country": "Thailand",
+      "city": "Bangkok",
+      "area": "Khet Bang Kapi",
+      "rating": 9.8,
+      "status": "visited",
+      "michelin_type": "star",
+      "michelin_stars": 2,
+      "michelin_verified": true,
+      "google_rating": 4.7,
+      "price_level": 4,
+      "favourite": true
     },
     {
       "name": "Az-Zait restaurante",
@@ -7464,21 +7464,6 @@
       "favourite": false
     },
     {
-      "name": "Locavore NXT",
-      "cuisine": "Indonesian",
-      "country": "Indonesia",
-      "city": "Bali",
-      "area": "Ubud",
-      "rating": 9.5,
-      "status": "visited",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 4.8,
-      "price_level": null,
-      "favourite": false
-    },
-    {
       "name": "Navu",
       "cuisine": "",
       "country": "India",
@@ -7490,6 +7475,21 @@
       "michelin_stars": 0,
       "michelin_verified": false,
       "google_rating": 4.2,
+      "price_level": 4,
+      "favourite": false
+    },
+    {
+      "name": "Locavore NXT",
+      "cuisine": "Indonesian",
+      "country": "Indonesia",
+      "city": "Bali",
+      "area": "Ubud",
+      "rating": 9.5,
+      "status": "visited",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.7,
       "price_level": 4,
       "favourite": false
     },
