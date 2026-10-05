@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T14:41:01.902Z",
+  "generated_at": "2026-10-05T23:53:51.003Z",
   "source": "Supabase (restaurants)",
   "summary": {
     "visited": 464,
@@ -1524,21 +1524,6 @@
       "favourite": false
     },
     {
-      "name": "Wagyu Jin",
-      "cuisine": "Japanese Beef",
-      "country": "Singapore",
-      "city": "Singapore",
-      "area": "Orchard",
-      "rating": null,
-      "status": "want-to-try",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 4.5,
-      "price_level": null,
-      "favourite": false
-    },
-    {
       "name": "1-Alfaro",
       "cuisine": "Italian",
       "country": "Singapore",
@@ -1550,6 +1535,21 @@
       "michelin_stars": 0,
       "michelin_verified": false,
       "google_rating": 4.6,
+      "price_level": null,
+      "favourite": false
+    },
+    {
+      "name": "Wagyu Jin",
+      "cuisine": "Japanese Beef",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Orchard",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.5,
       "price_level": null,
       "favourite": false
     },
@@ -1839,21 +1839,6 @@
       "favourite": false
     },
     {
-      "name": "1887 by Andre",
-      "cuisine": "French",
-      "country": "Singapore",
-      "city": "Singapore",
-      "area": "Orchard",
-      "rating": null,
-      "status": "want-to-try",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 3.7,
-      "price_level": null,
-      "favourite": false
-    },
-    {
       "name": "鲨 野村 のむら (Sushi Nomura)",
       "cuisine": "Japanese Sushi",
       "country": "Taiwan",
@@ -1897,21 +1882,6 @@
       "google_rating": 4.8,
       "price_level": null,
       "favourite": false
-    },
-    {
-      "name": "Hachi",
-      "cuisine": "Japanese Omakase",
-      "country": "Singapore",
-      "city": "Singapore",
-      "area": "CBD",
-      "rating": 9.5,
-      "status": "visited",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 4.6,
-      "price_level": 4,
-      "favourite": true
     },
     {
       "name": "Le Pristine",
@@ -1972,6 +1942,21 @@
       "google_rating": 4.2,
       "price_level": null,
       "favourite": false
+    },
+    {
+      "name": "Hachi",
+      "cuisine": "Japanese Omakase",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "CBD",
+      "rating": 9.5,
+      "status": "visited",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.6,
+      "price_level": 4,
+      "favourite": true
     },
     {
       "name": "27 Mezze Bar and Grill",
@@ -2247,7 +2232,7 @@
       "name": "Terumi",
       "cuisine": "Bar",
       "country": "Malaysia",
-      "city": "Singapore",
+      "city": "Kuala Lumpur",
       "area": "Taman Paramount",
       "rating": null,
       "status": "want-to-try",
@@ -3486,6 +3471,36 @@
       "michelin_verified": false,
       "google_rating": 4.7,
       "price_level": null,
+      "favourite": false
+    },
+    {
+      "name": "1887 by Andre",
+      "cuisine": "French",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Downtown Core",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 3.7,
+      "price_level": 4,
+      "favourite": false
+    },
+    {
+      "name": "Inddee",
+      "cuisine": "Indian",
+      "country": "Thailand",
+      "city": "Bangkok",
+      "area": "Ari",
+      "rating": 9.5,
+      "status": "visited",
+      "michelin_type": "star",
+      "michelin_stars": 2,
+      "michelin_verified": true,
+      "google_rating": 4.8,
+      "price_level": 4,
       "favourite": false
     },
     {
@@ -5889,21 +5904,6 @@
       "favourite": true
     },
     {
-      "name": "Inddee",
-      "cuisine": "Indian",
-      "country": "Thailand",
-      "city": "Bangkok",
-      "area": "Ari",
-      "rating": 9.5,
-      "status": "visited",
-      "michelin_type": "star",
-      "michelin_stars": 2,
-      "michelin_verified": true,
-      "google_rating": 4.8,
-      "price_level": null,
-      "favourite": false
-    },
-    {
       "name": "Sri Trat",
       "cuisine": "Thai",
       "country": "Thailand",
@@ -6114,21 +6114,6 @@
       "favourite": false
     },
     {
-      "name": "27 Degrees West",
-      "cuisine": "Indian",
-      "country": "Singapore",
-      "city": "Singapore",
-      "area": "Orchard",
-      "rating": null,
-      "status": "want-to-try",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 4.5,
-      "price_level": null,
-      "favourite": false
-    },
-    {
       "name": "Bouillon Gavroche",
       "cuisine": "French",
       "country": "Singapore",
@@ -6201,6 +6186,21 @@
       "michelin_verified": false,
       "google_rating": 4.5,
       "price_level": 4,
+      "favourite": false
+    },
+    {
+      "name": "27 Degrees West",
+      "cuisine": "Indian",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Orchard",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.5,
+      "price_level": null,
       "favourite": false
     },
     {
