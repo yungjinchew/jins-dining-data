@@ -210,7 +210,7 @@ export function buildOutputs(rows) {
 
 async function main() {
   if (!KEY) throw new Error("SUPABASE_KEY env var required");
-  const rows = await getAll("restaurants");
+  const rows = await getAll("restaurants_public");
   const { json, md } = buildOutputs(rows);
   const fs = await import("node:fs");
   fs.writeFileSync("dining.json", json);
