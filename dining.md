@@ -1,6 +1,6 @@
-# Jin's Dining List — snapshot 2026-10-05
+# Jin's Dining List — snapshot 2026-10-06
 
-_Auto-exported from Supabase, refreshed nightly. 464 visited · 186 to try · 8.1 avg · 730 total._
+_Auto-exported from Supabase, refreshed nightly. 458 visited · 185 to try · 8.1 avg · 730 total._
 
 Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · ♥ = would return / favourite · [closed] = permanently closed.
 
@@ -108,12 +108,12 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Wewa orchard gateway** — Middle Eastern — 7.5
 - **Wild Honey** — Brunch — 7.5
 - **Wooloomooloo Steakhouse** — Steakhouse — 7.5
-- **Salt Grill & Sky Bar** — International — 7.3
+- *Salt Grill & Sky Bar [closed] — International — 7.3*
 - **Doran Chicken** — Korean Fried Chicken — 7
 - **Fat Cow** — Japanese Steakhouse — 7
 - **Surrey Hills** — Cafe — 7
 - *Viva Mexico Cuppage [closed] — Mexican — 7*
-- **Wild Rocket** — Fusion — 7
+- *Wild Rocket [closed] — Fusion — 7*
 - **Modu** — Korean — 6.5
 - *Homura by Kai [closed] — Izakaya*
 - *Kausmo [closed] — Sustainable*
@@ -220,14 +220,14 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **DOP Mozzarella Bar** — Italian — 6.5
 - **Etna** — Sicilian Italian — 6.5
 - **Everything with the Fries** — Casual Western — 6.5
-- **Mex Out** — Mexican — 6.5
+- *Mex Out [closed] — Mexican — 6.5*
 - **Morsels** — Tapas — 6.5
 - **Oriole Cafe & Bar** — Coffee/Cafe — 6.5
 - **Sacha & Sons** — Deli — 6.5
 - *Viva Mexico [closed] — Mexican — 6.5*
 - **Windowsill in the Woods** — Pies — 6.5
 - **Bistro du Vin** — French Bistro — 6
-- **Burlamacco** — Italian — 6
+- *Burlamacco [closed] — Italian — 6*
 - **La Nonna** — Italian — 6
 - *Ristorante Da Valentino [closed] — Italian — 6*
 - **320 Below Nitro Ice Cream** — Dessert — 5.5
@@ -255,7 +255,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Shin Terroir** — Yakitori — 8
 - **Tong Ah Eating House** — Kaya Toast — 8
 - **Tonshou** ♥ — Korean Tonkatsu — 8
-- **Café & Bar Gavroche** — French — 7.5
+- *Café & Bar Gavroche [closed] — French — 7.5*
 - **Chicken Up** — Korean — 7.5
 - **Kuro Maguro** — Japanese — 7.5
 - **Meng Kee Char Kway Teow** — Char Kway Teow — 7.5
@@ -286,9 +286,9 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Roberta's Pizza** ♥ — Pizza — 8.5
 - **665F** — Steakhouse — 8
 - *DB Bistro Moderne [closed] — French — 7.5*
-- **Mozza Pizzeria** — Pizza — 7.5
+- *Mozza Pizzeria [closed] — Pizza — 7.5*
 - **Black Tap Burgers** — Burgers — 6.5
-- **Osteria Mozza** — Italian — 6
+- *Osteria Mozza [closed] — Italian — 6*
 
 ### Serangoon
 
@@ -373,9 +373,9 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - *Open Farm Community [closed] — Farm-to-Table — 7.8*
 - **Blu Kouzina** — Greek — 7.5
 - **Casa Mori** — Spanish / Modern Asian — 7.5
-- **Au Petit Salut** — French — 7
-- **The Disgruntled Chef** — Mediterranean — 6.5
-- **Dempsey Brasserie** — Western — 6
+- *Au Petit Salut [closed] — French — 7*
+- *The Disgruntled Chef [closed] — Mediterranean — 6.5*
+- *Dempsey Brasserie [closed] — Western — 6*
 
 ### East Coast
 
@@ -483,6 +483,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Moutarde** — French Bistro — 7.5
 - *Osia [closed] — Australian — 7.5*
 - **Skirt** — Steakhouse — 7.5
+- *Table65 [closed] — Modern European*
 
 ### Sin Ming
 
@@ -644,7 +645,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 
 ### Vivo City
 
-- **The Chop House** — Steakhouse — 7
+- *The Chop House [closed] — Steakhouse — 7*
 
 ### Seah Street
 
@@ -868,7 +869,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 
 - **Restaurante Palomeque** — Tapas — 8.5
 
-## Want to try (186)
+## Want to try (185)
 
 ### Singapore
 
@@ -986,7 +987,6 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Sushi Hare** — Japanese Omakase
 - **Sushidan** — Sushi
 - **Suzuki** — Japanese Kaiseki
-- **Table65** — Modern European
 - **Tajin** — Middle Eastern
 - **Takahashi** — Japanese Omakase
 - **Tamba** — West African
