@@ -1,6 +1,6 @@
-# Jin's Dining List — snapshot 2026-10-06
+# Jin's Dining List — snapshot 2026-10-07
 
-_Auto-exported from Supabase, refreshed nightly. 458 visited · 185 to try · 8.1 avg · 730 total._
+_Auto-exported from Supabase, refreshed nightly. 459 visited · 187 to try · 8.1 avg · 733 total._
 
 Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · ♥ = would return / favourite · [closed] = permanently closed.
 
@@ -809,6 +809,10 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **KARA-KUSA curry** — Japanese Curry — 8.5
 - **Nishiki Sushi Shin** — Sushi — 8.5
 
+### New york
+
+- **Attaboy** — Bar — 9
+
 ### Shibuya
 
 - **Bar Trench** — Bar / Cocktails — 9
@@ -869,7 +873,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 
 - **Restaurante Palomeque** — Tapas — 8.5
 
-## Want to try (185)
+## Want to try (187)
 
 ### Singapore
 
@@ -880,6 +884,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **808** — Asian
 - **Alani** — Bakery
 - **AO Restaurant** — Modern Japanese
+- **Atomix** — Korean
 - **Ayasofya** — Turkish
 - **Bae Sik Dang** — Korean BBQ
 - **Ban lan** — Chinese
@@ -979,6 +984,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Shoukouwa** ★★ — Japanese Omakase
 - **Side door** — Café
 - **Sio Pasta** — Japanese Pasta
+- **Somssi** — 
 - **Spago** — Californian
 - **Stags head** — British
 - **Stay Gold Flamingo** — Bar / Cocktails
@@ -1110,6 +1116,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 | 9.2 | 炭火焼肉 一獲 | Yakiniku | Osaka |
 | 9.1 | Hearth | Izakaya | Craig Road |
 | 9 | 80/20 Eighty Twenty ★ | Thai | Bangkok |
+| 9 | Attaboy | Bar | New york |
 | 9 | Bar Trench | Bar / Cocktails | Shibuya |
 | 9 | Bedok Chwee Kueh | Chwee Kueh | Bedok |
 | 9 | Beni | French-Japanese | Orchard |

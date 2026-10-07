@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-06T22:31:20.270Z",
+  "generated_at": "2026-10-07T22:54:58.386Z",
   "source": "Supabase (restaurants)",
   "summary": {
-    "visited": 458,
-    "want_to_try": 185,
+    "visited": 459,
+    "want_to_try": 187,
     "avg_rating": 8.1,
-    "total": 730
+    "total": 733
   },
   "restaurants": [
     {
@@ -5514,6 +5514,21 @@
       "favourite": false
     },
     {
+      "name": "Attaboy",
+      "cuisine": "Bar",
+      "country": "Usa",
+      "city": "New york",
+      "area": "Manhattan",
+      "rating": 9,
+      "status": "visited",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.2,
+      "price_level": 2,
+      "favourite": false
+    },
+    {
       "name": "Salt Grill & Sky Bar",
       "cuisine": "International",
       "country": "Singapore",
@@ -5604,6 +5619,21 @@
       "favourite": false
     },
     {
+      "name": "Atomix",
+      "cuisine": "Korean",
+      "country": "Singapore",
+      "city": "New york",
+      "area": "Manhattan",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.6,
+      "price_level": 4,
+      "favourite": false
+    },
+    {
       "name": "Doran Chicken",
       "cuisine": "Korean Fried Chicken",
       "country": "Singapore",
@@ -5691,6 +5721,21 @@
       "michelin_verified": false,
       "google_rating": 4,
       "price_level": null,
+      "favourite": false
+    },
+    {
+      "name": "Somssi",
+      "cuisine": "",
+      "country": "Singapore",
+      "city": "New york",
+      "area": "Manhattan",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.6,
+      "price_level": 3,
       "favourite": false
     },
     {
