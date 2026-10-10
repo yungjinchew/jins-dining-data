@@ -1,13 +1,28 @@
 {
-  "generated_at": "2026-10-09T22:27:08.535Z",
+  "generated_at": "2026-10-10T21:22:48.838Z",
   "source": "Supabase (restaurants)",
   "summary": {
-    "visited": 459,
-    "want_to_try": 187,
+    "visited": 460,
+    "want_to_try": 186,
     "avg_rating": 8.1,
     "total": 733
   },
   "restaurants": [
+    {
+      "name": "Logy",
+      "cuisine": "Asian Contemporary",
+      "country": "Taiwan",
+      "city": "Taipei",
+      "area": "Da'an District",
+      "rating": 9.5,
+      "status": "visited",
+      "michelin_type": "star",
+      "michelin_stars": 2,
+      "michelin_verified": true,
+      "google_rating": 4.3,
+      "price_level": 4,
+      "favourite": true
+    },
     {
       "name": "Trattoria Lafiandra",
       "cuisine": "Italian",
@@ -37,6 +52,21 @@
       "google_rating": 4.5,
       "price_level": null,
       "favourite": false
+    },
+    {
+      "name": "La Lloreria",
+      "cuisine": "Tapas",
+      "country": "Spain",
+      "city": "Madrid",
+      "area": "Centro",
+      "rating": 9.2,
+      "status": "visited",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.8,
+      "price_level": null,
+      "favourite": true
     },
     {
       "name": "Poise",
@@ -82,6 +112,21 @@
       "google_rating": null,
       "price_level": null,
       "favourite": false
+    },
+    {
+      "name": "Hakata Robata Fishman",
+      "cuisine": "Japanese Izakaya",
+      "country": "Japan",
+      "city": "Fukuoka",
+      "area": "Hakata",
+      "rating": 9,
+      "status": "visited",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.9,
+      "price_level": null,
+      "favourite": true
     },
     {
       "name": "Euphoria",
@@ -174,6 +219,21 @@
       "favourite": false
     },
     {
+      "name": "Hearth",
+      "cuisine": "Izakaya",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Craig Road",
+      "rating": 9.1,
+      "status": "visited",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.5,
+      "price_level": null,
+      "favourite": true
+    },
+    {
       "name": "La Ventana",
       "cuisine": "Spanish",
       "country": "Singapore",
@@ -217,6 +277,21 @@
       "google_rating": 4.4,
       "price_level": null,
       "favourite": false
+    },
+    {
+      "name": "Bar Trench",
+      "cuisine": "Bar / Cocktails",
+      "country": "Japan",
+      "city": "Tokyo",
+      "area": "Ebisu",
+      "rating": 9,
+      "status": "visited",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.7,
+      "price_level": 2,
+      "favourite": true
     },
     {
       "name": "Wang Dae Bak",
@@ -530,21 +605,6 @@
       "michelin_stars": 0,
       "michelin_verified": false,
       "google_rating": 4.6,
-      "price_level": 4,
-      "favourite": false
-    },
-    {
-      "name": "Logy",
-      "cuisine": "Asian Contemporary",
-      "country": "Taiwan",
-      "city": "Taipei",
-      "area": "Da'an District",
-      "rating": 9.5,
-      "status": "visited",
-      "michelin_type": "star",
-      "michelin_stars": 2,
-      "michelin_verified": true,
-      "google_rating": 4.3,
       "price_level": 4,
       "favourite": false
     },
@@ -1014,6 +1074,21 @@
       "favourite": false
     },
     {
+      "name": "Rolls Izakaya",
+      "cuisine": "Japanese",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Outram",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.6,
+      "price_level": null,
+      "favourite": false
+    },
+    {
       "name": "Hup San Social Club",
       "cuisine": "Bar / Cocktails",
       "country": "Singapore",
@@ -1071,21 +1146,6 @@
       "michelin_verified": false,
       "google_rating": 4.6,
       "price_level": 2,
-      "favourite": false
-    },
-    {
-      "name": "Rolls Izakaya",
-      "cuisine": "Japanese",
-      "country": "Singapore",
-      "city": "Singapore",
-      "area": "Outram",
-      "rating": null,
-      "status": "want-to-try",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 4.9,
-      "price_level": null,
       "favourite": false
     },
     {
@@ -1344,6 +1404,21 @@
       "favourite": false
     },
     {
+      "name": "Bar Butler",
+      "cuisine": "Bar / Cocktails",
+      "country": "Japan",
+      "city": "Tokyo",
+      "area": "Ginza",
+      "rating": 9.3,
+      "status": "visited",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.8,
+      "price_level": 2,
+      "favourite": true
+    },
+    {
       "name": "Chew Kee",
       "cuisine": "Soya Sauce Chicken",
       "country": "Singapore",
@@ -1356,21 +1431,6 @@
       "michelin_verified": false,
       "google_rating": 4.3,
       "price_level": 1,
-      "favourite": false
-    },
-    {
-      "name": "Bar Butler",
-      "cuisine": "Bar / Cocktails",
-      "country": "Japan",
-      "city": "Tokyo",
-      "area": "Ginza",
-      "rating": 9.3,
-      "status": "visited",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 4.8,
-      "price_level": null,
       "favourite": false
     },
     {
@@ -1614,6 +1674,21 @@
       "favourite": false
     },
     {
+      "name": "AO Restaurant",
+      "cuisine": "Modern Japanese",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Orchard",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.8,
+      "price_level": 2,
+      "favourite": false
+    },
+    {
       "name": "The Tavernist (Kimpton Da An)",
       "cuisine": "Bar",
       "country": "Taiwan",
@@ -1655,21 +1730,6 @@
       "michelin_stars": 0,
       "michelin_verified": false,
       "google_rating": 4.9,
-      "price_level": null,
-      "favourite": false
-    },
-    {
-      "name": "AO Restaurant",
-      "cuisine": "Modern Japanese",
-      "country": "Singapore",
-      "city": "Singapore",
-      "area": "Orchard",
-      "rating": null,
-      "status": "want-to-try",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 4.8,
       "price_level": null,
       "favourite": false
     },
@@ -1899,21 +1959,6 @@
       "favourite": false
     },
     {
-      "name": "Bible Club",
-      "cuisine": "Bar / Cocktails",
-      "country": "Japan",
-      "city": "Osaka",
-      "area": "Shinsaibashi",
-      "rating": 9.3,
-      "status": "visited",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 4.5,
-      "price_level": null,
-      "favourite": false
-    },
-    {
       "name": "Galle Club",
       "cuisine": "South Asian",
       "country": "Indonesia",
@@ -1942,6 +1987,21 @@
       "google_rating": 4.6,
       "price_level": null,
       "favourite": false
+    },
+    {
+      "name": "Bible Club",
+      "cuisine": "Bar / Cocktails",
+      "country": "Japan",
+      "city": "Osaka",
+      "area": "Shinsaibashi",
+      "rating": 9.3,
+      "status": "visited",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.5,
+      "price_level": null,
+      "favourite": true
     },
     {
       "name": "Compound Warung",
@@ -2002,21 +2062,6 @@
       "google_rating": 4.2,
       "price_level": 1,
       "favourite": false
-    },
-    {
-      "name": "Ma Cuisine",
-      "cuisine": "French Wine Bar",
-      "country": "Singapore",
-      "city": "Singapore",
-      "area": "CBD",
-      "rating": 9.5,
-      "status": "visited",
-      "michelin_type": "star",
-      "michelin_stars": 1,
-      "michelin_verified": true,
-      "google_rating": 4.5,
-      "price_level": null,
-      "favourite": true
     },
     {
       "name": "Côte",
@@ -2424,21 +2469,6 @@
       "favourite": false
     },
     {
-      "name": "La Lloreria",
-      "cuisine": "Tapas",
-      "country": "Spain",
-      "city": "Madrid",
-      "area": "Centro",
-      "rating": 9.2,
-      "status": "visited",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 4.8,
-      "price_level": null,
-      "favourite": false
-    },
-    {
       "name": "Born and Bred",
       "cuisine": "Korean Steakhouse",
       "country": "South Korea",
@@ -2494,21 +2524,6 @@
       "michelin_type": "selected",
       "michelin_stars": 0,
       "michelin_verified": true,
-      "google_rating": 4.5,
-      "price_level": null,
-      "favourite": false
-    },
-    {
-      "name": "Hearth",
-      "cuisine": "Izakaya",
-      "country": "Singapore",
-      "city": "Singapore",
-      "area": "Craig Road",
-      "rating": 9.1,
-      "status": "visited",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
       "google_rating": 4.5,
       "price_level": null,
       "favourite": false
@@ -2766,7 +2781,7 @@
       "michelin_verified": false,
       "google_rating": 4.6,
       "price_level": null,
-      "favourite": false
+      "favourite": true
     },
     {
       "name": "North Restaurant",
@@ -2844,19 +2859,19 @@
       "favourite": false
     },
     {
-      "name": "Bar Trench",
-      "cuisine": "Bar / Cocktails",
+      "name": "Tonkatsu KATSU Hana",
+      "cuisine": "Tonkatsu",
       "country": "Japan",
-      "city": "Shibuya",
-      "area": "Ebisu",
+      "city": "Osaka",
+      "area": "Chuo Ward",
       "rating": 9,
       "status": "visited",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
+      "michelin_type": "star",
+      "michelin_stars": 1,
+      "michelin_verified": true,
       "google_rating": 4.7,
       "price_level": 2,
-      "favourite": false
+      "favourite": true
     },
     {
       "name": "Saikyo",
@@ -2886,21 +2901,6 @@
       "michelin_verified": false,
       "google_rating": 4.5,
       "price_level": null,
-      "favourite": false
-    },
-    {
-      "name": "Tonkatsu KATSU Hana",
-      "cuisine": "Tonkatsu",
-      "country": "Japan",
-      "city": "Osaka",
-      "area": "Chuo Ward",
-      "rating": 9,
-      "status": "visited",
-      "michelin_type": "star",
-      "michelin_stars": 1,
-      "michelin_verified": true,
-      "google_rating": 4.7,
-      "price_level": 2,
       "favourite": false
     },
     {
@@ -3504,21 +3504,6 @@
       "favourite": false
     },
     {
-      "name": "Mothers Kichijōji",
-      "cuisine": "Pizza",
-      "country": "Japan",
-      "city": "Kichijōji",
-      "area": "Kichijōji",
-      "rating": 8.5,
-      "status": "visited",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 4.3,
-      "price_level": 2,
-      "favourite": false
-    },
-    {
       "name": "Nishiki Sushi Shin",
       "cuisine": "Sushi",
       "country": "Japan",
@@ -3564,6 +3549,21 @@
       "favourite": false
     },
     {
+      "name": "Mothers Kichijōji",
+      "cuisine": "Pizza",
+      "country": "Japan",
+      "city": "Tokyo",
+      "area": "Kichijōji",
+      "rating": 8.5,
+      "status": "visited",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.3,
+      "price_level": 2,
+      "favourite": false
+    },
+    {
       "name": "unDer lab",
       "cuisine": "Bar / Cocktails",
       "country": "Taiwan",
@@ -3590,7 +3590,7 @@
       "michelin_stars": 0,
       "michelin_verified": false,
       "google_rating": 4.9,
-      "price_level": null,
+      "price_level": 3,
       "favourite": false
     },
     {
@@ -4059,36 +4059,6 @@
       "favourite": false
     },
     {
-      "name": "江記東門豆花 (Dongmen Jiang Ji Douhua)",
-      "cuisine": "Tofu Pudding / Dessert",
-      "country": "Taiwan",
-      "city": "Taipei",
-      "area": "East Gate",
-      "rating": null,
-      "status": "visited",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 4.5,
-      "price_level": 1,
-      "favourite": false
-    },
-    {
-      "name": "MATA Tofu Pudding (山海豆花)",
-      "cuisine": "Tofu Pudding / Dessert",
-      "country": "Taiwan",
-      "city": "Taipei",
-      "area": "",
-      "rating": null,
-      "status": "visited",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 4.4,
-      "price_level": 2,
-      "favourite": false
-    },
-    {
       "name": "Restaurant Fiz",
       "cuisine": "Southeast Asian",
       "country": "Singapore",
@@ -4239,21 +4209,6 @@
       "favourite": false
     },
     {
-      "name": "Charm Coffee Roastery",
-      "cuisine": "Coffee",
-      "country": "Taiwan",
-      "city": "Taichung",
-      "area": "",
-      "rating": null,
-      "status": "visited",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 4.8,
-      "price_level": null,
-      "favourite": false
-    },
-    {
       "name": "Kafe Utu",
       "cuisine": "African",
       "country": "Singapore",
@@ -4265,36 +4220,6 @@
       "michelin_stars": 0,
       "michelin_verified": false,
       "google_rating": 4.6,
-      "price_level": 3,
-      "favourite": false
-    },
-    {
-      "name": "Nice Cream (勤美店)",
-      "cuisine": "Ice Cream / Dessert",
-      "country": "Taiwan",
-      "city": "Taichung",
-      "area": "",
-      "rating": null,
-      "status": "visited",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 5,
-      "price_level": null,
-      "favourite": false
-    },
-    {
-      "name": "Miyahara (宮原眼科)",
-      "cuisine": "Ice Cream / Dessert",
-      "country": "Taiwan",
-      "city": "Taichung",
-      "area": "",
-      "rating": null,
-      "status": "visited",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 4.3,
       "price_level": 3,
       "favourite": false
     },
@@ -5514,21 +5439,6 @@
       "favourite": false
     },
     {
-      "name": "Attaboy",
-      "cuisine": "Bar",
-      "country": "Usa",
-      "city": "New york",
-      "area": "Manhattan",
-      "rating": 9,
-      "status": "visited",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 4.2,
-      "price_level": 2,
-      "favourite": false
-    },
-    {
       "name": "Salt Grill & Sky Bar",
       "cuisine": "International",
       "country": "Singapore",
@@ -5616,21 +5526,6 @@
       "michelin_verified": false,
       "google_rating": 4.8,
       "price_level": null,
-      "favourite": false
-    },
-    {
-      "name": "Atomix",
-      "cuisine": "Korean",
-      "country": "Singapore",
-      "city": "New york",
-      "area": "Manhattan",
-      "rating": null,
-      "status": "want-to-try",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 4.6,
-      "price_level": 4,
       "favourite": false
     },
     {
@@ -5726,8 +5621,8 @@
     {
       "name": "Somssi",
       "cuisine": "",
-      "country": "Singapore",
-      "city": "New york",
+      "country": "USA",
+      "city": "New York",
       "area": "Manhattan",
       "rating": null,
       "status": "want-to-try",
@@ -5814,21 +5709,6 @@
       "favourite": false
     },
     {
-      "name": "Hakata Robata Fishman",
-      "cuisine": "Japanese Izakaya",
-      "country": "Japan",
-      "city": "Fukuoka",
-      "area": "Hakata",
-      "rating": 9,
-      "status": "visited",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 4.9,
-      "price_level": 2,
-      "favourite": false
-    },
-    {
       "name": "Leila",
       "cuisine": "Middle Eastern/Med",
       "country": "Singapore",
@@ -5842,6 +5722,21 @@
       "google_rating": 4.8,
       "price_level": null,
       "favourite": false
+    },
+    {
+      "name": "Ma Cuisine",
+      "cuisine": "French Wine Bar",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "CBD",
+      "rating": 9.5,
+      "status": "visited",
+      "michelin_type": "star",
+      "michelin_stars": 1,
+      "michelin_verified": true,
+      "google_rating": 4.5,
+      "price_level": 4,
+      "favourite": true
     },
     {
       "name": "Anto Pizza",
@@ -5889,21 +5784,6 @@
       "favourite": false
     },
     {
-      "name": "Wayfare tavern",
-      "cuisine": "American",
-      "country": "Usa",
-      "city": "San francisco",
-      "area": "Financial District",
-      "rating": 8.5,
-      "status": "visited",
-      "michelin_type": "selected",
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 4.5,
-      "price_level": 2,
-      "favourite": false
-    },
-    {
       "name": "Sher",
       "cuisine": "Indian",
       "country": "Singapore",
@@ -5931,6 +5811,21 @@
       "michelin_verified": false,
       "google_rating": 4.3,
       "price_level": null,
+      "favourite": false
+    },
+    {
+      "name": "Wayfare tavern",
+      "cuisine": "American",
+      "country": "USA",
+      "city": "San Francisco",
+      "area": "Financial District",
+      "rating": 8.5,
+      "status": "visited",
+      "michelin_type": "selected",
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.5,
+      "price_level": 2,
       "favourite": false
     },
     {
@@ -6011,8 +5906,8 @@
     {
       "name": "Tadich Grill",
       "cuisine": "Seafood",
-      "country": "Usa",
-      "city": "San francisco",
+      "country": "USA",
+      "city": "San Francisco",
       "area": "Financial District",
       "rating": null,
       "status": "want-to-try",
@@ -6264,6 +6159,21 @@
       "favourite": false
     },
     {
+      "name": "Cotogna",
+      "cuisine": "Italian",
+      "country": "USA",
+      "city": "San Francisco",
+      "area": "North Beach",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.5,
+      "price_level": 4,
+      "favourite": false
+    },
+    {
       "name": "Bouillon Gavroche",
       "cuisine": "French",
       "country": "Singapore",
@@ -6294,21 +6204,6 @@
       "favourite": false
     },
     {
-      "name": "Kokkari Estiatorio",
-      "cuisine": "Greek",
-      "country": "Usa",
-      "city": "San francisco",
-      "area": "Northern Waterfront",
-      "rating": 8,
-      "status": "visited",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 4.7,
-      "price_level": 3,
-      "favourite": false
-    },
-    {
       "name": "Casa Cicheti",
       "cuisine": "Italian",
       "country": "Singapore",
@@ -6324,21 +6219,6 @@
       "favourite": false
     },
     {
-      "name": "Cotogna",
-      "cuisine": "Italian",
-      "country": "Usa",
-      "city": "San francisco",
-      "area": "North Beach",
-      "rating": null,
-      "status": "want-to-try",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 4.5,
-      "price_level": 4,
-      "favourite": false
-    },
-    {
       "name": "27 Degrees West",
       "cuisine": "Indian",
       "country": "Singapore",
@@ -6351,6 +6231,21 @@
       "michelin_verified": false,
       "google_rating": 4.5,
       "price_level": null,
+      "favourite": false
+    },
+    {
+      "name": "Kokkari Estiatorio",
+      "cuisine": "Greek",
+      "country": "USA",
+      "city": "San Francisco",
+      "area": "Northern Waterfront",
+      "rating": 8,
+      "status": "visited",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.7,
+      "price_level": 3,
       "favourite": false
     },
     {
@@ -6394,7 +6289,7 @@
       "michelin_type": null,
       "michelin_stars": 0,
       "michelin_verified": false,
-      "google_rating": 4.8,
+      "google_rating": null,
       "price_level": null,
       "favourite": false
     },
@@ -6414,21 +6309,6 @@
       "favourite": false
     },
     {
-      "name": "Angler",
-      "cuisine": "Seafood",
-      "country": "Usa",
-      "city": "San francisco",
-      "area": "Embarcadero",
-      "rating": null,
-      "status": "want-to-try",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 4.5,
-      "price_level": 4,
-      "favourite": false
-    },
-    {
       "name": "Club Rangoon",
       "cuisine": "Burmese",
       "country": "Singapore",
@@ -6441,6 +6321,21 @@
       "michelin_verified": false,
       "google_rating": 4.6,
       "price_level": null,
+      "favourite": false
+    },
+    {
+      "name": "Angler",
+      "cuisine": "Seafood",
+      "country": "USA",
+      "city": "San Francisco",
+      "area": "Embarcadero",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.5,
+      "price_level": 4,
       "favourite": false
     },
     {
@@ -6506,8 +6401,8 @@
     {
       "name": "Via Aurelia",
       "cuisine": "",
-      "country": "Usa",
-      "city": "San francisco",
+      "country": "USA",
+      "city": "San Francisco",
       "area": "Mission Bay",
       "rating": 8,
       "status": "visited",
@@ -6564,21 +6459,6 @@
       "favourite": false
     },
     {
-      "name": "Arsicault Bakery",
-      "cuisine": "Bakery",
-      "country": "United States",
-      "city": "San Francisco",
-      "area": "Inner Richmond",
-      "rating": null,
-      "status": "want-to-try",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 4.8,
-      "price_level": 2,
-      "favourite": false
-    },
-    {
       "name": "Fu Yuan Teochew Dining Greenwood",
       "cuisine": "Chinese",
       "country": "Singapore",
@@ -6594,18 +6474,18 @@
       "favourite": false
     },
     {
-      "name": "La Taqueria",
-      "cuisine": "Mexican",
-      "country": "Usa",
-      "city": "San francisco",
-      "area": "Mission District",
+      "name": "Arsicault Bakery",
+      "cuisine": "Bakery",
+      "country": "USA",
+      "city": "San Francisco",
+      "area": "Inner Richmond",
       "rating": null,
       "status": "want-to-try",
       "michelin_type": null,
       "michelin_stars": 0,
       "michelin_verified": false,
-      "google_rating": 4.5,
-      "price_level": 1,
+      "google_rating": 4.8,
+      "price_level": 2,
       "favourite": false
     },
     {
@@ -6621,21 +6501,6 @@
       "michelin_verified": false,
       "google_rating": 4.4,
       "price_level": null,
-      "favourite": false
-    },
-    {
-      "name": "House of Prime Rib",
-      "cuisine": "British",
-      "country": "Usa",
-      "city": "San francisco",
-      "area": "Polk Gulch",
-      "rating": null,
-      "status": "want-to-try",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 4.6,
-      "price_level": 3,
       "favourite": false
     },
     {
@@ -6666,6 +6531,36 @@
       "michelin_verified": true,
       "google_rating": 4.8,
       "price_level": null,
+      "favourite": false
+    },
+    {
+      "name": "La Taqueria",
+      "cuisine": "Mexican",
+      "country": "USA",
+      "city": "San Francisco",
+      "area": "Mission District",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.5,
+      "price_level": 1,
+      "favourite": false
+    },
+    {
+      "name": "House of Prime Rib",
+      "cuisine": "British",
+      "country": "USA",
+      "city": "San Francisco",
+      "area": "Polk Gulch",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.6,
+      "price_level": 3,
       "favourite": false
     },
     {
@@ -6740,6 +6635,21 @@
       "michelin_stars": 0,
       "michelin_verified": false,
       "google_rating": 4.5,
+      "price_level": null,
+      "favourite": false
+    },
+    {
+      "name": "Casa Lola",
+      "cuisine": "Spanish",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Telok Ayer",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.8,
       "price_level": null,
       "favourite": false
     },
@@ -6819,21 +6729,6 @@
       "favourite": false
     },
     {
-      "name": "Casa Lola",
-      "cuisine": "Spanish",
-      "country": "Singapore",
-      "city": "Singapore",
-      "area": "Telok Ayer",
-      "rating": null,
-      "status": "want-to-try",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 4.9,
-      "price_level": null,
-      "favourite": false
-    },
-    {
       "name": "Kott-Don 360 (VivoCity)",
       "cuisine": "Korean BBQ",
       "country": "Singapore",
@@ -6894,6 +6789,21 @@
       "favourite": false
     },
     {
+      "name": "Pulsii French Bistro",
+      "cuisine": "French",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Tanjong Pagar",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.7,
+      "price_level": null,
+      "favourite": false
+    },
+    {
       "name": "Rechao — Lin Mei Ru (林美如)",
       "cuisine": "Rechao (stir-fry)",
       "country": "Taiwan",
@@ -6935,21 +6845,6 @@
       "michelin_stars": 0,
       "michelin_verified": false,
       "google_rating": 4.8,
-      "price_level": null,
-      "favourite": false
-    },
-    {
-      "name": "Pulsii French Bistro",
-      "cuisine": "French",
-      "country": "Singapore",
-      "city": "Singapore",
-      "area": "Tanjong Pagar",
-      "rating": null,
-      "status": "want-to-try",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 4.7,
       "price_level": null,
       "favourite": false
     },
@@ -7209,6 +7104,36 @@
       "favourite": false
     },
     {
+      "name": "Attaboy",
+      "cuisine": "Bar",
+      "country": "USA",
+      "city": "New York",
+      "area": "Manhattan",
+      "rating": 9,
+      "status": "visited",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.2,
+      "price_level": 2,
+      "favourite": false
+    },
+    {
+      "name": "Atomix",
+      "cuisine": "Korean",
+      "country": "USA",
+      "city": "New York",
+      "area": "Manhattan",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.6,
+      "price_level": 4,
+      "favourite": false
+    },
+    {
       "name": "ยุ้งข้าวหอม Yoong Khao Hom I I'm Park",
       "cuisine": "Thai",
       "country": "Thailand",
@@ -7239,6 +7164,21 @@
       "favourite": false
     },
     {
+      "name": "江記東門豆花 (Dongmen Jiang Ji Douhua)",
+      "cuisine": "Tofu Pudding / Dessert",
+      "country": "Taiwan",
+      "city": "Taipei",
+      "area": "East Gate",
+      "rating": null,
+      "status": "visited",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.5,
+      "price_level": 1,
+      "favourite": false
+    },
+    {
       "name": "Shisen Hanten",
       "cuisine": "Fusion",
       "country": "Singapore",
@@ -7251,6 +7191,21 @@
       "michelin_verified": false,
       "google_rating": 4.8,
       "price_level": 4,
+      "favourite": false
+    },
+    {
+      "name": "MATA Tofu Pudding (山海豆花)",
+      "cuisine": "Tofu Pudding / Dessert",
+      "country": "Taiwan",
+      "city": "Taipei",
+      "area": "",
+      "rating": null,
+      "status": "visited",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.4,
+      "price_level": 2,
       "favourite": false
     },
     {
@@ -7310,6 +7265,21 @@
       "michelin_stars": 0,
       "michelin_verified": false,
       "google_rating": 4.4,
+      "price_level": null,
+      "favourite": false
+    },
+    {
+      "name": "Charm Coffee Roastery",
+      "cuisine": "Coffee",
+      "country": "Taiwan",
+      "city": "Taichung",
+      "area": "",
+      "rating": null,
+      "status": "visited",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.8,
       "price_level": null,
       "favourite": false
     },
@@ -7494,6 +7464,21 @@
       "favourite": false
     },
     {
+      "name": "Nice Cream (勤美店)",
+      "cuisine": "Ice Cream / Dessert",
+      "country": "Taiwan",
+      "city": "Taichung",
+      "area": "",
+      "rating": null,
+      "status": "visited",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 5,
+      "price_level": null,
+      "favourite": false
+    },
+    {
       "name": "Tuga",
       "cuisine": "Portuguese",
       "country": "Singapore",
@@ -7626,6 +7611,21 @@
       "michelin_verified": false,
       "google_rating": 4.7,
       "price_level": 4,
+      "favourite": false
+    },
+    {
+      "name": "Miyahara (宮原眼科)",
+      "cuisine": "Ice Cream / Dessert",
+      "country": "Taiwan",
+      "city": "Taichung",
+      "area": "",
+      "rating": null,
+      "status": "visited",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.3,
+      "price_level": 3,
       "favourite": false
     },
     {
@@ -7929,36 +7929,6 @@
       "favourite": false
     },
     {
-      "name": "Araya",
-      "cuisine": "South American",
-      "country": "Singapore",
-      "city": "Singapore",
-      "area": "Duxton",
-      "rating": 9.5,
-      "status": "visited",
-      "michelin_type": "star",
-      "michelin_stars": 1,
-      "michelin_verified": true,
-      "google_rating": 4.5,
-      "price_level": null,
-      "favourite": false
-    },
-    {
-      "name": "Hamamoto",
-      "cuisine": "Japanese",
-      "country": "Singapore",
-      "city": "Singapore",
-      "area": "Tanjong Pagar",
-      "rating": null,
-      "status": "want-to-try",
-      "michelin_type": "star",
-      "michelin_stars": 1,
-      "michelin_verified": true,
-      "google_rating": 4.9,
-      "price_level": null,
-      "favourite": false
-    },
-    {
       "name": "Esora",
       "cuisine": "Japanese",
       "country": "Singapore",
@@ -8004,6 +7974,36 @@
       "favourite": false
     },
     {
+      "name": "Araya",
+      "cuisine": "South American",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Duxton",
+      "rating": 9.5,
+      "status": "visited",
+      "michelin_type": "star",
+      "michelin_stars": 1,
+      "michelin_verified": true,
+      "google_rating": 4.4,
+      "price_level": 4,
+      "favourite": false
+    },
+    {
+      "name": "Hamamoto",
+      "cuisine": "Japanese",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Tanjong Pagar",
+      "rating": 9.5,
+      "status": "visited",
+      "michelin_type": "star",
+      "michelin_stars": 1,
+      "michelin_verified": true,
+      "google_rating": 4.9,
+      "price_level": 4,
+      "favourite": true
+    },
+    {
       "name": "Hao Kee Seafood",
       "cuisine": "Zi Char",
       "country": "Singapore",
@@ -8022,7 +8022,7 @@
       "name": "Coco dining ho chi minh",
       "cuisine": "",
       "country": "Vietnam",
-      "city": "Thành phố Hồ Chí Minh",
+      "city": "Ho Chi Minh City",
       "area": "",
       "rating": null,
       "status": "want-to-try",
@@ -8645,8 +8645,8 @@
       "michelin_stars": 0,
       "michelin_verified": false,
       "google_rating": 4.6,
-      "price_level": null,
-      "favourite": false
+      "price_level": 2,
+      "favourite": true
     },
     {
       "name": "Ichigo Ichie 一期一江",
@@ -8784,6 +8784,21 @@
       "favourite": false
     },
     {
+      "name": "Bar Cham",
+      "cuisine": "Bar / Cocktails",
+      "country": "South Korea",
+      "city": "Seoul",
+      "area": "Jongno",
+      "rating": 9.5,
+      "status": "visited",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.7,
+      "price_level": null,
+      "favourite": true
+    },
+    {
       "name": "Fleurette",
       "cuisine": "Modern European",
       "country": "Singapore",
@@ -8829,21 +8844,6 @@
       "favourite": false
     },
     {
-      "name": "Bar Cham",
-      "cuisine": "Bar / Cocktails",
-      "country": "South Korea",
-      "city": "Seoul",
-      "area": "Jongno",
-      "rating": 9.5,
-      "status": "visited",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 4.7,
-      "price_level": null,
-      "favourite": false
-    },
-    {
       "name": "IL Giardino",
       "cuisine": "Italian",
       "country": "Singapore",
@@ -8856,6 +8856,21 @@
       "michelin_verified": false,
       "google_rating": 4.5,
       "price_level": null,
+      "favourite": false
+    },
+    {
+      "name": "La Pasta",
+      "cuisine": "Italian",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Orchard",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.9,
+      "price_level": 2,
       "favourite": false
     },
     {
@@ -8885,21 +8900,6 @@
       "michelin_stars": 0,
       "michelin_verified": false,
       "google_rating": 4.6,
-      "price_level": null,
-      "favourite": false
-    },
-    {
-      "name": "La Pasta",
-      "cuisine": "Italian",
-      "country": "Singapore",
-      "city": "Singapore",
-      "area": "Orchard",
-      "rating": null,
-      "status": "want-to-try",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 4.9,
       "price_level": null,
       "favourite": false
     },
