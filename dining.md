@@ -1,13 +1,14 @@
-# Jin's Dining List — snapshot 2026-10-11
+# Jin's Dining List — snapshot 2026-10-13
 
-_Auto-exported from Supabase, refreshed nightly. 460 visited · 186 to try · 8.1 avg · 733 total._
+_Auto-exported from Supabase, refreshed nightly. 461 visited · 185 to try · 8.1 avg · 733 total._
 
 Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · ♥ = would return / favourite · [closed] = permanently closed.
 
-## Favourites (44)
+## Favourites (45)
 
 ### Singapore
 
+- **Odette** ♥ — Fine Dining — 9.8
 - **Seroja** ★ ♥ — Mod Singaporean/Malayan — 9.8
 - **Estiatorio Milos** ♥ — Greek — 9.5
 - **Hachi** ♥ — Japanese Omakase — 9.5
@@ -67,6 +68,11 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - *Pizza Fabbrica [closed] — Pizza — 8*
 - **Sushi Zushi** — Sushi — 7.5
 - *Tono Cevicheria [closed] — Peruvian — 7.5*
+
+### Downtown Core
+
+- **Odette** ♥ — Fine Dining — 9.8
+- **Pera turkish** — Turkish — 8.2
 
 ### Keong Saik
 
@@ -511,10 +517,6 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Rubicon** — Japanese Steakhouse — 8.5
 - *Pacamara Boutique Cafe [closed] — Brunch*
 
-### Downtown Core
-
-- **Pera turkish** — Turkish — 8.2
-
 ### Novena
 
 - **Chui huay lim** — Chinese — 8.2
@@ -880,7 +882,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 
 - **Restaurante Palomeque** — Tapas — 8.5
 
-## Want to try (186)
+## Want to try (185)
 
 ### Singapore
 
@@ -997,7 +999,6 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Sushi Hare** — Japanese Omakase
 - **Sushidan** — Sushi
 - **Suzuki** — Japanese Kaiseki
-- **Tajin** — Middle Eastern
 - **Takahashi** — Japanese Omakase
 - **Tamba** — West African
 - **Tembusu Dining House** — Mod Singaporean
@@ -1082,6 +1083,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 | 9.8 | Baan Tepa Culinary Space ★★ ♥ | Thai | Bangkok |
 | 9.8 | Crony ★★ ♥ | French | Tokyo |
 | 9.8 | Nawa Thai Cuisine ★ ♥ | Thai | Bangkok |
+| 9.8 | Odette ♥ | Fine Dining | Downtown Core |
 | 9.8 | Poise | European/Nordic | Keong Saik |
 | 9.8 | Seroja ★ ♥ | Mod Singaporean/Malayan | Bugis |
 | 9.7 | Pangium ★ | Peranakan | Botanic Gardens |

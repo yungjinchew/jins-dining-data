@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-11T21:40:46.016Z",
+  "generated_at": "2026-10-13T00:23:02.133Z",
   "source": "Supabase (restaurants)",
   "summary": {
-    "visited": 460,
-    "want_to_try": 186,
+    "visited": 461,
+    "want_to_try": 185,
     "avg_rating": 8.1,
     "total": 733
   },
@@ -457,6 +457,21 @@
       "google_rating": 4.6,
       "price_level": null,
       "favourite": false
+    },
+    {
+      "name": "Odette",
+      "cuisine": "Fine Dining",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Downtown Core",
+      "rating": 9.8,
+      "status": "visited",
+      "michelin_type": "star",
+      "michelin_stars": 3,
+      "michelin_verified": false,
+      "google_rating": 4.7,
+      "price_level": 4,
+      "favourite": true
     },
     {
       "name": "Pamplemousse",
@@ -1026,21 +1041,6 @@
       "michelin_verified": true,
       "google_rating": 4.8,
       "price_level": 4,
-      "favourite": false
-    },
-    {
-      "name": "Tajin",
-      "cuisine": "Middle Eastern",
-      "country": "Singapore",
-      "city": "Singapore",
-      "area": "Duxton",
-      "rating": null,
-      "status": "want-to-try",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 4.7,
-      "price_level": null,
       "favourite": false
     },
     {
@@ -5349,21 +5349,6 @@
       "favourite": false
     },
     {
-      "name": "Waroeng Anak Indo",
-      "cuisine": "Indonesian",
-      "country": "Singapore",
-      "city": "Singapore",
-      "area": "CBD",
-      "rating": null,
-      "status": "want-to-try",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 4.7,
-      "price_level": null,
-      "favourite": false
-    },
-    {
       "name": "Jiromaru Akihabara",
       "cuisine": "Yakiniku",
       "country": "Japan",
@@ -5420,6 +5405,21 @@
       "michelin_stars": 0,
       "michelin_verified": false,
       "google_rating": 4.8,
+      "price_level": 2,
+      "favourite": false
+    },
+    {
+      "name": "Waroeng Anak Indo",
+      "cuisine": "Indonesian",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "CBD",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.6,
       "price_level": 2,
       "favourite": false
     },
@@ -6320,7 +6320,7 @@
       "michelin_stars": 0,
       "michelin_verified": false,
       "google_rating": 4.6,
-      "price_level": null,
+      "price_level": 3,
       "favourite": false
     },
     {
@@ -6879,21 +6879,6 @@
       "favourite": false
     },
     {
-      "name": "Scarpetta",
-      "cuisine": "Pasta Bar",
-      "country": "Singapore",
-      "city": "Singapore",
-      "area": "Amoy",
-      "rating": null,
-      "status": "want-to-try",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 4.4,
-      "price_level": null,
-      "favourite": false
-    },
-    {
       "name": "Sabor",
       "cuisine": "Spanish",
       "country": "Singapore",
@@ -6905,6 +6890,21 @@
       "michelin_stars": 0,
       "michelin_verified": false,
       "google_rating": 4.6,
+      "price_level": null,
+      "favourite": false
+    },
+    {
+      "name": "Scarpetta",
+      "cuisine": "Pasta Bar",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Amoy",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.4,
       "price_level": null,
       "favourite": false
     },
