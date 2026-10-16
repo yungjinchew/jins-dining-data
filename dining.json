@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-15T21:07:37.819Z",
+  "generated_at": "2026-10-16T20:44:20.215Z",
   "source": "Supabase (restaurants)",
   "summary": {
-    "visited": 461,
-    "want_to_try": 185,
+    "visited": 462,
+    "want_to_try": 184,
     "avg_rating": 8.1,
     "total": 733
   },
@@ -8039,8 +8039,8 @@
       "country": "Singapore",
       "city": "Singapore",
       "area": "Downtown Core",
-      "rating": null,
-      "status": "want-to-try",
+      "rating": 7.5,
+      "status": "visited",
       "michelin_type": null,
       "michelin_stars": 0,
       "michelin_verified": false,

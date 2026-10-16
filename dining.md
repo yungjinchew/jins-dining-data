@@ -1,6 +1,6 @@
-# Jin's Dining List — snapshot 2026-10-15
+# Jin's Dining List — snapshot 2026-10-16
 
-_Auto-exported from Supabase, refreshed nightly. 461 visited · 185 to try · 8.1 avg · 733 total._
+_Auto-exported from Supabase, refreshed nightly. 462 visited · 184 to try · 8.1 avg · 733 total._
 
 Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · ♥ = would return / favourite · [closed] = permanently closed.
 
@@ -73,6 +73,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 
 - **Odette** ♥ — Fine Dining — 9.8
 - **Pera turkish** — Turkish — 8.2
+- **Medusa** — Italian — 7.5
 
 ### Keong Saik
 
@@ -882,7 +883,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 
 - **Restaurante Palomeque** — Tapas — 8.5
 
-## Want to try (185)
+## Want to try (184)
 
 ### Singapore
 
@@ -959,7 +960,6 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Mag's Wine Bar** — Wine Bar
 - **Mare Hachikyo** — Japanese Hokkaido
 - **Meadesmoore** — Steakhouse
-- **Medusa** — Italian
 - **Mimoto** — Izakaya
 - **Nami** — Korean Barbecue
 - **Noa Lounge** — Mediterranean
