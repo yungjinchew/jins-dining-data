@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T20:44:20.215Z",
+  "generated_at": "2026-10-17T20:21:03.546Z",
   "source": "Supabase (restaurants)",
   "summary": {
     "visited": 462,
@@ -8004,6 +8004,21 @@
       "favourite": true
     },
     {
+      "name": "Medusa",
+      "cuisine": "Italian",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Downtown Core",
+      "rating": 7.5,
+      "status": "visited",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.7,
+      "price_level": 4,
+      "favourite": false
+    },
+    {
       "name": "Hao Kee Seafood",
       "cuisine": "Zi Char",
       "country": "Singapore",
@@ -8030,21 +8045,6 @@
       "michelin_stars": 0,
       "michelin_verified": false,
       "google_rating": 4.6,
-      "price_level": 4,
-      "favourite": false
-    },
-    {
-      "name": "Medusa",
-      "cuisine": "Italian",
-      "country": "Singapore",
-      "city": "Singapore",
-      "area": "Downtown Core",
-      "rating": 7.5,
-      "status": "visited",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 4.7,
       "price_level": 4,
       "favourite": false
     },
