@@ -1,10 +1,10 @@
-# Jin's Dining List — snapshot 2026-10-17
+# Jin's Dining List — snapshot 2026-10-18
 
-_Auto-exported from Supabase, refreshed nightly. 462 visited · 184 to try · 8.1 avg · 733 total._
+_Auto-exported from Supabase, refreshed nightly. 463 visited · 184 to try · 8.1 avg · 734 total._
 
 Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · ♥ = would return / favourite · [closed] = permanently closed.
 
-## Favourites (45)
+## Favourites (46)
 
 ### Singapore
 
@@ -23,6 +23,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Le Pristine** ♥ — Italian — 9
 - **Omu Nomu** ♥ — Japanese Sake Bar — 9
 - **Osteria Mozza (Hilton)** ♥ — Italian — 9
+- **Henri** ♥ — French — 8.5
 - **Le Clos** ♥ — French Wine Bar — 8.5
 - **Mott 32** ♥ — Chinese — 8.5
 - **MyX** ♥ — Latin — 8.5
@@ -495,6 +496,11 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Le Clos** ♥ — French Wine Bar — 8.5
 - **Somma** — Italian Fine Dining — 7.5
 
+### Outram
+
+- **Henri** ♥ — French — 8.5
+- **Nesuto** — Café — 8
+
 ### Sentosa
 
 - **Fiamma** — Italian — 8.5
@@ -590,10 +596,6 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 ### Mohammed Sultan
 
 - **Bad Habits** — Pizza — 8
-
-### Outram
-
-- **Nesuto** — Café — 8
 
 ### Redhill
 
