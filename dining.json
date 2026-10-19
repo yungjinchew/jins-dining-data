@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T20:21:09.016Z",
+  "generated_at": "2026-10-19T22:09:11.671Z",
   "source": "Supabase (restaurants)",
   "summary": {
     "visited": 463,
@@ -1209,6 +1209,21 @@
       "favourite": false
     },
     {
+      "name": "Kott-Don 360 (VivoCity)",
+      "cuisine": "Korean BBQ",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "HarbourFront",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.7,
+      "price_level": null,
+      "favourite": false
+    },
+    {
       "name": "Meng Kee Char Kway Teow",
       "cuisine": "Char Kway Teow",
       "country": "Singapore",
@@ -1280,6 +1295,21 @@
       "michelin_stars": 0,
       "michelin_verified": false,
       "google_rating": 4.5,
+      "price_level": null,
+      "favourite": false
+    },
+    {
+      "name": "Bari Bari Grand",
+      "cuisine": "Teppanyaki",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "City Hall",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.8,
       "price_level": null,
       "favourite": false
     },
@@ -1356,6 +1386,21 @@
       "michelin_verified": false,
       "google_rating": 4.1,
       "price_level": 2,
+      "favourite": false
+    },
+    {
+      "name": "Hua Mui",
+      "cuisine": "Hainanese Kopitiam",
+      "country": "Malaysia",
+      "city": "Johor Bahru",
+      "area": "Eco Botanic",
+      "rating": 7,
+      "status": "visited",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": null,
+      "price_level": null,
       "favourite": false
     },
     {
@@ -1734,6 +1779,21 @@
       "favourite": false
     },
     {
+      "name": "Tembusu Dining House",
+      "cuisine": "Mod Singaporean",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Botanic Gardens",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.5,
+      "price_level": null,
+      "favourite": false
+    },
+    {
       "name": "The Golden Tooth",
       "cuisine": "Bar / Cocktails",
       "country": "Indonesia",
@@ -1760,21 +1820,6 @@
       "michelin_stars": 0,
       "michelin_verified": false,
       "google_rating": 5,
-      "price_level": null,
-      "favourite": false
-    },
-    {
-      "name": "Tembusu Dining House",
-      "cuisine": "Mod Singaporean",
-      "country": "Singapore",
-      "city": "Singapore",
-      "area": "Botanic Gardens",
-      "rating": null,
-      "status": "want-to-try",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 4.5,
       "price_level": null,
       "favourite": false
     },
@@ -2715,21 +2760,6 @@
       "city": "Johor Bahru",
       "area": "Bukit Indah",
       "rating": 7.5,
-      "status": "visited",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": null,
-      "price_level": null,
-      "favourite": false
-    },
-    {
-      "name": "Hua Mui",
-      "cuisine": "Hainanese Kopitiam",
-      "country": "Malaysia",
-      "city": "Johor Bahru",
-      "area": "Eco Botanic",
-      "rating": 7,
       "status": "visited",
       "michelin_type": null,
       "michelin_stars": 0,
@@ -6684,6 +6714,21 @@
       "favourite": false
     },
     {
+      "name": "Liora Contemporary Dining",
+      "cuisine": "Modern Korean",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Clarke Quay",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.8,
+      "price_level": null,
+      "favourite": false
+    },
+    {
       "name": "Miznon",
       "cuisine": "Israeli",
       "country": "Singapore",
@@ -6726,51 +6771,6 @@
       "michelin_verified": false,
       "google_rating": 4.8,
       "price_level": 3,
-      "favourite": false
-    },
-    {
-      "name": "Bari Bari Grand",
-      "cuisine": "Teppanyaki",
-      "country": "Singapore",
-      "city": "Singapore",
-      "area": "City Hall",
-      "rating": null,
-      "status": "want-to-try",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 4.8,
-      "price_level": null,
-      "favourite": false
-    },
-    {
-      "name": "Kott-Don 360 (VivoCity)",
-      "cuisine": "Korean BBQ",
-      "country": "Singapore",
-      "city": "Singapore",
-      "area": "HarbourFront",
-      "rating": null,
-      "status": "want-to-try",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 4.7,
-      "price_level": null,
-      "favourite": false
-    },
-    {
-      "name": "Liora Contemporary Dining",
-      "cuisine": "Modern Korean",
-      "country": "Singapore",
-      "city": "Singapore",
-      "area": "Clarke Quay",
-      "rating": null,
-      "status": "want-to-try",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 4.8,
-      "price_level": null,
       "favourite": false
     },
     {
