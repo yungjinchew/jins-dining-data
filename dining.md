@@ -1,6 +1,6 @@
-# Jin's Dining List — snapshot 2026-10-20
+# Jin's Dining List — snapshot 2026-10-21
 
-_Auto-exported from Supabase, refreshed nightly. 463 visited · 184 to try · 8.1 avg · 734 total._
+_Auto-exported from Supabase, refreshed nightly. 463 visited · 187 to try · 8.1 avg · 737 total._
 
 Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · ♥ = would return / favourite · [closed] = permanently closed.
 
@@ -885,7 +885,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 
 - **Restaurante Palomeque** — Tapas — 8.5
 
-## Want to try (184)
+## Want to try (187)
 
 ### Singapore
 
@@ -919,6 +919,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Cudo** — Latin American
 - **Dusk Restaurant** — European
 - **Fleurette** — Modern European
+- **Fumee** — 
 - **Fura** — Bar / Cocktails
 - **Gai Inn Izakaya** — Japanese
 - **Gamja** — Korean
@@ -1037,6 +1038,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Cosmo Pony** — Bar / Cocktails
 - **Cotogna** — Italian
 - **Dry Wave Cocktail Studio** — Bar / Cocktails
+- **Fumee** — 
 - **G.O.D** — Bar / Cocktails
 - **Gokan** — Bar / Cocktails
 - **Gong Gan** — Bar / Cocktails
@@ -1076,6 +1078,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Virtù** — Bar / Cocktails
 - **Yakoboku** — Bar / Cocktails
 - **Zest** — Bar / Cocktails
+- **拂鸣** — 
 
 ## Top rated (9.0+)
 

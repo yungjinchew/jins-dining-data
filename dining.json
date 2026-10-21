@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-20T21:24:50.774Z",
+  "generated_at": "2026-10-21T21:25:59.130Z",
   "source": "Supabase (restaurants)",
   "summary": {
     "visited": 463,
-    "want_to_try": 184,
+    "want_to_try": 187,
     "avg_rating": 8.1,
-    "total": 734
+    "total": 737
   },
   "restaurants": [
     {
@@ -1449,6 +1449,21 @@
       "favourite": false
     },
     {
+      "name": "Fumee",
+      "cuisine": "",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": null,
+      "price_level": null,
+      "favourite": false
+    },
+    {
       "name": "Gu:Um",
       "cuisine": "Korean Steakhouse",
       "country": "Singapore",
@@ -1610,6 +1625,21 @@
       "michelin_stars": 0,
       "michelin_verified": false,
       "google_rating": 4.7,
+      "price_level": null,
+      "favourite": false
+    },
+    {
+      "name": "Fumee",
+      "cuisine": "",
+      "country": "China",
+      "city": "Shenzhen",
+      "area": "",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": null,
       "price_level": null,
       "favourite": false
     },
@@ -1805,6 +1835,21 @@
       "michelin_stars": 0,
       "michelin_verified": false,
       "google_rating": 4.9,
+      "price_level": null,
+      "favourite": false
+    },
+    {
+      "name": "拂鸣",
+      "cuisine": "",
+      "country": "China",
+      "city": "Shenzhen",
+      "area": "",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": null,
       "price_level": null,
       "favourite": false
     },
