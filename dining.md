@@ -1,10 +1,10 @@
-# Jin's Dining List — snapshot 2026-10-22
+# Jin's Dining List — snapshot 2026-10-23
 
 _Auto-exported from Supabase, refreshed nightly. 463 visited · 187 to try · 8.1 avg · 737 total._
 
 Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · ♥ = would return / favourite · [closed] = permanently closed.
 
-## Favourites (46)
+## Favourites (47)
 
 ### Singapore
 
@@ -23,6 +23,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Le Pristine** ♥ — Italian — 9
 - **Omu Nomu** ♥ — Japanese Sake Bar — 9
 - **Osteria Mozza (Hilton)** ♥ — Italian — 9
+- **Bario** ♥ — Spanish — 8.5
 - **Henri** ♥ — French — 8.5
 - **Le Clos** ♥ — French Wine Bar — 8.5
 - **Mott 32** ♥ — Chinese — 8.5
@@ -453,7 +454,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 
 ### Bukit Timah
 
-- **Bario** — Spanish — 8.5
+- **Bario** ♥ — Spanish — 8.5
 - **Lino** — Pizza — 8.5
 - **Sweet cheeks** — Dessert — 8.5
 - **Fu Yuan Teochew Dining Greenwood** — Chinese — 8.2

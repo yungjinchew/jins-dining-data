@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T21:21:10.275Z",
+  "generated_at": "2026-10-23T21:11:51.198Z",
   "source": "Supabase (restaurants)",
   "summary": {
     "visited": 463,
@@ -1972,6 +1972,21 @@
       "google_rating": 4.8,
       "price_level": null,
       "favourite": false
+    },
+    {
+      "name": "Bario",
+      "cuisine": "Spanish",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Bukit Timah",
+      "rating": 8.5,
+      "status": "visited",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.6,
+      "price_level": 3,
+      "favourite": true
     },
     {
       "name": "Le Pristine",
@@ -5016,21 +5031,6 @@
       "michelin_verified": false,
       "google_rating": 4.7,
       "price_level": null,
-      "favourite": false
-    },
-    {
-      "name": "Bario",
-      "cuisine": "Spanish",
-      "country": "Singapore",
-      "city": "Singapore",
-      "area": "Bukit Timah",
-      "rating": 8.5,
-      "status": "visited",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 4.6,
-      "price_level": 3,
       "favourite": false
     },
     {
