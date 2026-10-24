@@ -1,6 +1,6 @@
-# Jin's Dining List — snapshot 2026-10-23
+# Jin's Dining List — snapshot 2026-10-24
 
-_Auto-exported from Supabase, refreshed nightly. 463 visited · 187 to try · 8.1 avg · 737 total._
+_Auto-exported from Supabase, refreshed nightly. 464 visited · 186 to try · 8.1 avg · 737 total._
 
 Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · ♥ = would return / favourite · [closed] = permanently closed.
 
@@ -23,7 +23,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Le Pristine** ♥ — Italian — 9
 - **Omu Nomu** ♥ — Japanese Sake Bar — 9
 - **Osteria Mozza (Hilton)** ♥ — Italian — 9
-- **Bario** ♥ — Spanish — 8.5
+- **Barrio** ♥ — Spanish — 8.5
 - **Henri** ♥ — French — 8.5
 - **Le Clos** ♥ — French Wine Bar — 8.5
 - **Mott 32** ♥ — Chinese — 8.5
@@ -454,7 +454,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 
 ### Bukit Timah
 
-- **Bario** ♥ — Spanish — 8.5
+- **Barrio** ♥ — Spanish — 8.5
 - **Lino** — Pizza — 8.5
 - **Sweet cheeks** — Dessert — 8.5
 - **Fu Yuan Teochew Dining Greenwood** — Chinese — 8.2
@@ -724,6 +724,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Rokkasen** — Yakiniku — 8
 - **Yakitori Yaoya HANARE** — Yakitori — 8
 - **海鮮居酒屋 TOTOROU浪漫** — Japanese Izakaya — 8
+- **Sushidokoro Yamazaki** — Sushi — 7.5
 
 ### Bali
 
@@ -886,7 +887,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 
 - **Restaurante Palomeque** — Tapas — 8.5
 
-## Want to try (187)
+## Want to try (186)
 
 ### Singapore
 
@@ -920,7 +921,6 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Cudo** — Latin American
 - **Dusk Restaurant** — European
 - **Fleurette** — Modern European
-- **Fumee** — 
 - **Fura** — Bar / Cocktails
 - **Gai Inn Izakaya** — Japanese
 - **Gamja** — Korean
@@ -965,6 +965,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Mare Hachikyo** — Japanese Hokkaido
 - **Meadesmoore** — Steakhouse
 - **Mimoto** — Izakaya
+- **Miyu** — Japanese Omakase
 - **Nami** — Korean Barbecue
 - **Noa Lounge** — Mediterranean
 - **Noor** — Mediterranean
@@ -1039,7 +1040,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Cosmo Pony** — Bar / Cocktails
 - **Cotogna** — Italian
 - **Dry Wave Cocktail Studio** — Bar / Cocktails
-- **Fumee** — 
+- **Fumée (拂鸣)** — 
 - **G.O.D** — Bar / Cocktails
 - **Gokan** — Bar / Cocktails
 - **Gong Gan** — Bar / Cocktails
@@ -1079,7 +1080,6 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Virtù** — Bar / Cocktails
 - **Yakoboku** — Bar / Cocktails
 - **Zest** — Bar / Cocktails
-- **拂鸣** — 
 
 ## Top rated (9.0+)
 

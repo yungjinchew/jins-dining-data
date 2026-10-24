@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-23T21:11:51.198Z",
+  "generated_at": "2026-10-24T20:29:02.039Z",
   "source": "Supabase (restaurants)",
   "summary": {
-    "visited": 463,
-    "want_to_try": 187,
+    "visited": 464,
+    "want_to_try": 186,
     "avg_rating": 8.1,
     "total": 737
   },
@@ -1449,21 +1449,6 @@
       "favourite": false
     },
     {
-      "name": "Fumee",
-      "cuisine": "",
-      "country": "Singapore",
-      "city": "Singapore",
-      "area": "",
-      "rating": null,
-      "status": "want-to-try",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": null,
-      "price_level": null,
-      "favourite": false
-    },
-    {
       "name": "Gu:Um",
       "cuisine": "Korean Steakhouse",
       "country": "Singapore",
@@ -1629,7 +1614,7 @@
       "favourite": false
     },
     {
-      "name": "Fumee",
+      "name": "Fumée (拂鸣)",
       "cuisine": "",
       "country": "China",
       "city": "Shenzhen",
@@ -1764,21 +1749,6 @@
       "favourite": false
     },
     {
-      "name": "AO Restaurant",
-      "cuisine": "Modern Japanese",
-      "country": "Singapore",
-      "city": "Singapore",
-      "area": "Orchard",
-      "rating": null,
-      "status": "want-to-try",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 4.8,
-      "price_level": 2,
-      "favourite": false
-    },
-    {
       "name": "The Tavernist (Kimpton Da An)",
       "cuisine": "Bar",
       "country": "Taiwan",
@@ -1839,18 +1809,18 @@
       "favourite": false
     },
     {
-      "name": "拂鸣",
-      "cuisine": "",
-      "country": "China",
-      "city": "Shenzhen",
-      "area": "",
+      "name": "AO Restaurant",
+      "cuisine": "Modern Japanese",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Orchard",
       "rating": null,
       "status": "want-to-try",
       "michelin_type": null,
       "michelin_stars": 0,
       "michelin_verified": false,
-      "google_rating": null,
-      "price_level": null,
+      "google_rating": 4.8,
+      "price_level": 2,
       "favourite": false
     },
     {
@@ -1972,21 +1942,6 @@
       "google_rating": 4.8,
       "price_level": null,
       "favourite": false
-    },
-    {
-      "name": "Bario",
-      "cuisine": "Spanish",
-      "country": "Singapore",
-      "city": "Singapore",
-      "area": "Bukit Timah",
-      "rating": 8.5,
-      "status": "visited",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 4.6,
-      "price_level": 3,
-      "favourite": true
     },
     {
       "name": "Le Pristine",
@@ -2184,6 +2139,21 @@
       "favourite": false
     },
     {
+      "name": "Barrio",
+      "cuisine": "Spanish",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Bukit Timah",
+      "rating": 8.5,
+      "status": "visited",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.6,
+      "price_level": 3,
+      "favourite": true
+    },
+    {
       "name": "Côte",
       "cuisine": "Korean Steakhouse",
       "country": "Singapore",
@@ -2304,6 +2274,21 @@
       "favourite": false
     },
     {
+      "name": "Sushidokoro Yamazaki",
+      "cuisine": "Sushi",
+      "country": "Japan",
+      "city": "Tokyo",
+      "area": "Toyosu",
+      "rating": 7.5,
+      "status": "visited",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": null,
+      "price_level": null,
+      "favourite": false
+    },
+    {
       "name": "5PM Lalapot",
       "cuisine": "Chinese Hotpot",
       "country": "Malaysia",
@@ -2376,6 +2361,21 @@
       "michelin_verified": false,
       "google_rating": 4.6,
       "price_level": null,
+      "favourite": false
+    },
+    {
+      "name": "Miyu",
+      "cuisine": "Japanese Omakase",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Dempsey",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.7,
+      "price_level": 4,
       "favourite": false
     },
     {
