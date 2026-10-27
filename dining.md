@@ -1,6 +1,6 @@
-# Jin's Dining List — snapshot 2026-10-26
+# Jin's Dining List — snapshot 2026-10-27
 
-_Auto-exported from Supabase, refreshed nightly. 464 visited · 186 to try · 8.1 avg · 737 total._
+_Auto-exported from Supabase, refreshed nightly. 464 visited · 187 to try · 8.1 avg · 738 total._
 
 Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · ♥ = would return / favourite · [closed] = permanently closed.
 
@@ -887,7 +887,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 
 - **Restaurante Palomeque** — Tapas — 8.5
 
-## Want to try (186)
+## Want to try (187)
 
 ### Singapore
 
@@ -976,6 +976,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Origin Bar** — Bar / Cocktails
 - **Pasta J** — Pasta/Steak
 - **Permata Singapore** — Malay
+- **Petra** — 
 - **Province** — Singaporean
 - **Pulsii French Bistro** — French
 - **Quenino** — Contemporary Asian

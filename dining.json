@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-26T22:27:46.136Z",
+  "generated_at": "2026-10-27T21:58:26.321Z",
   "source": "Supabase (restaurants)",
   "summary": {
     "visited": 464,
-    "want_to_try": 186,
+    "want_to_try": 187,
     "avg_rating": 8.1,
-    "total": 737
+    "total": 738
   },
   "restaurants": [
     {
@@ -2586,6 +2586,21 @@
       "michelin_verified": false,
       "google_rating": 4.7,
       "price_level": null,
+      "favourite": false
+    },
+    {
+      "name": "Petra",
+      "cuisine": "",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Tanglin",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.9,
+      "price_level": 4,
       "favourite": false
     },
     {
