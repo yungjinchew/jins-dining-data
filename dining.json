@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-29T22:35:46.204Z",
+  "generated_at": "2026-10-30T22:04:39.180Z",
   "source": "Supabase (restaurants)",
   "summary": {
-    "visited": 464,
-    "want_to_try": 187,
+    "visited": 465,
+    "want_to_try": 186,
     "avg_rating": 8.1,
     "total": 738
   },
@@ -1944,21 +1944,6 @@
       "favourite": false
     },
     {
-      "name": "Le Pristine",
-      "cuisine": "Italian",
-      "country": "Singapore",
-      "city": "Singapore",
-      "area": "Orchard",
-      "rating": 9,
-      "status": "visited",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 4.8,
-      "price_level": null,
-      "favourite": true
-    },
-    {
       "name": "Restaurant Born",
       "cuisine": "French Chinese",
       "country": "Singapore",
@@ -2015,6 +2000,21 @@
       "michelin_stars": 0,
       "michelin_verified": false,
       "google_rating": 4.6,
+      "price_level": 4,
+      "favourite": true
+    },
+    {
+      "name": "Le Pristine",
+      "cuisine": "Italian",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Orchard",
+      "rating": 9,
+      "status": "visited",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.8,
       "price_level": 4,
       "favourite": true
     },
@@ -6684,6 +6684,21 @@
       "favourite": false
     },
     {
+      "name": "Mag's Wine Bar",
+      "cuisine": "Wine Bar",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Neil Road",
+      "rating": 8,
+      "status": "visited",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.6,
+      "price_level": 4,
+      "favourite": false
+    },
+    {
       "name": "Punch Room Tokyo",
       "cuisine": "Bar / Cocktails",
       "country": "Japan",
@@ -6725,21 +6740,6 @@
       "michelin_stars": 0,
       "michelin_verified": false,
       "google_rating": 4.9,
-      "price_level": null,
-      "favourite": false
-    },
-    {
-      "name": "Mag's Wine Bar",
-      "cuisine": "Wine Bar",
-      "country": "Singapore",
-      "city": "Singapore",
-      "area": "Neil Road",
-      "rating": null,
-      "status": "want-to-try",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 4.5,
       "price_level": null,
       "favourite": false
     },

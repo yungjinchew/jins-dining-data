@@ -1,6 +1,6 @@
-# Jin's Dining List — snapshot 2026-10-29
+# Jin's Dining List — snapshot 2026-10-30
 
-_Auto-exported from Supabase, refreshed nightly. 464 visited · 187 to try · 8.1 avg · 738 total._
+_Auto-exported from Supabase, refreshed nightly. 465 visited · 186 to try · 8.1 avg · 738 total._
 
 Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · ♥ = would return / favourite · [closed] = permanently closed.
 
@@ -598,6 +598,10 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 
 - **Bad Habits** — Pizza — 8
 
+### Neil Road
+
+- **Mag's Wine Bar** — Wine Bar — 8
+
 ### Redhill
 
 - **Fu Ming Carrot Cake** — Carrot Cake — 8
@@ -887,7 +891,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 
 - **Restaurante Palomeque** — Tapas — 8.5
 
-## Want to try (187)
+## Want to try (186)
 
 ### Singapore
 
@@ -961,7 +965,6 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Loca niru** — Japanese
 - **Loulou** — French/Wine Bar
 - **Loulouca** — Dessert
-- **Mag's Wine Bar** — Wine Bar
 - **Mare Hachikyo** — Japanese Hokkaido
 - **Meadesmoore** — Steakhouse
 - **Mimoto** — Izakaya
