@@ -1,6 +1,6 @@
-# Jin's Dining List — snapshot 2026-10-31
+# Jin's Dining List — snapshot 2026-11-01
 
-_Auto-exported from Supabase, refreshed nightly. 465 visited · 186 to try · 8.1 avg · 738 total._
+_Auto-exported from Supabase, refreshed nightly. 465 visited · 189 to try · 8.1 avg · 741 total._
 
 Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · ♥ = would return / favourite · [closed] = permanently closed.
 
@@ -891,7 +891,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 
 - **Restaurante Palomeque** — Tapas — 8.5
 
-## Want to try (186)
+## Want to try (189)
 
 ### Singapore
 
@@ -965,6 +965,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Loca niru** — Japanese
 - **Loulou** — French/Wine Bar
 - **Loulouca** — Dessert
+- **Ma Der Kin Khao** — Thai/Lao (Isan)
 - **Mare Hachikyo** — Japanese Hokkaido
 - **Meadesmoore** — Steakhouse
 - **Mimoto** — Izakaya
@@ -996,6 +997,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Satori** — Japanese Yakitori
 - **Scarpetta** — Pasta Bar
 - **Shabestan** — Persian/Iranian
+- **Shirazi** — Persian
 - **Shisen Hanten** — Fusion
 - **Shoukouwa** ★★ — Japanese Omakase
 - **Side door** — Café
@@ -1013,6 +1015,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Tembusu Dining House** — Mod Singaporean
 - **The Champagnery** — Champagne Bar
 - **The Elephant Room** — Bar / Cocktails
+- **THEHANOK** — Korean BBQ
 - **Towa** — Izakaya/Teppanyaki
 - **Trattoria Lafiandra** — Italian
 - **Um Yong Baek** — Korean BBQ

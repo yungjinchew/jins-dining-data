@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-31T21:14:04.706Z",
+  "generated_at": "2026-11-01T21:51:30.742Z",
   "source": "Supabase (restaurants)",
   "summary": {
     "visited": 465,
-    "want_to_try": 186,
+    "want_to_try": 189,
     "avg_rating": 8.1,
-    "total": 738
+    "total": 741
   },
   "restaurants": [
     {
@@ -2664,6 +2664,21 @@
       "favourite": false
     },
     {
+      "name": "THEHANOK",
+      "cuisine": "Korean BBQ",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Lentor",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.9,
+      "price_level": null,
+      "favourite": false
+    },
+    {
       "name": "炭火焼肉 一獲",
       "cuisine": "Yakiniku",
       "country": "Japan",
@@ -2720,6 +2735,36 @@
       "michelin_stars": 0,
       "michelin_verified": false,
       "google_rating": 4.7,
+      "price_level": null,
+      "favourite": false
+    },
+    {
+      "name": "Ma Der Kin Khao",
+      "cuisine": "Thai/Lao (Isan)",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Beach Road",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.9,
+      "price_level": null,
+      "favourite": false
+    },
+    {
+      "name": "Shirazi",
+      "cuisine": "Persian",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Tanglin",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.9,
       "price_level": null,
       "favourite": false
     },
