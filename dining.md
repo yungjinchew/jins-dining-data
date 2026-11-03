@@ -1,6 +1,6 @@
-# Jin's Dining List — snapshot 2026-11-01
+# Jin's Dining List — snapshot 2026-11-03
 
-_Auto-exported from Supabase, refreshed nightly. 465 visited · 189 to try · 8.1 avg · 741 total._
+_Auto-exported from Supabase, refreshed nightly. 462 visited · 189 to try · 8.1 avg · 741 total._
 
 Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · ♥ = would return / favourite · [closed] = permanently closed.
 
@@ -223,7 +223,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - *Cafe Natsu [closed] — Cafe — 7*
 - **Dario Pizza & More** — Pizza — 7
 - **Esquina** — Tapas — 7
-- **Kith Café** — Cafe/Brunch — 7
+- *Kith Café [closed] — Cafe/Brunch — 7*
 - **Ma Maison Tonkatsu** — Japanese Tonkatsu — 7
 - **Margarita** — Mexican — 7
 - **New Ubin Seafood** — Zi Char — 7
@@ -240,7 +240,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **CM-PB** — Western/Brunch — 6.5
 - **DOP Mozzarella Bar** — Italian — 6.5
 - **Etna** — Sicilian Italian — 6.5
-- **Everything with the Fries** — Casual Western — 6.5
+- *Everything with the Fries [closed] — Casual Western — 6.5*
 - *Mex Out [closed] — Mexican — 6.5*
 - **Morsels** — Tapas — 6.5
 - **Oriole Cafe & Bar** — Coffee/Cafe — 6.5
@@ -282,7 +282,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Kuro Maguro** — Japanese — 7.5
 - **Meng Kee Char Kway Teow** — Char Kway Teow — 7.5
 - **Pura Brasa** — Spanish — 7.5
-- **Seoul Noodle Shop** — Korean Noodle — 7.5
+- *Seoul Noodle Shop [closed] — Korean Noodle — 7.5*
 
 ### Duxton
 
