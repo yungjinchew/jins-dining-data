@@ -1,6 +1,6 @@
-# Jin's Dining List — snapshot 2026-11-05
+# Jin's Dining List — snapshot 2026-11-06
 
-_Auto-exported from Supabase, refreshed nightly. 462 visited · 189 to try · 8.1 avg · 741 total._
+_Auto-exported from Supabase, refreshed nightly. 463 visited · 189 to try · 8.1 avg · 742 total._
 
 Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · ♥ = would return / favourite · [closed] = permanently closed.
 
@@ -152,6 +152,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Ma Cuisine** ★ ♥ — French Wine Bar — 9.5
 - *Rosemead [closed] — Californian — 9.2*
 - **Shinji by Kanesaka** — Japanese Omakase — 9.2
+- **Belimbing** — Singaporean — 9
 - **Black Pearl** ♥ — Chinese Yue — 9
 - **Côte** ♥ — Korean Steakhouse — 9
 - **Fish and Bones** — Korean Seafood — 9
@@ -908,7 +909,6 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Bar Bon Funk** — Bar / Cocktails
 - **Bar kap** — Bar
 - **Bari Bari Grand** — Teppanyaki
-- **Belimbing** — Singaporean
 - **Bonding Kitchen** — Peranakan
 - **BOP** — Bar / Cocktails
 - **Buona Terra** ★ — Italian
@@ -1054,6 +1054,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Hashikatsu Tonkatsu Ginza** — Tonkatsu
 - **Hock kee** — Café
 - **House of Prime Rib** — British
+- **Ikoyi** — Fine Dining
 - **jamavar leela palace** — Fine Dining
 - **Jambo Hanare** — Yakiniku
 - **Kanda Matsuya** — Soba
@@ -1141,6 +1142,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 | 9 | Attaboy | Bar | New York |
 | 9 | Bar Trench ♥ | Bar / Cocktails | Tokyo |
 | 9 | Bedok Chwee Kueh | Chwee Kueh | Bedok |
+| 9 | Belimbing | Singaporean | CBD |
 | 9 | Beni | French-Japanese | Orchard |
 | 9 | Beta KL | Modern Malaysian | Kuala Lumpur |
 | 9 | Black Pearl ♥ | Chinese Yue | CBD |

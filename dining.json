@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-05T23:28:15.517Z",
+  "generated_at": "2026-11-06T22:53:32.101Z",
   "source": "Supabase (restaurants)",
   "summary": {
-    "visited": 462,
+    "visited": 463,
     "want_to_try": 189,
     "avg_rating": 8.1,
-    "total": 741
+    "total": 742
   },
   "restaurants": [
     {
@@ -2975,21 +2975,6 @@
       "michelin_stars": 0,
       "michelin_verified": false,
       "google_rating": 4.8,
-      "price_level": null,
-      "favourite": false
-    },
-    {
-      "name": "Belimbing",
-      "cuisine": "Singaporean",
-      "country": "Singapore",
-      "city": "Singapore",
-      "area": "CBD",
-      "rating": null,
-      "status": "want-to-try",
-      "michelin_type": "selected",
-      "michelin_stars": 0,
-      "michelin_verified": true,
-      "google_rating": 4.7,
       "price_level": null,
       "favourite": false
     },
@@ -10854,6 +10839,21 @@
       "favourite": false
     },
     {
+      "name": "Ikoyi",
+      "cuisine": "Fine Dining",
+      "country": "United Kingdom",
+      "city": "London",
+      "area": "Temple",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.5,
+      "price_level": 4,
+      "favourite": false
+    },
+    {
       "name": "Black Swan",
       "cuisine": "Grill",
       "country": "Singapore",
@@ -10895,6 +10895,21 @@
       "michelin_stars": 0,
       "michelin_verified": false,
       "google_rating": 4.4,
+      "price_level": 4,
+      "favourite": false
+    },
+    {
+      "name": "Belimbing",
+      "cuisine": "Singaporean",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "CBD",
+      "rating": 9,
+      "status": "visited",
+      "michelin_type": "selected",
+      "michelin_stars": 0,
+      "michelin_verified": true,
+      "google_rating": 4.6,
       "price_level": 4,
       "favourite": false
     },
