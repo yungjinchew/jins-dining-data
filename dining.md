@@ -1,6 +1,6 @@
-# Jin's Dining List — snapshot 2026-11-07
+# Jin's Dining List — snapshot 2026-11-08
 
-_Auto-exported from Supabase, refreshed nightly. 463 visited · 189 to try · 8.1 avg · 742 total._
+_Auto-exported from Supabase, refreshed nightly. 464 visited · 189 to try · 8.1 avg · 743 total._
 
 Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · ♥ = would return / favourite · [closed] = permanently closed.
 
@@ -104,6 +104,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Manhattan** — Bar / Cocktails — 9
 - **Osteria Mozza (Hilton)** ♥ — Italian — 9
 - *Alma by Juan Amador [closed] ★ — Spanish — 8.8*
+- **Chen's kitchen** —  — 8.8
 - **8 Korean BBQ** — Korean BBQ — 8.5
 - **Bhoomi by Milind Sovani** — Indian — 8.5
 - **Kaya at the Standard** — Japanese — 8.5
