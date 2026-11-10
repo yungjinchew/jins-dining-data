@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-08T21:51:25.253Z",
+  "generated_at": "2026-11-10T01:20:12.971Z",
   "source": "Supabase (restaurants)",
   "summary": {
     "visited": 464,
-    "want_to_try": 189,
+    "want_to_try": 192,
     "avg_rating": 8.1,
-    "total": 743
+    "total": 746
   },
   "restaurants": [
     {
@@ -10955,6 +10955,51 @@
       "michelin_stars": 0,
       "michelin_verified": false,
       "google_rating": 4.3,
+      "price_level": 4,
+      "favourite": false
+    },
+    {
+      "name": "Ginza Ukai-tei",
+      "cuisine": "Teppanyaki",
+      "country": "Japan",
+      "city": "Tokyo",
+      "area": "Ginza",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.6,
+      "price_level": 4,
+      "favourite": false
+    },
+    {
+      "name": "YORONIKU TOKYO AZABUDAI HILLS",
+      "cuisine": "Yakiniku",
+      "country": "Japan",
+      "city": "Tokyo",
+      "area": "Azabudai Hills",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": null,
+      "michelin_stars": 0,
+      "michelin_verified": false,
+      "google_rating": 4.6,
+      "price_level": 4,
+      "favourite": false
+    },
+    {
+      "name": "Oniku Karyu",
+      "cuisine": "Wagyu Kaiseki",
+      "country": "Japan",
+      "city": "Tokyo",
+      "area": "Ginza",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": "star",
+      "michelin_stars": 1,
+      "michelin_verified": true,
+      "google_rating": 4.6,
       "price_level": 4,
       "favourite": false
     },

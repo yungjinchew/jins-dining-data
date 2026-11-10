@@ -1,6 +1,6 @@
-# Jin's Dining List — snapshot 2026-11-08
+# Jin's Dining List — snapshot 2026-11-10
 
-_Auto-exported from Supabase, refreshed nightly. 464 visited · 189 to try · 8.1 avg · 743 total._
+_Auto-exported from Supabase, refreshed nightly. 464 visited · 192 to try · 8.1 avg · 746 total._
 
 Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · ♥ = would return / favourite · [closed] = permanently closed.
 
@@ -893,7 +893,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 
 - **Restaurante Palomeque** — Tapas — 8.5
 
-## Want to try (189)
+## Want to try (192)
 
 ### Singapore
 
@@ -1050,6 +1050,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Dry Wave Cocktail Studio** — Bar / Cocktails
 - **Fumée (拂鸣)** — 
 - **G.O.D** — Bar / Cocktails
+- **Ginza Ukai-tei** — Teppanyaki
 - **Gokan** — Bar / Cocktails
 - **Gong Gan** — Bar / Cocktails
 - **Hashikatsu Tonkatsu Ginza** — Tonkatsu
@@ -1070,6 +1071,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Modernhaus** — Bar / Cocktails
 - **Moonrock** — Bar / Cocktails
 - **Navu** — 
+- **Oniku Karyu** ★ — Wagyu Kaiseki
 - **Opium** — Bar / Cocktails
 - **Penrose** — Bar / Cocktails
 - **Punch Room Tokyo** — Bar / Cocktails
@@ -1088,6 +1090,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **unDer lab** — Bar / Cocktails
 - **Virtù** — Bar / Cocktails
 - **Yakoboku** — Bar / Cocktails
+- **YORONIKU TOKYO AZABUDAI HILLS** — Yakiniku
 - **Zest** — Bar / Cocktails
 
 ## Top rated (9.0+)
