@@ -1,6 +1,6 @@
 # Jin's Dining List — snapshot 2026-11-10
 
-_Auto-exported from Supabase, refreshed nightly. 464 visited · 192 to try · 8.1 avg · 746 total._
+_Auto-exported from Supabase, refreshed nightly. 466 visited · 198 to try · 8.1 avg · 754 total._
 
 Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · ♥ = would return / favourite · [closed] = permanently closed.
 
@@ -53,7 +53,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Hakata Robata Fishman** ♥ — Japanese Izakaya — 9
 - **Mr. Ahn's Craft Makgeolli** ♥ — Gastropub — 9
 - **Plu** Bib ♥ — Thai — 9
-- **Sushi Masato** ★ ♥ — Japanese — 9
+- **Sushi Masato** ♥ — Japanese — 9
 - **Tonkatsu KATSU Hana** ★ ♥ — Tonkatsu — 9
 - **Waunn** ♥ — Japanese Kaisedon — 9
 - **Aunglo by Yangrak อั้งโล่ บาย ย่างแรก** Bib ♥ — Thai — 8.8
@@ -699,7 +699,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **North Restaurant** — Thai — 9
 - **Plu** Bib ♥ — Thai — 9
 - **Sri Trat** — Thai — 9
-- **Sushi Masato** ★ ♥ — Japanese — 9
+- **Sushi Masato** ♥ — Japanese — 9
 - **Aunglo by Yangrak อั้งโล่ บาย ย่างแรก** Bib ♥ — Thai — 8.8
 - **Gen Japanese Charcoal Grill** — Japanese — 8.8
 - **Charmgang** Bib — Thai — 8.5
@@ -711,6 +711,8 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Sometimes I Feel** — Cafe — 8.5
 - **Via Emilia Italian Restaurant** — Italian — 8.5
 - **ยุ้งข้าวหอม Yoong Khao Hom I I'm Park** Bib — Thai — 8.5
+- **Potong** ★ — Thai-Chinese — 8
+- **Côte by Mauro Colagreco** ★★ — Mediterranean — 7.5
 
 ### Tokyo
 
@@ -893,7 +895,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 
 - **Restaurante Palomeque** — Tapas — 8.5
 
-## Want to try (192)
+## Want to try (198)
 
 ### Singapore
 
@@ -1030,6 +1032,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 
 ### Overseas
 
+- **AKKEE** ★ — Thai
 - **Ala Dakshinapuramlo** — South Indian
 - **Angler** — Seafood
 - **Argo** — Bar / Cocktails
@@ -1052,6 +1055,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **G.O.D** — Bar / Cocktails
 - **Ginza Ukai-tei** — Teppanyaki
 - **Gokan** — Bar / Cocktails
+- **Gokfayuen** Bib — Chinese Noodles
 - **Gong Gan** — Bar / Cocktails
 - **Hashikatsu Tonkatsu Ginza** — Tonkatsu
 - **Hock kee** — Café
@@ -1064,6 +1068,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **La Taqueria** — Mexican
 - **Lennon's** — Bar / Cocktails
 - **M+MS Bar** — Bar / Cocktails
+- **MaeThum Padthai** Bib — Thai
 - **Mahaniyom Cocktail Bar** — Bar / Cocktails
 - **Maltail** — Bar / Cocktails
 - **Maruya Honten - Ginza Glasse** — Unagi
@@ -1076,10 +1081,13 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Penrose** — Bar / Cocktails
 - **Punch Room Tokyo** — Bar / Cocktails
 - **Reka** — Bar / Cocktails
+- **Rue Poh Seafood** Bib — Seafood
 - **Somssi** — 
+- **Taang** — Thai
 - **Tadich Grill** — Seafood
 - **Tell Camellia** — Bar / Cocktails
 - **Terumi** — Bar
+- **THARN** ★ — Thai
 - **The Bellwood** — Bar / Cocktails
 - **The Golden Tooth** — Bar / Cocktails
 - **The Han-Jia** — Bar / Cocktails
@@ -1182,7 +1190,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 | 9 | Revolver | Indian | Tanjong Pagar |
 | 9 | Roast Paradise | Char Siew/Duck | East Coast |
 | 9 | Sri Trat | Thai | Bangkok |
-| 9 | Sushi Masato ★ ♥ | Japanese | Bangkok |
+| 9 | Sushi Masato ♥ | Japanese | Bangkok |
 | 9 | T+T ★ | Modern Taiwanese | Taipei |
 | 9 | Tonkatsu KATSU Hana ★ ♥ | Tonkatsu | Osaka |
 | 9 | Ushidoki Wagyu Kaiseki | Japanese Wagyu | Tanjong Pagar |
