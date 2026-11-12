@@ -1,6 +1,6 @@
 # Jin's Dining List — snapshot 2026-11-12
 
-_Auto-exported from Supabase, refreshed nightly. 466 visited · 198 to try · 8.1 avg · 754 total._
+_Auto-exported from Supabase, refreshed nightly. 467 visited · 198 to try · 8.1 avg · 755 total._
 
 Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · ♥ = would return / favourite · [closed] = permanently closed.
 
@@ -502,6 +502,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 ### Outram
 
 - **Henri** ♥ — French — 8.5
+- **Kulto** — Spanish — 8
 - **Nesuto** — Café — 8
 
 ### Sentosa
