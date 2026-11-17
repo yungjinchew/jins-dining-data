@@ -1,6 +1,6 @@
-# Jin's Dining List — snapshot 2026-11-15
+# Jin's Dining List — snapshot 2026-11-17
 
-_Auto-exported from Supabase, refreshed nightly. 467 visited · 198 to try · 8.1 avg · 755 total._
+_Auto-exported from Supabase, refreshed nightly. 467 visited · 204 to try · 8.1 avg · 761 total._
 
 Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · ♥ = would return / favourite · [closed] = permanently closed.
 
@@ -8,13 +8,13 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 
 ### Singapore
 
-- **Odette** ♥ — Fine Dining — 9.8
-- **Seroja** ★ ♥ — Mod Singaporean/Malayan — 9.8
+- **Odette** ★★★ ♥ — Fine Dining — 9.8
+- **Seroja** ★★ ♥ — Mod Singaporean/Malayan — 9.8
 - **Estiatorio Milos** ♥ — Greek — 9.5
 - **Hachi** ♥ — Japanese Omakase — 9.5
 - **Hamamoto** ★ ♥ — Japanese — 9.5
 - **Ma Cuisine** ★ ♥ — French Wine Bar — 9.5
-- **Sushi Kimura Plus** ♥ — Japanese — 9.5
+- **Sushi Kimura Plus** ★ ♥ — Japanese — 9.5
 - **La Bottega Enoteca** ♥ — Pizza/Italian — 9.2
 - **Hearth** ♥ — Izakaya — 9.1
 - **Black Pearl** ♥ — Chinese Yue — 9
@@ -63,7 +63,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 
 ### Bugis
 
-- **Seroja** ★ ♥ — Mod Singaporean/Malayan — 9.8
+- **Seroja** ★★ ♥ — Mod Singaporean/Malayan — 9.8
 - **Jyu Gae** — Taiwanese — 8.5
 - **Artichoke** — Middle Eastern/Med — 8
 - *Ginett Restaurant & Wine Bar [closed] — French Bistro — 8*
@@ -73,7 +73,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 
 ### Downtown Core
 
-- **Odette** ♥ — Fine Dining — 9.8
+- **Odette** ★★★ ♥ — Fine Dining — 9.8
 - **Pera turkish** — Turkish — 8.2
 - **Medusa** — Italian — 7.5
 
@@ -96,7 +96,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 ### Orchard
 
 - *Andre [closed] — French — 9.8*
-- **Sushi Kimura Plus** ♥ — Japanese — 9.5
+- **Sushi Kimura Plus** ★ ♥ — Japanese — 9.5
 - **Beni** — French-Japanese — 9
 - **DRIM Korean Steakhouse** — Korean BBQ — 9
 - **Jaan** ★★ — Modern British — 9
@@ -896,12 +896,12 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 
 - **Restaurante Palomeque** — Tapas — 8.5
 
-## Want to try (198)
+## Want to try (204)
 
 ### Singapore
 
 - **1-Alfaro** — Italian
-- **1887 by Andre** — French
+- **1887 by Andre** ★★ — French
 - **27 Degrees West** — Indian
 - **3 meals a day** — 
 - **808** — Asian
@@ -914,6 +914,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Bar kap** — Bar
 - **Bari Bari Grand** — Teppanyaki
 - **Bonding Kitchen** — Peranakan
+- **Boon Keng Road Fish Head Bee Hoon** Bib — Fish Soup
 - **BOP** — Bar / Cocktails
 - **Buona Terra** ★ — Italian
 - **Capasso** — Colombian/Italian
@@ -945,8 +946,8 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **iL Cielo** — Italian
 - **Il Clay** — Italian
 - **IL Giardino** — Italian
+- **Imperial Treasure Fine Teochew Cuisine (ION Orchard)** ★ — Teochew
 - **Imperial Treasure Fine Teochew Cuisine (Marina Bay Sands)** — Chinese
-- **Imperial treasures teochew** — Chinese
 - **Iru den** — Taiwanese
 - **Joong San** — Korean BBQ
 - **Kakushin** — Japanese Omakase
@@ -966,7 +967,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Latido** — Colombian
 - **Les Climats** — Wine Bar
 - **Liora Contemporary Dining** — Modern Korean
-- **Loca niru** — Japanese
+- **Loca niru** ★ — Japanese
 - **Loulou** — French/Wine Bar
 - **Loulouca** — Dessert
 - **Ma Der Kin Khao** — Thai/Lao (Isan)
@@ -989,6 +990,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Pulsii French Bistro** — French
 - **Quenino** — Contemporary Asian
 - **Restaurant Born** ★ — French Chinese
+- **Restaurant JAG** ★ — French
 - **Robata Hikari** — Japanese
 - **Rolls Izakaya** — Japanese
 - **Ronin** — Brunch
@@ -1002,7 +1004,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Scarpetta** — Pasta Bar
 - **Shabestan** — Persian/Iranian
 - **Shirazi** — Persian
-- **Shisen Hanten** — Fusion
+- **Shisen Hanten** ★ — Sichuan
 - **Shoukouwa** ★★ — Japanese Omakase
 - **Side door** — Café
 - **Sio Pasta** — Japanese Pasta
@@ -1012,11 +1014,14 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Steak Sudaku** — Japanese Steak
 - **Supernova** — Cafe
 - **Sushi Hare** — Japanese Omakase
+- **Sushi Ichi** ★ — Japanese Omakase
+- **Sushi Sakuta** ★★ — Japanese Omakase
 - **Sushidan** — Sushi
 - **Suzuki** — Japanese Kaiseki
 - **Takahashi** — Japanese Omakase
 - **Tamba** — West African
 - **Tembusu Dining House** — Mod Singaporean
+- **Tenshima** ★ — Japanese Tempura
 - **The Champagnery** — Champagne Bar
 - **The Elephant Room** — Bar / Cocktails
 - **THEHANOK** — Korean BBQ
@@ -1029,6 +1034,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 - **Whitegrass** ★ — French Japanese
 - **Whuchu Korean Dining** — Korean
 - **Wildcard** — Wine Bar
+- **Xiangyee Hunan Cuisine** Bib — Hunanese
 - **Yakiniku Heijoen** — Yakiniku
 
 ### Overseas
@@ -1110,9 +1116,9 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 | 9.8 | Baan Tepa Culinary Space ★★ ♥ | Thai | Bangkok |
 | 9.8 | Crony ★★ ♥ | French | Tokyo |
 | 9.8 | Nawa Thai Cuisine ★ ♥ | Thai | Bangkok |
-| 9.8 | Odette ♥ | Fine Dining | Downtown Core |
+| 9.8 | Odette ★★★ ♥ | Fine Dining | Downtown Core |
 | 9.8 | Poise | European/Nordic | Keong Saik |
-| 9.8 | Seroja ★ ♥ | Mod Singaporean/Malayan | Bugis |
+| 9.8 | Seroja ★★ ♥ | Mod Singaporean/Malayan | Bugis |
 | 9.7 | Pangium ★ | Peranakan | Botanic Gardens |
 | 9.6 | Euphoria | Modern European | Tanjong Pagar |
 | 9.6 | Sommer | Modern European | CBD |
@@ -1129,7 +1135,7 @@ Legend: **My /10** = personal score · ★/★★/★★★ = Michelin stars · 
 | 9.5 | Ma Cuisine ★ ♥ | French Wine Bar | CBD |
 | 9.5 | Meta ★★ | French-Asian | Keong Saik |
 | 9.5 | Sühring ★★★ | German | Bangkok |
-| 9.5 | Sushi Kimura Plus ♥ | Japanese | Orchard |
+| 9.5 | Sushi Kimura Plus ★ ♥ | Japanese | Orchard |
 | 9.5 | Thevar ★★ | Indian | Keong Saik |
 | 9.5 | Vender Bar ♥ | Bar / Cocktails | Taichung |
 | 9.5 | 鲨 野村 のむら (Sushi Nomura) ♥ | Japanese Sushi | Taipei |

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-15T22:38:38.315Z",
+  "generated_at": "2026-11-17T01:45:04.000Z",
   "source": "Supabase (restaurants)",
   "summary": {
     "visited": 467,
-    "want_to_try": 198,
+    "want_to_try": 204,
     "avg_rating": 8.1,
-    "total": 755
+    "total": 761
   },
   "restaurants": [
     {
@@ -279,6 +279,21 @@
       "favourite": true
     },
     {
+      "name": "Sushi Kimura Plus",
+      "cuisine": "Japanese",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Orchard",
+      "rating": 9.5,
+      "status": "visited",
+      "michelin_type": "star",
+      "michelin_stars": 1,
+      "michelin_verified": true,
+      "google_rating": 4.8,
+      "price_level": 4,
+      "favourite": true
+    },
+    {
       "name": "Gyukatsu Kyoto Katsugyu",
       "cuisine": "Japanese Katsu",
       "country": "Singapore",
@@ -384,6 +399,21 @@
       "favourite": false
     },
     {
+      "name": "Odette",
+      "cuisine": "Fine Dining",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Downtown Core",
+      "rating": 9.8,
+      "status": "visited",
+      "michelin_type": "star",
+      "michelin_stars": 3,
+      "michelin_verified": true,
+      "google_rating": 4.7,
+      "price_level": 4,
+      "favourite": true
+    },
+    {
       "name": "Catfish",
       "cuisine": "Seafood",
       "country": "Singapore",
@@ -412,21 +442,6 @@
       "google_rating": 4.6,
       "price_level": 4,
       "favourite": false
-    },
-    {
-      "name": "Odette",
-      "cuisine": "Fine Dining",
-      "country": "Singapore",
-      "city": "Singapore",
-      "area": "Downtown Core",
-      "rating": 9.8,
-      "status": "visited",
-      "michelin_type": "star",
-      "michelin_stars": 3,
-      "michelin_verified": false,
-      "google_rating": 4.7,
-      "price_level": 4,
-      "favourite": true
     },
     {
       "name": "Pamplemousse",
@@ -3261,21 +3276,6 @@
       "michelin_verified": false,
       "google_rating": 4.7,
       "price_level": null,
-      "favourite": false
-    },
-    {
-      "name": "1887 by Andre",
-      "cuisine": "French",
-      "country": "Singapore",
-      "city": "Singapore",
-      "area": "Downtown Core",
-      "rating": null,
-      "status": "want-to-try",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 3.7,
-      "price_level": 4,
       "favourite": false
     },
     {
@@ -6984,6 +6984,21 @@
       "favourite": false
     },
     {
+      "name": "Imperial Treasure Fine Teochew Cuisine (ION Orchard)",
+      "cuisine": "Teochew",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Orchard",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": "star",
+      "michelin_stars": 1,
+      "michelin_verified": true,
+      "google_rating": 4.3,
+      "price_level": 4,
+      "favourite": false
+    },
+    {
       "name": "Chui huay lim",
       "cuisine": "Chinese",
       "country": "Singapore",
@@ -6995,21 +7010,6 @@
       "michelin_stars": 0,
       "michelin_verified": false,
       "google_rating": 4.5,
-      "price_level": 4,
-      "favourite": false
-    },
-    {
-      "name": "Imperial treasures teochew",
-      "cuisine": "Chinese",
-      "country": "Singapore",
-      "city": "Singapore",
-      "area": "Orchard",
-      "rating": null,
-      "status": "want-to-try",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 4.3,
       "price_level": 4,
       "favourite": false
     },
@@ -7269,6 +7269,21 @@
       "favourite": false
     },
     {
+      "name": "Shisen Hanten",
+      "cuisine": "Sichuan",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Orchard",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": "star",
+      "michelin_stars": 1,
+      "michelin_verified": true,
+      "google_rating": 4.8,
+      "price_level": 4,
+      "favourite": false
+    },
+    {
       "name": "Yong He Soya Milk King (永和豆漿大王)",
       "cuisine": "Taiwanese Breakfast",
       "country": "Taiwan",
@@ -7296,21 +7311,6 @@
       "michelin_verified": false,
       "google_rating": 4.5,
       "price_level": 1,
-      "favourite": false
-    },
-    {
-      "name": "Shisen Hanten",
-      "cuisine": "Fusion",
-      "country": "Singapore",
-      "city": "Singapore",
-      "area": "Orchard",
-      "rating": null,
-      "status": "want-to-try",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 4.8,
-      "price_level": 4,
       "favourite": false
     },
     {
@@ -8769,21 +8769,6 @@
       "favourite": false
     },
     {
-      "name": "Seroja",
-      "cuisine": "Mod Singaporean/Malayan",
-      "country": "Singapore",
-      "city": "Singapore",
-      "area": "Bugis",
-      "rating": 9.8,
-      "status": "visited",
-      "michelin_type": "star",
-      "michelin_stars": 1,
-      "michelin_verified": true,
-      "google_rating": 4.7,
-      "price_level": 4,
-      "favourite": true
-    },
-    {
       "name": "Caruso",
       "cuisine": "Italian",
       "country": "Singapore",
@@ -8842,6 +8827,21 @@
       "google_rating": 4.5,
       "price_level": 2,
       "favourite": false
+    },
+    {
+      "name": "Seroja",
+      "cuisine": "Mod Singaporean/Malayan",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Bugis",
+      "rating": 9.8,
+      "status": "visited",
+      "michelin_type": "star",
+      "michelin_stars": 2,
+      "michelin_verified": true,
+      "google_rating": 4.7,
+      "price_level": 4,
+      "favourite": true
     },
     {
       "name": "Tonshou",
@@ -9759,21 +9759,6 @@
       "favourite": false
     },
     {
-      "name": "Loca niru",
-      "cuisine": "Japanese",
-      "country": "Singapore",
-      "city": "Singapore",
-      "area": "Museum",
-      "rating": null,
-      "status": "want-to-try",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 4.8,
-      "price_level": 4,
-      "favourite": false
-    },
-    {
       "name": "Ibid",
       "cuisine": "Mod Singaporean",
       "country": "Singapore",
@@ -9830,6 +9815,21 @@
       "michelin_stars": 0,
       "michelin_verified": true,
       "google_rating": 4.5,
+      "price_level": 4,
+      "favourite": false
+    },
+    {
+      "name": "Loca niru",
+      "cuisine": "Japanese",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Museum",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": "star",
+      "michelin_stars": 1,
+      "michelin_verified": true,
+      "google_rating": 4.8,
       "price_level": 4,
       "favourite": false
     },
@@ -10177,21 +10177,6 @@
       "google_rating": 4.9,
       "price_level": null,
       "favourite": false
-    },
-    {
-      "name": "Sushi Kimura Plus",
-      "cuisine": "Japanese",
-      "country": "Singapore",
-      "city": "Singapore",
-      "area": "Orchard",
-      "rating": 9.5,
-      "status": "visited",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 4.8,
-      "price_level": 4,
-      "favourite": true
     },
     {
       "name": "L'antica Pizzeria Da Michele",
@@ -11331,6 +11316,111 @@
       "michelin_verified": false,
       "google_rating": 4.6,
       "price_level": 1,
+      "favourite": false
+    },
+    {
+      "name": "Sushi Sakuta",
+      "cuisine": "Japanese Omakase",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Millenia Walk",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": "star",
+      "michelin_stars": 2,
+      "michelin_verified": true,
+      "google_rating": 4.8,
+      "price_level": 4,
+      "favourite": false
+    },
+    {
+      "name": "Restaurant JAG",
+      "cuisine": "French",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Robertson Quay",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": "star",
+      "michelin_stars": 1,
+      "michelin_verified": true,
+      "google_rating": 4.8,
+      "price_level": 4,
+      "favourite": false
+    },
+    {
+      "name": "Tenshima",
+      "cuisine": "Japanese Tempura",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Millenia Walk",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": "star",
+      "michelin_stars": 1,
+      "michelin_verified": true,
+      "google_rating": 4.9,
+      "price_level": 4,
+      "favourite": false
+    },
+    {
+      "name": "Sushi Ichi",
+      "cuisine": "Japanese Omakase",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Orchard",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": "star",
+      "michelin_stars": 1,
+      "michelin_verified": true,
+      "google_rating": 4.6,
+      "price_level": 4,
+      "favourite": false
+    },
+    {
+      "name": "Xiangyee Hunan Cuisine",
+      "cuisine": "Hunanese",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Killiney",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": "bib_gourmand",
+      "michelin_stars": 0,
+      "michelin_verified": true,
+      "google_rating": 4.4,
+      "price_level": 2,
+      "favourite": false
+    },
+    {
+      "name": "Boon Keng Road Fish Head Bee Hoon",
+      "cuisine": "Fish Soup",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Bedok",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": "bib_gourmand",
+      "michelin_stars": 0,
+      "michelin_verified": true,
+      "google_rating": 4.3,
+      "price_level": 1,
+      "favourite": false
+    },
+    {
+      "name": "1887 by Andre",
+      "cuisine": "French",
+      "country": "Singapore",
+      "city": "Singapore",
+      "area": "Downtown Core",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": "star",
+      "michelin_stars": 2,
+      "michelin_verified": true,
+      "google_rating": 3.7,
+      "price_level": 4,
       "favourite": false
     }
   ]
