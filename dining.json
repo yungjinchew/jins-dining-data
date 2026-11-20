@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T00:26:28.555Z",
+  "generated_at": "2026-11-20T23:49:47.105Z",
   "source": "Supabase (restaurants)",
   "summary": {
     "visited": 467,
@@ -562,6 +562,21 @@
       "google_rating": 4.7,
       "price_level": 3,
       "favourite": true
+    },
+    {
+      "name": "Atomix",
+      "cuisine": "Korean",
+      "country": "USA",
+      "city": "New York",
+      "area": "Manhattan",
+      "rating": null,
+      "status": "want-to-try",
+      "michelin_type": "star",
+      "michelin_stars": 2,
+      "michelin_verified": false,
+      "google_rating": 4.6,
+      "price_level": 4,
+      "favourite": false
     },
     {
       "name": "Foon Kin",
@@ -7236,21 +7251,6 @@
       "michelin_verified": false,
       "google_rating": 4.2,
       "price_level": 2,
-      "favourite": false
-    },
-    {
-      "name": "Atomix",
-      "cuisine": "Korean",
-      "country": "USA",
-      "city": "New York",
-      "area": "Manhattan",
-      "rating": null,
-      "status": "want-to-try",
-      "michelin_type": null,
-      "michelin_stars": 0,
-      "michelin_verified": false,
-      "google_rating": 4.6,
-      "price_level": 4,
       "favourite": false
     },
     {
